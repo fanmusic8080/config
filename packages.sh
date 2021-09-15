@@ -1,2375 +1,2375 @@
-sudo pacman -S 0ad
-sudo pacman -S 0ad-data
-sudo pacman -S a52dec
-sudo pacman -S aalib
-sudo pacman -S abseil-cpp
-sudo pacman -S accounts-qml-module
-sudo pacman -S accountsservice
-sudo pacman -S acl
-sudo pacman -S acorn
-sudo pacman -S acpi
-sudo pacman -S acpi_call-lts
-sudo pacman -S acpilight
-sudo pacman -S acpitool
-sudo pacman -S adapta-gtk-theme
-sudo pacman -S adobe-source-code-pro-fonts
-sudo pacman -S adobe-source-han-mono-cn-fonts
-sudo pacman -S adobe-source-han-sans-cn-fonts
-sudo pacman -S adobe-source-han-sans-otc-fonts
-sudo pacman -S adobe-source-han-serif-cn-fonts
-sudo pacman -S adwaita-icon-theme
-sudo pacman -S aegisub
-sudo pacman -S akonadi
-sudo pacman -S akonadi-calendar
-sudo pacman -S akonadi-calendar-tools
-sudo pacman -S akonadi-contacts
-sudo pacman -S akonadi-import-wizard
-sudo pacman -S akonadi-mime
-sudo pacman -S akonadi-notes
-sudo pacman -S akonadi-search
-sudo pacman -S akonadiconsole
-sudo pacman -S akregator
-sudo pacman -S alacritty
-sudo pacman -S alembic
-sudo pacman -S alpm_octopi_utils
-sudo pacman -S alsa-card-profiles
-sudo pacman -S alsa-firmware
-sudo pacman -S alsa-lib
-sudo pacman -S alsa-oss
-sudo pacman -S alsa-plugins
-sudo pacman -S alsa-tools
-sudo pacman -S alsa-topology-conf
-sudo pacman -S alsa-ucm-conf
-sudo pacman -S alsa-utils
-sudo pacman -S amd-ucode
-sudo pacman -S amdvlk
-sudo pacman -S amtk
-sudo pacman -S analitza
-sudo pacman -S android-tools
-sudo pacman -S android-udev
-sudo pacman -S anthy
-sudo pacman -S anydesk-bin
-sudo pacman -S aom
-sudo pacman -S apache
-sudo pacman -S appstream
-sudo pacman -S appstream-glib
-sudo pacman -S appstream-qt
-sudo pacman -S apr
-sudo pacman -S apr-util
-sudo pacman -S arandr
-sudo pacman -S arc-icon-theme
-sudo pacman -S archlinux-appstream-data
-sudo pacman -S archlinux-keyring
-sudo pacman -S archlinuxcn-keyring
-sudo pacman -S arctime
-sudo pacman -S ardour
-sudo pacman -S arduino
-sudo pacman -S arduino-avr-core
-sudo pacman -S arduino-builder
-sudo pacman -S arduino-ctags
-sudo pacman -S arduino-docs
-sudo pacman -S argon2
-sudo pacman -S aria2
-sudo pacman -S aribb24
-sudo pacman -S ark
-sudo pacman -S artikulate
-sudo pacman -S asciinema
-sudo pacman -S asio
-sudo pacman -S asp
-sudo pacman -S aspell
-sudo pacman -S at-spi2-atk
-sudo pacman -S at-spi2-core
-sudo pacman -S atk
-sudo pacman -S atkmm
-sudo pacman -S atop
-sudo pacman -S attica
-sudo pacman -S attr
-sudo pacman -S aubio
-sudo pacman -S audacity
-sudo pacman -S audiocd-kio
-sudo pacman -S audiofile
-sudo pacman -S audit
-sudo pacman -S autoconf
-sudo pacman -S autoconf-archive
-sudo pacman -S automake
-sudo pacman -S avahi
-sudo pacman -S avogadro-crystals
-sudo pacman -S avogadro-molecules
-sudo pacman -S avogadrolibs
-sudo pacman -S avr-binutils
-sudo pacman -S avr-gcc
-sudo pacman -S avr-libc
-sudo pacman -S avrdude
-sudo pacman -S awesome-terminal-fonts
-sudo pacman -S axel
-sudo pacman -S babl
-sudo pacman -S baloo
-sudo pacman -S baloo-widgets
-sudo pacman -S base
-sudo pacman -S bash
-sudo pacman -S bash-completion
-sudo pacman -S bash-language-server
-sudo pacman -S bashtop
-sudo pacman -S bat
-sudo pacman -S bc
-sudo pacman -S bdf-unifont
-sudo pacman -S bilibili-live-helper-bin
-sudo pacman -S binutils
-sudo pacman -S bison
-sudo pacman -S black-hole-solver
-sudo pacman -S blas
-sudo pacman -S blender
-sudo pacman -S blinken
-sudo pacman -S blosc
-sudo pacman -S bluedevil
-sudo pacman -S bluez
-sudo pacman -S bluez-libs
-sudo pacman -S bluez-qt
-sudo pacman -S bolt
-sudo pacman -S bomber
-sudo pacman -S boost
-sudo pacman -S boost-libs
-sudo pacman -S bovo
-sudo pacman -S box2d
-sudo pacman -S breeze
-sudo pacman -S breeze-gtk
-sudo pacman -S breeze-icons
-sudo pacman -S bridge-utils
-sudo pacman -S brltty
-sudo pacman -S brotli
-sudo pacman -S btrfs-progs
-sudo pacman -S bubblewrap
-sudo pacman -S bullet
-sudo pacman -S bzip2
-sudo pacman -S c-ares
-sudo pacman -S ca-certificates
-sudo pacman -S ca-certificates-mozilla
-sudo pacman -S ca-certificates-utils
-sudo pacman -S cabextract
-sudo pacman -S cairo
-sudo pacman -S cairomm
-sudo pacman -S calendarsupport
-sudo pacman -S cantarell-fonts
-sudo pacman -S cantor
-sudo pacman -S capnproto
-sudo pacman -S catimg
-sudo pacman -S cblas
-sudo pacman -S ccls
-sudo pacman -S cdparanoia
-sudo pacman -S cdrtools
-sudo pacman -S celt
-sudo pacman -S ceph-libs
-sudo pacman -S cervisia
-sudo pacman -S cfitsio
-sudo pacman -S cheese
-sudo pacman -S chromaprint
-sudo pacman -S chrpath
-sudo pacman -S cifs-utils
-sudo pacman -S clang
-sudo pacman -S clucene
-sudo pacman -S clutter
-sudo pacman -S clutter-gst
-sudo pacman -S clutter-gtk
-sudo pacman -S cmake
-sudo pacman -S cmatrix
-sudo pacman -S cogl
-sudo pacman -S colord
-sudo pacman -S com.qq.im.deepin
-sudo pacman -S com.qq.tim.spark
-sudo pacman -S compiler-rt
-sudo pacman -S confuse
-sudo pacman -S containerd
-sudo pacman -S convertlit
-sudo pacman -S coordgen
-sudo pacman -S coreutils
-sudo pacman -S cowsay
-sudo pacman -S cpio
-sudo pacman -S cpupower
-sudo pacman -S crda
-sudo pacman -S cronie
-sudo pacman -S cryptsetup
-sudo pacman -S ctags
-sudo pacman -S cups
-sudo pacman -S cups-filters
-sudo pacman -S curl
-sudo pacman -S dav1d
-sudo pacman -S davfs2
-sudo pacman -S db
-sudo pacman -S dbus
-sudo pacman -S dbus-glib
-sudo pacman -S dbus-python
-sudo pacman -S dconf
-sudo pacman -S ddcutil
-sudo pacman -S debtap
-sudo pacman -S deepin-udis86
-sudo pacman -S deepin-wine-helper
-sudo pacman -S deepin-wine-plugin
-sudo pacman -S deepin-wine-plugin-virtual
-sudo pacman -S deepin-wine5
-sudo pacman -S deepin-wine5-i386
-sudo pacman -S deepin.com.qq.im.light
-sudo pacman -S desktop-file-utils
-sudo pacman -S device-mapper
-sudo pacman -S dhcp
-sudo pacman -S dhcpcd
-sudo pacman -S diffutils
-sudo pacman -S discord
-sudo pacman -S discount
-sudo pacman -S discover
-sudo pacman -S distorm
-sudo pacman -S djvulibre
-sudo pacman -S dkms
-sudo pacman -S dmenu
-sudo pacman -S dmidecode
-sudo pacman -S dmraid
-sudo pacman -S dnsmasq
-sudo pacman -S dnssec-anchors
-sudo pacman -S docbook-xml
-sudo pacman -S docbook-xsl
-sudo pacman -S docker
-sudo pacman -S dolphin
-sudo pacman -S dolphin-plugins
-sudo pacman -S dosbox
-sudo pacman -S dosfstools
-sudo pacman -S dotnet-host
-sudo pacman -S dotnet-runtime
-sudo pacman -S dotnet-sdk
-sudo pacman -S dotnet-targeting-pack
-sudo pacman -S double-conversion
-sudo pacman -S doxygen
-sudo pacman -S drkonqi
-sudo pacman -S droidcam
-sudo pacman -S dtc
-sudo pacman -S dune
-sudo pacman -S dvdauthor
-sudo pacman -S dvgrab
-sudo pacman -S e2fsprogs
-sudo pacman -S ebook-tools
-sudo pacman -S eclipse-ecj
-sudo pacman -S eclipse-emf
-sudo pacman -S eclipse-platform
-sudo pacman -S editorconfig-core-c
-sudo pacman -S edk2-ovmf
-sudo pacman -S efibootmgr
-sudo pacman -S efivar
-sudo pacman -S egl-wayland
-sudo pacman -S eglexternalplatform
-sudo pacman -S electron
-sudo pacman -S electron-netease-cloud-music
-sudo pacman -S elementary-icon-theme
-sudo pacman -S elfutils
-sudo pacman -S elisa
-sudo pacman -S emacs-ctable
-sudo pacman -S emacs-deferred
-sudo pacman -S emacs-epc
-sudo pacman -S emacs-git
-sudo pacman -S embree
-sudo pacman -S enca
-sudo pacman -S enchant
-sudo pacman -S enet
-sudo pacman -S epherome
-sudo pacman -S esp8266-nonos-sdk
-sudo pacman -S esptool
-sudo pacman -S ethtool
-sudo pacman -S eventviews
-sudo pacman -S exa
-sudo pacman -S exempi
-sudo pacman -S exfatprogs
-sudo pacman -S exiv2
-sudo pacman -S expat
-sudo pacman -S extra-cmake-modules
-sudo pacman -S f2fs-tools
-sudo pacman -S faac
-sudo pacman -S faad2
-sudo pacman -S fail2ban
-sudo pacman -S fakeroot
-sudo pacman -S farstream
-sudo pacman -S faudio
-sudo pacman -S fcitx5
-sudo pacman -S fcitx5-anthy
-sudo pacman -S fcitx5-breeze
-sudo pacman -S fcitx5-chewing
-sudo pacman -S fcitx5-chinese-addons
-sudo pacman -S fcitx5-configtool
-sudo pacman -S fcitx5-gtk
-sudo pacman -S fcitx5-material-color
-sudo pacman -S fcitx5-pinyin-moegirl
-sudo pacman -S fcitx5-pinyin-zhwiki
-sudo pacman -S fcitx5-qt
-sudo pacman -S fcitx5-rime
-sudo pacman -S fd
-sudo pacman -S feh
-sudo pacman -S ffmpeg
-sudo pacman -S ffmpegthumbs
-sudo pacman -S ffms2
-sudo pacman -S ffnvcodec-headers
-sudo pacman -S fftw
-sudo pacman -S figlet
-sudo pacman -S file
-sudo pacman -S filebrowser-bin
-sudo pacman -S filelight
-sudo pacman -S filesystem
-sudo pacman -S findutils
-sudo pacman -S fingerprint-gui
-sudo pacman -S firefox
-sudo pacman -S firewalld
-sudo pacman -S flac
-sudo pacman -S flameshot
-sudo pacman -S flatpak
-sudo pacman -S flex
-sudo pacman -S flite
-sudo pacman -S fltk
-sudo pacman -S fluidsynth
-sudo pacman -S fmt
-sudo pacman -S fontconfig
-sudo pacman -S fpc
-sudo pacman -S fpc-src
-sudo pacman -S fprintd
-sudo pacman -S frameworkintegration
-sudo pacman -S freecell-solver
-sudo pacman -S freeglut
-sudo pacman -S freeimage
-sudo pacman -S freerdp
-sudo pacman -S freetype2
-sudo pacman -S frei0r-plugins
-sudo pacman -S fribidi
-sudo pacman -S frpc
-sudo pacman -S fstrm
-sudo pacman -S fuckmemory
-sudo pacman -S fuse-common
-sudo pacman -S fuse2
-sudo pacman -S fuse3
-sudo pacman -S fzf
-sudo pacman -S gamemode
-sudo pacman -S gavl
-sudo pacman -S gawk
-sudo pacman -S gc
-sudo pacman -S gcab
-sudo pacman -S gcc
-sudo pacman -S gcc-libs
-sudo pacman -S gconf
-sudo pacman -S gcr
-sudo pacman -S gd
-sudo pacman -S gdb
-sudo pacman -S gdb-common
-sudo pacman -S gdbm
-sudo pacman -S gdk-pixbuf2
-sudo pacman -S gdl
-sudo pacman -S gedit
-sudo pacman -S gegl
-sudo pacman -S geoclue
-sudo pacman -S geocode-glib
-sudo pacman -S geoip
-sudo pacman -S geoip-database
-sudo pacman -S gettext
-sudo pacman -S gflags
-sudo pacman -S ghostpcl
-sudo pacman -S ghostscript
-sudo pacman -S ghostxps
-sudo pacman -S giblib
-sudo pacman -S giflib
-sudo pacman -S gimp
-sudo pacman -S git
-sudo pacman -S git-delta-git
-sudo pacman -S git-lfs
-sudo pacman -S github-cli
-sudo pacman -S gl2ps
-sudo pacman -S glew
-sudo pacman -S glew1.10
-sudo pacman -S glfw-wayland
-sudo pacman -S glib-networking
-sudo pacman -S glib2
-sudo pacman -S glib2-docs
-sudo pacman -S glibc
-sudo pacman -S glibmm
-sudo pacman -S glm
-sudo pacman -S gloox
-sudo pacman -S glslang
-sudo pacman -S glu
-sudo pacman -S glusterfs
-sudo pacman -S gmp
-sudo pacman -S gn-m85
-sudo pacman -S gnome-autoar
-sudo pacman -S gnome-common
-sudo pacman -S gnome-desktop
-sudo pacman -S gnome-icon-theme
-sudo pacman -S gnome-icon-theme-symbolic
-sudo pacman -S gnome-video-effects
-sudo pacman -S gnugo
-sudo pacman -S gnupg
-sudo pacman -S gnutls
-sudo pacman -S go
-sudo pacman -S gobject-introspection
-sudo pacman -S gobject-introspection-runtime
-sudo pacman -S godot
-sudo pacman -S google-chrome
-sudo pacman -S google-glog
-sudo pacman -S gopls
-sudo pacman -S goverlay
-sudo pacman -S gpart
-sudo pacman -S gparted
-sudo pacman -S gperf
-sudo pacman -S gperftools
-sudo pacman -S gpgme
-sudo pacman -S gpm
-sudo pacman -S gptfdisk
-sudo pacman -S gradle
-sudo pacman -S gradle-src
-sudo pacman -S granatier
-sudo pacman -S grantlee
-sudo pacman -S grantlee-editor
-sudo pacman -S grantleetheme
-sudo pacman -S graphene
-sudo pacman -S graphicsmagick
-sudo pacman -S graphite
-sudo pacman -S graphviz
-sudo pacman -S grep
-sudo pacman -S groff
-sudo pacman -S groovy
-sudo pacman -S grpc
-sudo pacman -S grpc-cli
-sudo pacman -S grub
-sudo pacman -S grub-customizer
-sudo pacman -S gsettings-desktop-schemas
-sudo pacman -S gsfonts
-sudo pacman -S gsl
-sudo pacman -S gsm
-sudo pacman -S gsmartcontrol
-sudo pacman -S gspell
-sudo pacman -S gssdp
-sudo pacman -S gst-libav
-sudo pacman -S gst-plugins-bad
-sudo pacman -S gst-plugins-bad-libs
-sudo pacman -S gst-plugins-base
-sudo pacman -S gst-plugins-base-libs
-sudo pacman -S gst-plugins-good
-sudo pacman -S gstreamer
-sudo pacman -S gtest
-sudo pacman -S gtk-doc
-sudo pacman -S gtk-update-icon-cache
-sudo pacman -S gtk-vnc
-sudo pacman -S gtk2
-sudo pacman -S gtk3
-sudo pacman -S gtk4
-sudo pacman -S gtkglext
-sudo pacman -S gtkmm
-sudo pacman -S gtkmm3
-sudo pacman -S gtksourceview4
-sudo pacman -S gtkspell3
-sudo pacman -S gtop
-sudo pacman -S gts
-sudo pacman -S guile
-sudo pacman -S gumbo-parser
-sudo pacman -S gupnp
-sudo pacman -S gupnp-dlna
-sudo pacman -S gupnp-igd
-sudo pacman -S gv
-sudo pacman -S gvfs
-sudo pacman -S gwenview
-sudo pacman -S gzip
-sudo pacman -S harfbuzz
-sudo pacman -S harfbuzz-icu
-sudo pacman -S harvid
-sudo pacman -S hdf5
-sudo pacman -S hdparm
-sudo pacman -S help2man
-sudo pacman -S hicolor-icon-theme
-sudo pacman -S hidapi
-sudo pacman -S hiredis
-sudo pacman -S hmcl
-sudo pacman -S howdy
-sudo pacman -S htop
-sudo pacman -S http-parser
-sudo pacman -S hugo
-sudo pacman -S hunspell
-sudo pacman -S hwids
-sudo pacman -S hwinfo
-sudo pacman -S hwloc
-sudo pacman -S hyphen
-sudo pacman -S i2c-tools
-sudo pacman -S i3lock-color-git
-sudo pacman -S r774.a318ff3-1
-sudo pacman -S iana-etc
-sudo pacman -S ibam
-sudo pacman -S icoutils
-sudo pacman -S icu
-sudo pacman -S id3lib
-sudo pacman -S ijs
-sudo pacman -S imagemagick
-sudo pacman -S imath
-sudo pacman -S imlib2
-sudo pacman -S incidenceeditor
-sudo pacman -S iniparser
-sudo pacman -S inkscape
-sudo pacman -S intellij-idea-community-edition
-sudo pacman -S intltool
-sudo pacman -S iproute2
-sudo pacman -S iptables-nft
-sudo pacman -S iputils
-sudo pacman -S ipython
-sudo pacman -S iso-codes
-sudo pacman -S itinerary
-sudo pacman -S itstool
-sudo pacman -S iw
-sudo pacman -S jack2
-sudo pacman -S jack2-dbus
-sudo pacman -S jack_capture
-sudo pacman -S jack_delay
-sudo pacman -S jack_mixer
-sudo pacman -S jack_utils
-sudo pacman -S jansson
-sudo pacman -S jasper
-sudo pacman -S java-environment-common
-sudo pacman -S java-runtime-common
-sudo pacman -S java11-openjfx
-sudo pacman -S java8-openjfx
-sudo pacman -S jbig2dec
-sudo pacman -S jbigkit
-sudo pacman -S jdk-openjdk
-sudo pacman -S jdk11-openjdk
-sudo pacman -S jdk8-openjdk
-sudo pacman -S jemalloc
-sudo pacman -S jfsutils
-sudo pacman -S joe
-sudo pacman -S jq
-sudo pacman -S jre-openjdk
-sudo pacman -S jre-openjdk-headless
-sudo pacman -S jre11-openjdk
-sudo pacman -S jre11-openjdk-headless
-sudo pacman -S jre8-openjdk
-sudo pacman -S jre8-openjdk-headless
-sudo pacman -S js78
-sudo pacman -S json-c
-sudo pacman -S json-glib
-sudo pacman -S jsoncpp
-sudo pacman -S juk
-sudo pacman -S jxrlib
-sudo pacman -S k3b
-sudo pacman -S kaccounts-integration
-sudo pacman -S kaccounts-providers
-sudo pacman -S kactivities
-sudo pacman -S kactivities-stats
-sudo pacman -S kactivitymanagerd
-sudo pacman -S kaddressbook
-sudo pacman -S kajongg
-sudo pacman -S kalarm
-sudo pacman -S kalarmcal
-sudo pacman -S kalgebra
-sudo pacman -S kalzium
-sudo pacman -S kamera
-sudo pacman -S kamoso
-sudo pacman -S kanagram
-sudo pacman -S kapman
-sudo pacman -S kapptemplate
-sudo pacman -S karchive
-sudo pacman -S kate
-sudo pacman -S katomic
-sudo pacman -S kauth
-sudo pacman -S kbackup
-sudo pacman -S kbd
-sudo pacman -S kblackbox
-sudo pacman -S kblocks
-sudo pacman -S kbookmarks
-sudo pacman -S kbounce
-sudo pacman -S kbreakout
-sudo pacman -S kbruch
-sudo pacman -S kcachegrind
-sudo pacman -S kcachegrind-common
-sudo pacman -S kcalc
-sudo pacman -S kcalendarcore
-sudo pacman -S kcalutils
-sudo pacman -S kcharselect
-sudo pacman -S kcmutils
-sudo pacman -S kcodecs
-sudo pacman -S kcolorchooser
-sudo pacman -S kcolorpicker
-sudo pacman -S kcompletion
-sudo pacman -S kconfig
-sudo pacman -S kconfigwidgets
-sudo pacman -S kcontacts
-sudo pacman -S kcoreaddons
-sudo pacman -S kcrash
-sudo pacman -S kcron
-sudo pacman -S kdav
-sudo pacman -S kdbusaddons
-sudo pacman -S kde-cli-tools
-sudo pacman -S kde-dev-scripts
-sudo pacman -S kde-dev-utils
-sudo pacman -S kde-gtk-config
-sudo pacman -S kdebugsettings
-sudo pacman -S kdeclarative
-sudo pacman -S kdeconnect
-sudo pacman -S kdecoration
-sudo pacman -S kded
-sudo pacman -S kdeedu-data
-sudo pacman -S kdegraphics-mobipocket
-sudo pacman -S kdegraphics-thumbnailers
-sudo pacman -S kdelibs4support
-sudo pacman -S kdenetwork-filesharing
-sudo pacman -S kdenlive
-sudo pacman -S kdepim-addons
-sudo pacman -S kdepim-runtime
-sudo pacman -S kdeplasma-addons
-sudo pacman -S kdesdk-kioslaves
-sudo pacman -S kdesdk-thumbnailers
-sudo pacman -S kdesu
-sudo pacman -S kdevelop
-sudo pacman -S kdevelop-php
-sudo pacman -S kdf
-sudo pacman -S kdiagram
-sudo pacman -S kdialog
-sudo pacman -S kdiamond
-sudo pacman -S kdnssd
-sudo pacman -S kdoctools
-sudo pacman -S kdsoap
-sudo pacman -S kdsoap-ws-discovery-client
-sudo pacman -S git20200927-2
-sudo pacman -S keditbookmarks
-sudo pacman -S keepass
-sudo pacman -S keepass-plugin-keeagent
-sudo pacman -S keepassxc
-sudo pacman -S kemoticons
-sudo pacman -S keyutils
-sudo pacman -S kfilemetadata
-sudo pacman -S kfind
-sudo pacman -S kfloppy
-sudo pacman -S kfourinline
-sudo pacman -S kgamma5
-sudo pacman -S kgeography
-sudo pacman -S kget
-sudo pacman -S kglobalaccel
-sudo pacman -S kgoldrunner
-sudo pacman -S kgpg
-sudo pacman -S kguiaddons
-sudo pacman -S khangman
-sudo pacman -S khelpcenter
-sudo pacman -S kholidays
-sudo pacman -S khotkeys
-sudo pacman -S khtml
-sudo pacman -S ki18n
-sudo pacman -S kicad
-sudo pacman -S kicad-library
-sudo pacman -S kicad-library-3d
-sudo pacman -S kiconthemes
-sudo pacman -S kidentitymanagement
-sudo pacman -S kidletime
-sudo pacman -S kig
-sudo pacman -S kigo
-sudo pacman -S killbots
-sudo pacman -S kimageannotator
-sudo pacman -S kimagemapeditor
-sudo pacman -S kimap
-sudo pacman -S kindd
-sudo pacman -S kinfocenter
-sudo pacman -S kinit
-sudo pacman -S kio
-sudo pacman -S kio-extras
-sudo pacman -S kio-fuse
-sudo pacman -S kio-gdrive
-sudo pacman -S kipi-plugins
-sudo pacman -S kirigami-gallery
-sudo pacman -S kirigami2
-sudo pacman -S kiriki
-sudo pacman -S kitemmodels
-sudo pacman -S kitemviews
-sudo pacman -S kiten
-sudo pacman -S kitinerary
-sudo pacman -S kjobwidgets
-sudo pacman -S kjs
-sudo pacman -S kjumpingcube
-sudo pacman -S kldap
-sudo pacman -S kleopatra
-sudo pacman -S klettres
-sudo pacman -S klickety
-sudo pacman -S klines
-sudo pacman -S kmag
-sudo pacman -S kmahjongg
-sudo pacman -S kmail
-sudo pacman -S kmail-account-wizard
-sudo pacman -S kmailtransport
-sudo pacman -S kmbox
-sudo pacman -S kmenuedit
-sudo pacman -S kmime
-sudo pacman -S kmines
-sudo pacman -S kmix
-sudo pacman -S kmod
-sudo pacman -S kmousetool
-sudo pacman -S kmouth
-sudo pacman -S kmplot
-sudo pacman -S knavalbattle
-sudo pacman -S knetwalk
-sudo pacman -S knewstuff
-sudo pacman -S knights
-sudo pacman -S knotes
-sudo pacman -S knotifications
-sudo pacman -S knotifyconfig
-sudo pacman -S kolf
-sudo pacman -S kollision
-sudo pacman -S kolourpaint
-sudo pacman -S kompare
-sudo pacman -S konqueror
-sudo pacman -S konquest
-sudo pacman -S konsole
-sudo pacman -S kontact
-sudo pacman -S kontactinterface
-sudo pacman -S konversation
-sudo pacman -S kopeninghours
-sudo pacman -S kopete
-sudo pacman -S korganizer
-sudo pacman -S kosmindoormap
-sudo pacman -S kotlin
-sudo pacman -S kpackage
-sudo pacman -S kparts
-sudo pacman -S kpat
-sudo pacman -S kpeople
-sudo pacman -S kpeoplevcard
-sudo pacman -S kpimtextedit
-sudo pacman -S kpkpass
-sudo pacman -S kplotting
-sudo pacman -S kpmcore
-sudo pacman -S kpty
-sudo pacman -S kpublictransport
-sudo pacman -S kqtquickcharts
-sudo pacman -S kquickcharts
-sudo pacman -S krb5
-sudo pacman -S krdc
-sudo pacman -S kreversi
-sudo pacman -S krfb
-sudo pacman -S kross
-sudo pacman -S kross-interpreters
-sudo pacman -S kruler
-sudo pacman -S krunner
-sudo pacman -S kscreen
-sudo pacman -S kscreenlocker
-sudo pacman -S kservice
-sudo pacman -S kshisen
-sudo pacman -S ksirk
-sudo pacman -S ksmtp
-sudo pacman -S ksnakeduel
-sudo pacman -S kspaceduel
-sudo pacman -S ksquares
-sudo pacman -S ksshaskpass
-sudo pacman -S ksudoku
-sudo pacman -S ksysguard
-sudo pacman -S ksystemlog
-sudo pacman -S ksystemstats
-sudo pacman -S kteatime
-sudo pacman -S ktexteditor
-sudo pacman -S ktextwidgets
-sudo pacman -S ktimer
-sudo pacman -S ktnef
-sudo pacman -S ktorrent
-sudo pacman -S ktouch
-sudo pacman -S ktuberling
-sudo pacman -S kturtle
-sudo pacman -S kubrick
-sudo pacman -S kunitconversion
-sudo pacman -S kuserfeedback
-sudo pacman -S kwallet
-sudo pacman -S kwallet-pam
-sudo pacman -S kwalletmanager
-sudo pacman -S kwave
-sudo pacman -S kwayland
-sudo pacman -S kwayland-integration
-sudo pacman -S kwayland-server
-sudo pacman -S kwidgetsaddons
-sudo pacman -S kwin
-sudo pacman -S kwindowsystem
-sudo pacman -S kwordquiz
-sudo pacman -S kwrite
-sudo pacman -S kwrited
-sudo pacman -S kxmlgui
-sudo pacman -S l-smash
-sudo pacman -S ladspa
-sudo pacman -S lame
-sudo pacman -S lapack
-sudo pacman -S latte-dock-git
-sudo pacman -S layer-shell-qt
-sudo pacman -S lazarus
-sudo pacman -S lazydocker
-sudo pacman -S lcms2
-sudo pacman -S ldb
-sudo pacman -S ldns
-sudo pacman -S lensfun
-sudo pacman -S less
-sudo pacman -S leveldb
-sudo pacman -S lf
-sudo pacman -S lib2geom
-sudo pacman -S lib32-acl
-sudo pacman -S lib32-alsa-lib
-sudo pacman -S lib32-alsa-plugins
-sudo pacman -S lib32-amdvlk
-sudo pacman -S lib32-at-spi2-atk
-sudo pacman -S lib32-at-spi2-core
-sudo pacman -S lib32-atk
-sudo pacman -S lib32-attr
-sudo pacman -S lib32-brotli
-sudo pacman -S lib32-bzip2
-sudo pacman -S lib32-cairo
-sudo pacman -S lib32-clang
-sudo pacman -S lib32-colord
-sudo pacman -S lib32-curl
-sudo pacman -S lib32-dbus
-sudo pacman -S lib32-dbus-glib
-sudo pacman -S lib32-dconf
-sudo pacman -S lib32-e2fsprogs
-sudo pacman -S lib32-expat
-sudo pacman -S lib32-faudio
-sudo pacman -S lib32-flac
-sudo pacman -S lib32-fluidsynth
-sudo pacman -S lib32-fontconfig
-sudo pacman -S lib32-freeglut
-sudo pacman -S lib32-freetype2
-sudo pacman -S lib32-fribidi
-sudo pacman -S lib32-gcc-libs
-sudo pacman -S lib32-gdk-pixbuf2
-sudo pacman -S lib32-gettext
-sudo pacman -S lib32-giflib
-sudo pacman -S lib32-glew1.10
-sudo pacman -S lib32-glib-networking
-sudo pacman -S lib32-glib2
-sudo pacman -S lib32-glibc
-sudo pacman -S lib32-glu
-sudo pacman -S lib32-gmp
-sudo pacman -S lib32-gnutls
-sudo pacman -S lib32-gst-plugins-base-libs
-sudo pacman -S lib32-gstreamer
-sudo pacman -S lib32-gtk2
-sudo pacman -S lib32-gtk3
-sudo pacman -S lib32-harfbuzz
-sudo pacman -S lib32-icu
-sudo pacman -S lib32-imlib2
-sudo pacman -S lib32-jack2
-sudo pacman -S lib32-jansson
-sudo pacman -S lib32-json-glib
-sudo pacman -S lib32-keyutils
-sudo pacman -S lib32-krb5
-sudo pacman -S lib32-l-smash
-sudo pacman -S lib32-lcms2
-sudo pacman -S lib32-libappindicator-gtk2
-sudo pacman -S lib32-libappindicator-gtk3
-sudo pacman -S lib32-libasyncns
-sudo pacman -S lib32-libcaca
-sudo pacman -S lib32-libcanberra
-sudo pacman -S lib32-libcap
-sudo pacman -S lib32-libcups
-sudo pacman -S lib32-libcurl-compat
-sudo pacman -S lib32-libcurl-gnutls
-sudo pacman -S lib32-libdatrie
-sudo pacman -S lib32-libdbusmenu-glib
-sudo pacman -S lib32-libdbusmenu-gtk2
-sudo pacman -S lib32-libdbusmenu-gtk3
-sudo pacman -S lib32-libdrm
-sudo pacman -S lib32-libelf
-sudo pacman -S lib32-libepoxy
-sudo pacman -S lib32-libffi
-sudo pacman -S lib32-libgcrypt
-sudo pacman -S lib32-libgcrypt15
-sudo pacman -S lib32-libglvnd
-sudo pacman -S lib32-libgpg-error
-sudo pacman -S lib32-libgudev
-sudo pacman -S lib32-libgusb
-sudo pacman -S lib32-libice
-sudo pacman -S lib32-libid3tag
-sudo pacman -S lib32-libidn11
-sudo pacman -S lib32-libidn2
-sudo pacman -S lib32-libindicator-gtk2
-sudo pacman -S lib32-libindicator-gtk3
-sudo pacman -S lib32-libinstpatch
-sudo pacman -S lib32-libjpeg-turbo
-sudo pacman -S lib32-libjpeg6-turbo
-sudo pacman -S lib32-libldap
-sudo pacman -S lib32-libltdl
-sudo pacman -S lib32-libmikmod
-sudo pacman -S lib32-libmodplug
-sudo pacman -S lib32-libnl
-sudo pacman -S lib32-libnm
-sudo pacman -S lib32-libnsl
-sudo pacman -S lib32-libogg
-sudo pacman -S lib32-libpcap
-sudo pacman -S lib32-libpciaccess
-sudo pacman -S lib32-libpng
-sudo pacman -S lib32-libpng12
-sudo pacman -S lib32-libproxy
-sudo pacman -S lib32-libpsl
-sudo pacman -S lib32-libpulse
-sudo pacman -S lib32-librsvg
-sudo pacman -S lib32-librtmp0
-sudo pacman -S lib32-libsm
-sudo pacman -S lib32-libsndfile
-sudo pacman -S lib32-libsoup
-sudo pacman -S lib32-libssh2
-sudo pacman -S lib32-libtasn1
-sudo pacman -S lib32-libthai
-sudo pacman -S lib32-libtheora
-sudo pacman -S lib32-libtiff
-sudo pacman -S lib32-libtiff4
-sudo pacman -S lib32-libtirpc
-sudo pacman -S lib32-libudev0-shim
-sudo pacman -S lib32-libunistring
-sudo pacman -S lib32-libunwind
-sudo pacman -S lib32-libusb
-sudo pacman -S lib32-libva
-sudo pacman -S lib32-libva-mesa-driver
-sudo pacman -S lib32-libvdpau
-sudo pacman -S lib32-libvorbis
-sudo pacman -S lib32-libvpx1.3
-sudo pacman -S lib32-libwebp
-sudo pacman -S lib32-libwrap
-sudo pacman -S lib32-libx11
-sudo pacman -S lib32-libxau
-sudo pacman -S lib32-libxcb
-sudo pacman -S lib32-libxcomposite
-sudo pacman -S lib32-libxcrypt
-sudo pacman -S lib32-libxcursor
-sudo pacman -S lib32-libxdamage
-sudo pacman -S lib32-libxdmcp
-sudo pacman -S lib32-libxext
-sudo pacman -S lib32-libxfixes
-sudo pacman -S lib32-libxft
-sudo pacman -S lib32-libxi
-sudo pacman -S lib32-libxinerama
-sudo pacman -S lib32-libxkbcommon
-sudo pacman -S lib32-libxml2
-sudo pacman -S lib32-libxmu
-sudo pacman -S lib32-libxrandr
-sudo pacman -S lib32-libxrender
-sudo pacman -S lib32-libxshmfence
-sudo pacman -S lib32-libxslt
-sudo pacman -S lib32-libxss
-sudo pacman -S lib32-libxt
-sudo pacman -S lib32-libxtst
-sudo pacman -S lib32-libxv
-sudo pacman -S lib32-libxxf86vm
-sudo pacman -S lib32-llvm
-sudo pacman -S lib32-llvm-libs
-sudo pacman -S lib32-lm_sensors
-sudo pacman -S lib32-lz4
-sudo pacman -S lib32-mesa
-sudo pacman -S lib32-mesa-vdpau
-sudo pacman -S lib32-mpg123
-sudo pacman -S lib32-ncurses
-sudo pacman -S lib32-nettle
-sudo pacman -S lib32-nspr
-sudo pacman -S lib32-nss
-sudo pacman -S lib32-ocl-icd
-sudo pacman -S lib32-openal
-sudo pacman -S lib32-opencl-mesa
-sudo pacman -S lib32-opencl-nvidia
-sudo pacman -S lib32-openssl
-sudo pacman -S lib32-openssl-1.0
-sudo pacman -S lib32-opus
-sudo pacman -S lib32-orc
-sudo pacman -S lib32-p11-kit
-sudo pacman -S lib32-pam
-sudo pacman -S lib32-pango
-sudo pacman -S lib32-pcre
-sudo pacman -S lib32-pipewire
-sudo pacman -S lib32-pipewire-jack
-sudo pacman -S lib32-pixman
-sudo pacman -S lib32-polkit
-sudo pacman -S lib32-portaudio
-sudo pacman -S lib32-readline
-sudo pacman -S lib32-rest
-sudo pacman -S lib32-sdl
-sudo pacman -S lib32-sdl2
-sudo pacman -S lib32-sdl2_image
-sudo pacman -S lib32-sdl2_mixer
-sudo pacman -S lib32-sdl2_ttf
-sudo pacman -S lib32-sdl_image
-sudo pacman -S lib32-sdl_mixer
-sudo pacman -S lib32-sdl_ttf
-sudo pacman -S lib32-smpeg
-sudo pacman -S lib32-sqlite
-sudo pacman -S lib32-systemd
-sudo pacman -S lib32-tdb
-sudo pacman -S lib32-util-linux
-sudo pacman -S lib32-v4l-utils
-sudo pacman -S lib32-vkd3d
-sudo pacman -S lib32-vulkan-icd-loader
-sudo pacman -S lib32-vulkan-radeon
-sudo pacman -S lib32-wayland
-sudo pacman -S lib32-x264
-sudo pacman -S lib32-xz
-sudo pacman -S lib32-zlib
-sudo pacman -S lib32-zstd
-sudo pacman -S libabw
-sudo pacman -S libaccounts-glib
-sudo pacman -S libaccounts-qt
-sudo pacman -S libaec
-sudo pacman -S libaio
-sudo pacman -S libakonadi
-sudo pacman -S libappindicator-gtk3
-sudo pacman -S libarchive
-sudo pacman -S libass
-sudo pacman -S libassuan
-sudo pacman -S libasyncns
-sudo pacman -S libatasmart
-sudo pacman -S libatomic_ops
-sudo pacman -S libavc1394
-sudo pacman -S libavif
-sudo pacman -S libavtp
-sudo pacman -S libblockdev
-sudo pacman -S libbluray
-sudo pacman -S libbpf
-sudo pacman -S libbs2b
-sudo pacman -S libbsd
-sudo pacman -S libburn
-sudo pacman -S libbytesize
-sudo pacman -S libcaca
-sudo pacman -S libcacard
-sudo pacman -S libcanberra
-sudo pacman -S libcap
-sudo pacman -S libcap-ng
-sudo pacman -S libcddb
-sudo pacman -S libcdio
-sudo pacman -S libcdio-paranoia
-sudo pacman -S libcdr
-sudo pacman -S libchewing
-sudo pacman -S libclc
-sudo pacman -S libcloudproviders
-sudo pacman -S libcmis
-sudo pacman -S libcolord
-sudo pacman -S libconfig
-sudo pacman -S libcroco
-sudo pacman -S libcue
-sudo pacman -S libcups
-sudo pacman -S libcurl-compat
-sudo pacman -S libcurl-gnutls
-sudo pacman -S libdaemon
-sudo pacman -S libdatrie
-sudo pacman -S libdbusmenu-glib
-sudo pacman -S libdbusmenu-gtk2
-sudo pacman -S libdbusmenu-gtk3
-sudo pacman -S libdbusmenu-qt5
-sudo pacman -S libdc1394
-sudo pacman -S libdca
-sudo pacman -S libde265
-sudo pacman -S libdmtx
-sudo pacman -S libdrm
-sudo pacman -S libdv
-sudo pacman -S libdvbpsi
-sudo pacman -S libdvdnav
-sudo pacman -S libdvdread
-sudo pacman -S libe-book
-sudo pacman -S libebml
-sudo pacman -S libebur128
-sudo pacman -S libedit
-sudo pacman -S libelf
-sudo pacman -S libepoxy
-sudo pacman -S libepubgen
-sudo pacman -S libetonyek
-sudo pacman -S libev
-sudo pacman -S libevdev
-sudo pacman -S libevent
-sudo pacman -S libexif
-sudo pacman -S libexttextcat
-sudo pacman -S libfakekey
-sudo pacman -S libfdk-aac
-sudo pacman -S libffi
-sudo pacman -S libfontenc
-sudo pacman -S libfprint
-sudo pacman -S libfprint-1
-sudo pacman -S libfreeaptx
-sudo pacman -S libfreehand
-sudo pacman -S libftdi
-sudo pacman -S libgaminggear
-sudo pacman -S libgcrypt
-sudo pacman -S libgcrypt15
-sudo pacman -S libgdiplus
-sudo pacman -S libgee
-sudo pacman -S libgexiv2
-sudo pacman -S libgig
-sudo pacman -S libgit2
-sudo pacman -S libglvnd
-sudo pacman -S libgme
-sudo pacman -S libgpg-error
-sudo pacman -S libgphoto2
-sudo pacman -S libgravatar
-sudo pacman -S libgrss
-sudo pacman -S libgsf
-sudo pacman -S libgssglue
-sudo pacman -S libgtop
-sudo pacman -S libgudev
-sudo pacman -S libgusb
-sudo pacman -S libgxps
-sudo pacman -S libhandy
-sudo pacman -S libheif
-sudo pacman -S libibus
-sudo pacman -S libical
-sudo pacman -S libice
-sudo pacman -S libid3tag
-sudo pacman -S libidn
-sudo pacman -S libidn11
-sudo pacman -S libidn2
-sudo pacman -S libiec61883
-sudo pacman -S libieee1284
-sudo pacman -S libimagequant
-sudo pacman -S libime
-sudo pacman -S libimobiledevice
-sudo pacman -S libindicator-gtk2
-sudo pacman -S libindicator-gtk3
-sudo pacman -S libinih
-sudo pacman -S libinput
-sudo pacman -S libinput-gestures
-sudo pacman -S libinput_gestures_qt
-sudo pacman -S libinstpatch
-sudo pacman -S libiptcdata
-sudo pacman -S libiscsi
-sudo pacman -S libixion
-sudo pacman -S libjpeg-turbo
-sudo pacman -S libjpeg6-turbo
-sudo pacman -S libkate
-sudo pacman -S libkcddb
-sudo pacman -S libkcompactdisc
-sudo pacman -S libkdcraw
-sudo pacman -S libkdegames
-sudo pacman -S libkdepim
-sudo pacman -S libkeduvocdocument
-sudo pacman -S libkexiv2
-sudo pacman -S libkgapi
-sudo pacman -S libkipi
-sudo pacman -S libkleo
-sudo pacman -S libkmahjongg
-sudo pacman -S libkolabxml
-sudo pacman -S libkomparediff2
-sudo pacman -S libksane
-sudo pacman -S libksba
-sudo pacman -S libkscreen
-sudo pacman -S libksieve
-sudo pacman -S libksysguard
-sudo pacman -S libktorrent
-sudo pacman -S liblangtag
-sudo pacman -S libldac
-sudo pacman -S libldap
-sudo pacman -S liblo
-sudo pacman -S liblouis
-sudo pacman -S liblqr
-sudo pacman -S liblrdf
-sudo pacman -S libltc
-sudo pacman -S libluv
-sudo pacman -S libmad
-sudo pacman -S libmanette
-sudo pacman -S libmatroska
-sudo pacman -S libmbim
-sudo pacman -S libmd
-sudo pacman -S libmfx
-sudo pacman -S libmicrodns
-sudo pacman -S libmicrohttpd
-sudo pacman -S libmikmod
-sudo pacman -S libmm-glib
-sudo pacman -S libmms
-sudo pacman -S libmng
-sudo pacman -S libmnl
-sudo pacman -S libmodplug
-sudo pacman -S libmp4v2
-sudo pacman -S libmpc
-sudo pacman -S libmpcdec
-sudo pacman -S libmpeg2
-sudo pacman -S libmspub
-sudo pacman -S libmsym
-sudo pacman -S libmtp
-sudo pacman -S libmusicbrainz5
-sudo pacman -S libmwaw
-sudo pacman -S libmypaint
-sudo pacman -S libnautilus-extension
-sudo pacman -S libndp
-sudo pacman -S libnet
-sudo pacman -S libnetfilter_conntrack
-sudo pacman -S libnewt
-sudo pacman -S libnfnetlink
-sudo pacman -S libnfs
-sudo pacman -S libnftnl
-sudo pacman -S libnghttp2
-sudo pacman -S libnice
-sudo pacman -S libnl
-sudo pacman -S libnm
-sudo pacman -S libnma
-sudo pacman -S libnotify
-sudo pacman -S libnsl
-sudo pacman -S libnumbertext
-sudo pacman -S libodfgen
-sudo pacman -S libofa
-sudo pacman -S libogg
-sudo pacman -S libomxil-bellagio
-sudo pacman -S liborcus
-sudo pacman -S libosinfo
-sudo pacman -S libotf
-sudo pacman -S libotr
-sudo pacman -S libp11-kit
-sudo pacman -S libpagemaker
-sudo pacman -S libpaper
-sudo pacman -S libpcap
-sudo pacman -S libpciaccess
-sudo pacman -S libpeas
-sudo pacman -S libpgm
-sudo pacman -S libphonenumber
-sudo pacman -S libpipeline
-sudo pacman -S libplacebo
-sudo pacman -S libplist
-sudo pacman -S libpng
-sudo pacman -S libpng12
-sudo pacman -S libportal
-sudo pacman -S libproxy
-sudo pacman -S libpsl
-sudo pacman -S libpulse
-sudo pacman -S libqaccessibilityclient
-sudo pacman -S libqalculate
-sudo pacman -S libqmi
-sudo pacman -S libqrtr-glib
-sudo pacman -S libquicktime
-sudo pacman -S libquvi
-sudo pacman -S libquvi-scripts
-sudo pacman -S libqxp
-sudo pacman -S libraqm
-sudo pacman -S libraw
-sudo pacman -S libraw1394
-sudo pacman -S libreoffice-fresh
-sudo pacman -S librevenge
-sudo pacman -S librime
-sudo pacman -S librime-data
-sudo pacman -S librsvg
-sudo pacman -S librtmp0
-sudo pacman -S libsamplerate
-sudo pacman -S libsasl
-sudo pacman -S libseccomp
-sudo pacman -S libsecret
-sudo pacman -S libshout
-sudo pacman -S libsigc++
-sudo pacman -S libsignon-glib
-sudo pacman -S libslirp
-sudo pacman -S libsm
-sudo pacman -S libsndfile
-sudo pacman -S libsodium
-sudo pacman -S libsoup
-sudo pacman -S libsoxr
-sudo pacman -S libspectre
-sudo pacman -S libspeechd
-sudo pacman -S libspiro
-sudo pacman -S libspnav
-sudo pacman -S libsrtp
-sudo pacman -S libssh
-sudo pacman -S libssh2
-sudo pacman -S libstaroffice
-sudo pacman -S libstdc++5
-sudo pacman -S libstemmer
-sudo pacman -S libtar
-sudo pacman -S libtasn1
-sudo pacman -S libteam
-sudo pacman -S libtermkey
-sudo pacman -S libtg_owt
-sudo pacman -S libthai
-sudo pacman -S libtheora
-sudo pacman -S libtiff
-sudo pacman -S libtiff4
-sudo pacman -S libtirpc
-sudo pacman -S libtommath
-sudo pacman -S libtool
-sudo pacman -S libudev0-shim
-sudo pacman -S libunistring
-sudo pacman -S libunwind
-sudo pacman -S libupnp
-sudo pacman -S liburcu
-sudo pacman -S liburing
-sudo pacman -S libusb
-sudo pacman -S libusb-compat
-sudo pacman -S libusbmuxd
-sudo pacman -S libutempter
-sudo pacman -S libuv
-sudo pacman -S libva
-sudo pacman -S libva-mesa-driver
-sudo pacman -S libvdpau
-sudo pacman -S libvirt
-sudo pacman -S libvirt-glib
-sudo pacman -S libvirt-python
-sudo pacman -S libvisio
-sudo pacman -S libvisual
-sudo pacman -S libvncserver
-sudo pacman -S libvorbis
-sudo pacman -S libvpx
-sudo pacman -S libvpx1.3
-sudo pacman -S libvterm
-sudo pacman -S libwacom
-sudo pacman -S libwebp
-sudo pacman -S libwebsockets
-sudo pacman -S libwmf
-sudo pacman -S libwpd
-sudo pacman -S libwpe
-sudo pacman -S libwpg
-sudo pacman -S libwps
-sudo pacman -S libwrap
-sudo pacman -S libx11
-sudo pacman -S libx86
-sudo pacman -S libx86emu
-sudo pacman -S libxau
-sudo pacman -S libxaw
-sudo pacman -S libxcb
-sudo pacman -S libxcomposite
-sudo pacman -S libxcrypt
-sudo pacman -S libxcursor
-sudo pacman -S libxdamage
-sudo pacman -S libxdg-basedir
-sudo pacman -S libxdmcp
-sudo pacman -S libxext
-sudo pacman -S libxfce4ui
-sudo pacman -S libxfce4util
-sudo pacman -S libxfixes
-sudo pacman -S libxfont2
-sudo pacman -S libxft
-sudo pacman -S libxi
-sudo pacman -S libxinerama
-sudo pacman -S libxkbcommon
-sudo pacman -S libxkbcommon-x11
-sudo pacman -S libxkbfile
-sudo pacman -S libxklavier
-sudo pacman -S libxml2
-sudo pacman -S libxmu
-sudo pacman -S libxnvctrl
-sudo pacman -S libxpm
-sudo pacman -S libxrandr
-sudo pacman -S libxrender
-sudo pacman -S libxres
-sudo pacman -S libxshmfence
-sudo pacman -S libxslt
-sudo pacman -S libxss
-sudo pacman -S libxt
-sudo pacman -S libxtst
-sudo pacman -S libxv
-sudo pacman -S libxvmc
-sudo pacman -S libxxf86vm
-sudo pacman -S libyaml
-sudo pacman -S libyuv
-sudo pacman -S r2212+dfaf7534-2
-sudo pacman -S libzip
-sudo pacman -S libzmf
-sudo pacman -S licenses
-sudo pacman -S lightdm
-sudo pacman -S lightdm-gtk-greeter
-sudo pacman -S lightdm-gtk-greeter-settings
-sudo pacman -S lightly-qt
-sudo pacman -S lilv
-sudo pacman -S linux-api-headers
-sudo pacman -S linux-firmware
-sudo pacman -S linux-headers
-sudo pacman -S linux-lts
-sudo pacman -S linux-lts-headers
-sudo pacman -S linuxqq
-sudo pacman -S lirc
-sudo pacman -S lld
-sudo pacman -S lldb
-sudo pacman -S llpp
-sudo pacman -S llvm
-sudo pacman -S llvm-libs
-sudo pacman -S lm_sensors
-sudo pacman -S lmdb
-sudo pacman -S lmms
-sudo pacman -S log4cplus
-sudo pacman -S lokalize
-sudo pacman -S lolcat
-sudo pacman -S lpsolve
-sudo pacman -S lrzsz
-sudo pacman -S lsb-release
-sudo pacman -S lsd
-sudo pacman -S lskat
-sudo pacman -S lsof
-sudo pacman -S lua
-sudo pacman -S lua52
-sudo pacman -S lua52-bitop
-sudo pacman -S lua52-expat
-sudo pacman -S lua52-lpeg
-sudo pacman -S lua52-luajson
-sudo pacman -S lua52-socket
-sudo pacman -S lua53
-sudo pacman -S luajit
-sudo pacman -S lunar-client
-sudo pacman -S lutris
-sudo pacman -S lvm2
-sudo pacman -S lxappearance
-sudo pacman -S lz4
-sudo pacman -S lzo
-sudo pacman -S m17n-db
-sudo pacman -S m17n-lib
-sudo pacman -S m4
-sudo pacman -S maeparser
-sudo pacman -S mailcap
-sudo pacman -S mailcommon
-sudo pacman -S mailimporter
-sudo pacman -S make
-sudo pacman -S mallard-ducktype
-sudo pacman -S man-db
-sudo pacman -S mangohud
-sudo pacman -S mangohud-common
-sudo pacman -S marble
-sudo pacman -S marble-common
-sudo pacman -S mariadb
-sudo pacman -S mariadb-clients
-sudo pacman -S mariadb-libs
-sudo pacman -S marisa
-sudo pacman -S markdownpart
-sudo pacman -S maven
-sudo pacman -S mbedtls
-sudo pacman -S mbox-importer
-sudo pacman -S md4c
-sudo pacman -S mdadm
-sudo pacman -S media-player-info
-sudo pacman -S mesa
-sudo pacman -S mesa-demos
-sudo pacman -S mesa-vdpau
-sudo pacman -S meson
-sudo pacman -S messagelib
-sudo pacman -S metis
-sudo pacman -S milou
-sudo pacman -S minecraft-launcher
-sudo pacman -S minicom
-sudo pacman -S miniupnpc
-sudo pacman -S minizip
-sudo pacman -S minuet
-sudo pacman -S mixxx
-sudo pacman -S mjpegtools
-sudo pacman -S mkinitcpio
-sudo pacman -S mkinitcpio-busybox
-sudo pacman -S mlt
-sudo pacman -S mlt6
-sudo pacman -S mobile-broadband-provider-info
-sudo pacman -S modemmanager
-sudo pacman -S modemmanager-qt
-sudo pacman -S molequeue
-sudo pacman -S monero
-sudo pacman -S monero-gui
-sudo pacman -S mono
-sudo pacman -S mono-msbuild
-sudo pacman -S motrix-git
-sudo pacman -S movit
-sudo pacman -S mpfr
-sudo pacman -S mpg123
-sudo pacman -S mplayer
-sudo pacman -S mprime
-sudo pacman -S mpv
-sudo pacman -S msgpack-c
-sudo pacman -S msr-tools
-sudo pacman -S mtdev
-sudo pacman -S mtools
-sudo pacman -S mujs
-sudo pacman -S mypaint-brushes1
-sudo pacman -S nano
-sudo pacman -S nautilus
-sudo pacman -S ncurses
-sudo pacman -S ndctl
-sudo pacman -S neofetch
-sudo pacman -S neon
-sudo pacman -S neovim
-sudo pacman -S nerd-fonts-agave
-sudo pacman -S nerd-fonts-anonymous-pro
-sudo pacman -S nerd-fonts-arimo
-sudo pacman -S nerd-fonts-aurulent-sans-mono
-sudo pacman -S nerd-fonts-bigblue-terminal
-sudo pacman -S nerd-fonts-bitstream-vera-sans-mono
-sudo pacman -S nerd-fonts-cascadia-code
-sudo pacman -S nerd-fonts-code-new-roman
-sudo pacman -S nerd-fonts-cousine
-sudo pacman -S nerd-fonts-daddytimemono
-sudo pacman -S nerd-fonts-dejavu-sans-mono
-sudo pacman -S nerd-fonts-droid-sans-mono
-sudo pacman -S nerd-fonts-fantasque-sans-mono
-sudo pacman -S nerd-fonts-fira
-sudo pacman -S nerd-fonts-fira-code
-sudo pacman -S nerd-fonts-go
-sudo pacman -S nerd-fonts-gohu
-sudo pacman -S nerd-fonts-hack
-sudo pacman -S nerd-fonts-hasklig
-sudo pacman -S nerd-fonts-heavy-data
-sudo pacman -S nerd-fonts-hermit
-sudo pacman -S nerd-fonts-ia-writer
-sudo pacman -S nerd-fonts-ibm-plex-mono
-sudo pacman -S nerd-fonts-inconsolata
-sudo pacman -S nerd-fonts-inconsolata-go
-sudo pacman -S nerd-fonts-inconsolata-lgc
-sudo pacman -S nerd-fonts-iosevka
-sudo pacman -S nerd-fonts-jetbrains-mono
-sudo pacman -S nerd-fonts-lekton
-sudo pacman -S nerd-fonts-liberation
-sudo pacman -S nerd-fonts-meslo-lg
-sudo pacman -S nerd-fonts-monofur
-sudo pacman -S nerd-fonts-monoid
-sudo pacman -S nerd-fonts-mononoki
-sudo pacman -S nerd-fonts-mplus
-sudo pacman -S nerd-fonts-noto
-sudo pacman -S nerd-fonts-opendyslexic
-sudo pacman -S nerd-fonts-overpass
-sudo pacman -S nerd-fonts-profont
-sudo pacman -S nerd-fonts-proggycleantt
-sudo pacman -S nerd-fonts-robotomono
-sudo pacman -S nerd-fonts-share-tech-mono
-sudo pacman -S nerd-fonts-source-code-pro
-sudo pacman -S nerd-fonts-space-mono
-sudo pacman -S nerd-fonts-terminus
-sudo pacman -S nerd-fonts-tinos
-sudo pacman -S nerd-fonts-ubuntu
-sudo pacman -S nerd-fonts-ubuntu-mono
-sudo pacman -S nerd-fonts-victor-mono
-sudo pacman -S net-snmp
-sudo pacman -S net-tools
-sudo pacman -S netbeans
-sudo pacman -S netpbm
-sudo pacman -S netstandard-targeting-pack
-sudo pacman -S nettle
-sudo pacman -S network-manager-applet
-sudo pacman -S networkmanager
-sudo pacman -S networkmanager-qt
-sudo pacman -S new-session-manager
-sudo pacman -S nftables
-sudo pacman -S nginx
-sudo pacman -S nginx-mod-rtmp-git
-sudo pacman -S ngspice
-sudo pacman -S nilfs-utils
-sudo pacman -S ninja
-sudo pacman -S nm-connection-editor
-sudo pacman -S nmap
-sudo pacman -S node-gyp
-sudo pacman -S nodejs
-sudo pacman -S nodejs-nopt
-sudo pacman -S nodemcu-pyflasher
-sudo pacman -S noto-fonts
-sudo pacman -S noto-fonts-cjk
-sudo pacman -S noto-fonts-emoji
-sudo pacman -S noto-fonts-emoji-blob
-sudo pacman -S noto-fonts-extra
-sudo pacman -S npm
-sudo pacman -S npth
-sudo pacman -S nspr
-sudo pacman -S nss
-sudo pacman -S ntfs-3g
-sudo pacman -S numactl
-sudo pacman -S nvidia-lts
-sudo pacman -S nvidia-utils
-sudo pacman -S oath-toolkit
-sudo pacman -S obs-studio
-sudo pacman -S ocaml
-sudo pacman -S ocaml-compiler-libs
-sudo pacman -S ocaml-csexp
-sudo pacman -S ocaml-findlib
-sudo pacman -S ocaml-result
-sudo pacman -S ocl-icd
-sudo pacman -S octopi
-sudo pacman -S okular
-sudo pacman -S onefetch
-sudo pacman -S oniguruma
-sudo pacman -S opam
-sudo pacman -S openal
-sudo pacman -S openbabel
-sudo pacman -S opencascade
-sudo pacman -S opencc
-sudo pacman -S opencl-headers
-sudo pacman -S opencl-mesa
-sudo pacman -S opencl-nvidia
-sudo pacman -S opencollada
-sudo pacman -S opencolorio
-sudo pacman -S opencolorio1
-sudo pacman -S opencore-amr
-sudo pacman -S opencv
-sudo pacman -S openexr
-sudo pacman -S openimagedenoise
-sudo pacman -S openimageio
-sudo pacman -S openjpeg2
-sudo pacman -S openmpi
-sudo pacman -S openresolv
-sudo pacman -S openrgb
-sudo pacman -S openshadinglanguage
-sudo pacman -S openssh
-sudo pacman -S openssl
-sudo pacman -S openssl-1.0
-sudo pacman -S opensubdiv
-sudo pacman -S openvdb
-sudo pacman -S openxr
-sudo pacman -S opus
-sudo pacman -S opusfile
-sudo pacman -S orc
-sudo pacman -S os-prober
-sudo pacman -S osinfo-db
-sudo pacman -S ossp
-sudo pacman -S ostree
-sudo pacman -S oxygen
-sudo pacman -S p11-kit
-sudo pacman -S p7zip
-sudo pacman -S package-query
-sudo pacman -S pacman
-sudo pacman -S pacman-contrib
-sudo pacman -S pacman-mirrorlist
-sudo pacman -S pacmanlogviewer
-sudo pacman -S pahole
-sudo pacman -S palapeli
-sudo pacman -S pam
-sudo pacman -S pam-python
-sudo pacman -S pambase
-sudo pacman -S pango
-sudo pacman -S pangomm
-sudo pacman -S paper
-sudo pacman -S papirus-icon-theme
-sudo pacman -S parley
-sudo pacman -S parted
-sudo pacman -S partitionmanager
-sudo pacman -S paru
-sudo pacman -S pastebinit
-sudo pacman -S patch
-sudo pacman -S patchelf
-sudo pacman -S pavucontrol
-sudo pacman -S pciutils
-sudo pacman -S pcre
-sudo pacman -S pcre2
-sudo pacman -S pcsclite
-sudo pacman -S perf
-sudo pacman -S perl
-sudo pacman -S perl-clone
-sudo pacman -S perl-encode-locale
-sudo pacman -S perl-error
-sudo pacman -S perl-file-listing
-sudo pacman -S perl-html-parser
-sudo pacman -S perl-html-tagset
-sudo pacman -S perl-http-cookies
-sudo pacman -S perl-http-daemon
-sudo pacman -S perl-http-date
-sudo pacman -S perl-http-message
-sudo pacman -S perl-http-negotiate
-sudo pacman -S perl-io-html
-sudo pacman -S perl-ipc-run3
-sudo pacman -S perl-libwww
-sudo pacman -S perl-locale-gettext
-sudo pacman -S perl-lwp-mediatypes
-sudo pacman -S perl-mailtools
-sudo pacman -S perl-net-http
-sudo pacman -S perl-parse-yapp
-sudo pacman -S perl-timedate
-sudo pacman -S perl-try-tiny
-sudo pacman -S perl-uri
-sudo pacman -S perl-www-robotrules
-sudo pacman -S perl-xml-parser
-sudo pacman -S perl-xml-writer
-sudo pacman -S phodav
-sudo pacman -S phonon-qt5
-sudo pacman -S phonon-qt5-gstreamer
-sudo pacman -S php
-sudo pacman -S picmi
-sudo pacman -S picom
-sudo pacman -S pim-data-exporter
-sudo pacman -S pim-sieve-editor
-sudo pacman -S pimcommon
-sudo pacman -S pinentry
-sudo pacman -S pipewire
-sudo pacman -S pipewire-jack
-sudo pacman -S pipewire-media-session
-sudo pacman -S pixman
-sudo pacman -S pkgconf
-sudo pacman -S pkgfile
-sudo pacman -S plasma-browser-integration
-sudo pacman -S plasma-desktop
-sudo pacman -S plasma-disks
-sudo pacman -S plasma-firewall
-sudo pacman -S plasma-framework
-sudo pacman -S plasma-integration
-sudo pacman -S plasma-nm
-sudo pacman -S plasma-pa
-sudo pacman -S plasma-sdk
-sudo pacman -S plasma-systemmonitor
-sudo pacman -S plasma-thunderbolt
-sudo pacman -S plasma-vault
-sudo pacman -S plasma-workspace
-sudo pacman -S plasma-workspace-wallpapers
-sudo pacman -S polkit
-sudo pacman -S polkit-kde-agent
-sudo pacman -S polkit-qt5
-sudo pacman -S ponysay
-sudo pacman -S poppler
-sudo pacman -S poppler-data
-sudo pacman -S poppler-glib
-sudo pacman -S poppler-qt5
-sudo pacman -S popt
-sudo pacman -S portaudio
-sudo pacman -S portmidi
-sudo pacman -S portsmf
-sudo pacman -S potrace
-sudo pacman -S powerdevil
-sudo pacman -S poxml
-sudo pacman -S ppp
-sudo pacman -S print-manager
-sudo pacman -S prismatik
-sudo pacman -S prison
-sudo pacman -S procps-ng
-sudo pacman -S protobuf
-sudo pacman -S protobuf-c
-sudo pacman -S proton
-sudo pacman -S psmisc
-sudo pacman -S psutils
-sudo pacman -S ptex
-sudo pacman -S pugixml
-sudo pacman -S pulseaudio
-sudo pacman -S pulseaudio-alsa
-sudo pacman -S pulseaudio-bluetooth
-sudo pacman -S pulseaudio-equalizer
-sudo pacman -S pulseaudio-equalizer-ladspa
-sudo pacman -S pulseaudio-jack
-sudo pacman -S pulseaudio-lirc
-sudo pacman -S pulseaudio-qt
-sudo pacman -S pulseaudio-rtp
-sudo pacman -S pulseaudio-zeroconf
-sudo pacman -S pulsemixer
-sudo pacman -S purpose
-sudo pacman -S pybind11
-sudo pacman -S pycharm-community-edition
-sudo pacman -S pyrit
-sudo pacman -S pystring
-sudo pacman -S python
-sudo pacman -S python-anytree
-sudo pacman -S python-appdirs
-sudo pacman -S python-argcomplete
-sudo pacman -S python-asn1crypto
-sudo pacman -S python-attrs
-sudo pacman -S python-aubio
-sudo pacman -S python-automat
-sudo pacman -S python-babel
-sudo pacman -S python-backcall
-sudo pacman -S python-beaker
-sudo pacman -S python-bitstring
-sudo pacman -S python-cachecontrol
-sudo pacman -S python-cairo
-sudo pacman -S python-cffi
-sudo pacman -S python-chardet
-sudo pacman -S python-click
-sudo pacman -S python-colorama
-sudo pacman -S python-constantly
-sudo pacman -S python-contextlib2
-sudo pacman -S python-cryptography
-sudo pacman -S python-dateutil
-sudo pacman -S python-debugpy
-sudo pacman -S python-decorator
-sudo pacman -S python-distlib
-sudo pacman -S python-distro
-sudo pacman -S python-dlib
-sudo pacman -S python-dnspython
-sudo pacman -S python-docopt
-sudo pacman -S python-docutils
-sudo pacman -S python-ecdsa
-sudo pacman -S python-epc
-sudo pacman -S python-evdev
-sudo pacman -S python-face_recognition
-sudo pacman -S python-face_recognition_models
-sudo pacman -S python-feedparser
-sudo pacman -S python-flask
-sudo pacman -S python-future
-sudo pacman -S python-gobject
-sudo pacman -S python-grip
-sudo pacman -S python-html5lib
-sudo pacman -S python-httplib2
-sudo pacman -S python-hyperlink
-sudo pacman -S python-idna
-sudo pacman -S python-imagesize
-sudo pacman -S python-importlib-metadata
-sudo pacman -S python-incremental
-sudo pacman -S python-ipykernel
-sudo pacman -S python-itsdangerous
-sudo pacman -S python-jedi
-sudo pacman -S python-jinja
-sudo pacman -S python-jsonrpc-server
-sudo pacman -S python-jupyter_client
-sudo pacman -S python-jupyter_core
-sudo pacman -S python-language-server
-sudo pacman -S python-lxml
-sudo pacman -S python-mako
-sudo pacman -S python-markdown
-sudo pacman -S python-markupsafe
-sudo pacman -S python-matplotlib-inline
-sudo pacman -S python-more-itertools
-sudo pacman -S python-msgpack
-sudo pacman -S python-nautilus
-sudo pacman -S python-numpy
-sudo pacman -S python-opencv
-sudo pacman -S python-ordered-set
-sudo pacman -S python-packaging
-sudo pacman -S python-parso
-sudo pacman -S python-path-and-address
-sudo pacman -S python-pep517
-sudo pacman -S python-pexpect
-sudo pacman -S python-pickleshare
-sudo pacman -S python-pillow
-sudo pacman -S python-pip
-sudo pacman -S python-pluggy
-sudo pacman -S python-ply
-sudo pacman -S python-prettytable
-sudo pacman -S python-progress
-sudo pacman -S python-prompt_toolkit
-sudo pacman -S python-psutil
-sudo pacman -S python-ptyprocess
-sudo pacman -S python-pyaes
-sudo pacman -S python-pyalsa
-sudo pacman -S python-pycparser
-sudo pacman -S python-pygments
-sudo pacman -S python-pyhamcrest
-sudo pacman -S python-pyinotify
-sudo pacman -S python-pyopenssl
-sudo pacman -S python-pyparsing
-sudo pacman -S python-pyqt5
-sudo pacman -S python-pyqt5-sip
-sudo pacman -S python-pyqt5-webengine
-sudo pacman -S python-pyserial
-sudo pacman -S python-pyte
-sudo pacman -S python-pytz
-sudo pacman -S python-pyxdg
-sudo pacman -S python-pyzmq
-sudo pacman -S python-qrcode
-sudo pacman -S python-qtconsole
-sudo pacman -S python-qtpy
-sudo pacman -S python-reedsolo
-sudo pacman -S python-requests
-sudo pacman -S python-resolvelib
-sudo pacman -S python-retrying
-sudo pacman -S python-scipy
-sudo pacman -S python-setuptools
-sudo pacman -S python-sexpdata
-sudo pacman -S python-sgmllib
-sudo pacman -S python-shiboken2
-sudo pacman -S python-sip4
-sudo pacman -S python-six
-sudo pacman -S python-snowballstemmer
-sudo pacman -S python-sphinx
-sudo pacman -S python-sphinx-alabaster-theme
-sudo pacman -S python-sphinxcontrib-applehelp
-sudo pacman -S python-sphinxcontrib-devhelp
-sudo pacman -S python-sphinxcontrib-htmlhelp
-sudo pacman -S python-sphinxcontrib-jsmath
-sudo pacman -S python-sphinxcontrib-qthelp
-sudo pacman -S python-sphinxcontrib-serializinghtml
-sudo pacman -S python-systemd
-sudo pacman -S python-sysv_ipc
-sudo pacman -S python-termcolor
-sudo pacman -S python-toml
-sudo pacman -S python-tomli
-sudo pacman -S python-tornado
-sudo pacman -S python-traitlets
-sudo pacman -S python-twisted
-sudo pacman -S python-typing_extensions
-sudo pacman -S python-ujson
-sudo pacman -S python-urllib3
-sudo pacman -S python-wcwidth
-sudo pacman -S python-webencodings
-sudo pacman -S python-werkzeug
-sudo pacman -S python-wxpython
-sudo pacman -S python-xlib
-sudo pacman -S python-yaml
-sudo pacman -S python-zipp
-sudo pacman -S python-zope-interface
-sudo pacman -S python2
-sudo pacman -S python2-appdirs
-sudo pacman -S python2-asn1crypto
-sudo pacman -S python2-backports
-sudo pacman -S python2-cachecontrol
-sudo pacman -S python2-cffi
-sudo pacman -S python2-chardet
-sudo pacman -S python2-colorama
-sudo pacman -S python2-configparser
-sudo pacman -S python2-contextlib2
-sudo pacman -S python2-cryptography
-sudo pacman -S python2-distlib
-sudo pacman -S python2-distro
-sudo pacman -S python2-enum34
-sudo pacman -S python2-html5lib
-sudo pacman -S python2-idna
-sudo pacman -S python2-importlib-metadata
-sudo pacman -S python2-ipaddress
-sudo pacman -S python2-msgpack
-sudo pacman -S python2-ordered-set
-sudo pacman -S python2-packaging
-sudo pacman -S python2-pathlib2
-sudo pacman -S python2-pep517
-sudo pacman -S python2-pip
-sudo pacman -S python2-ply
-sudo pacman -S python2-progress
-sudo pacman -S python2-pycparser
-sudo pacman -S python2-pyopenssl
-sudo pacman -S python2-pyparsing
-sudo pacman -S python2-requests
-sudo pacman -S python2-resolvelib
-sudo pacman -S python2-retrying
-sudo pacman -S python2-scandir
-sudo pacman -S python2-setuptools
-sudo pacman -S python2-six
-sudo pacman -S python2-toml
-sudo pacman -S python2-urllib3
-sudo pacman -S python2-webencodings
-sudo pacman -S python2-zipp
-sudo pacman -S qca-qt5
-sudo pacman -S qemu
-sudo pacman -S qemu-arch-extra
-sudo pacman -S qemu-block-gluster
-sudo pacman -S qemu-block-iscsi
-sudo pacman -S qemu-block-rbd
-sudo pacman -S qgpgme
-sudo pacman -S qhull
-sudo pacman -S qpdf
-sudo pacman -S qqc2-desktop-style
-sudo pacman -S qrencode
-sudo pacman -S qt-gstreamer
-sudo pacman -S qt5-base
-sudo pacman -S qt5-declarative
-sudo pacman -S qt5-graphicaleffects
-sudo pacman -S qt5-imageformats
-sudo pacman -S qt5-location
-sudo pacman -S qt5-multimedia
-sudo pacman -S qt5-networkauth
-sudo pacman -S qt5-quickcontrols
-sudo pacman -S qt5-quickcontrols2
-sudo pacman -S qt5-script
-sudo pacman -S qt5-sensors
-sudo pacman -S qt5-serialport
-sudo pacman -S qt5-speech
-sudo pacman -S qt5-svg
-sudo pacman -S qt5-tools
-sudo pacman -S qt5-wayland
-sudo pacman -S qt5-webchannel
-sudo pacman -S qt5-webengine
-sudo pacman -S qt5-webkit
-sudo pacman -S qt5-x11extras
-sudo pacman -S qt5-xmlpatterns
-sudo pacman -S qt5pas
-sudo pacman -S qtermwidget
-sudo pacman -S qtkeychain-qt5
-sudo pacman -S quazip
-sudo pacman -S qv2ray
-sudo pacman -S qv2ray-plugin-trojan
-sudo pacman -S radeontool
-sudo pacman -S ragel
-sudo pacman -S rainbarf-git
-sudo pacman -S ranger
-sudo pacman -S rapidjson
-sudo pacman -S raptor
-sudo pacman -S rar
-sudo pacman -S rasqal
-sudo pacman -S rav1e
-sudo pacman -S rclone
-sudo pacman -S rclone-browser
-sudo pacman -S re2
-sudo pacman -S read-edid
-sudo pacman -S readline
-sudo pacman -S reaper-bin
-sudo pacman -S recode
-sudo pacman -S recordmydesktop
-sudo pacman -S redland
-sudo pacman -S reflector
-sudo pacman -S reiserfsprogs
-sudo pacman -S remmina
-sudo pacman -S rest
-sudo pacman -S rhash
-sudo pacman -S rime-bopomofo
-sudo pacman -S rime-cangjie
-sudo pacman -S rime-emoji
-sudo pacman -S rime-essay
-sudo pacman -S rime-luna-pinyin
-sudo pacman -S rime-prelude
-sudo pacman -S rime-stroke
-sudo pacman -S rime-terra-pinyin
-sudo pacman -S ripgrep
-sudo pacman -S rnnoise
-sudo pacman -S roccat-tools-common
-sudo pacman -S roccat-tools-kone
-sudo pacman -S roccat-tools-koneplus
-sudo pacman -S roccat-tools-konepure
-sudo pacman -S roccat-tools-konextd
-sudo pacman -S rocs
-sudo pacman -S rofi
-sudo pacman -S rpcbind
-sudo pacman -S rsync
-sudo pacman -S rtaudio
-sudo pacman -S rtkit
-sudo pacman -S rtmpdump
-sudo pacman -S rttr
-sudo pacman -S rubberband
-sudo pacman -S ruby
-sudo pacman -S ruby-diff-lcs
-sudo pacman -S ruby-irb
-sudo pacman -S ruby-manpages
-sudo pacman -S ruby-optimist
-sudo pacman -S ruby-paint
-sudo pacman -S ruby-rainbow
-sudo pacman -S ruby-rdoc
-sudo pacman -S ruby-reline
-sudo pacman -S ruby-rspec
-sudo pacman -S ruby-rspec-core
-sudo pacman -S ruby-rspec-expectations
-sudo pacman -S ruby-rspec-mocks
-sudo pacman -S ruby-rspec-support
-sudo pacman -S ruby-term-ansicolor
-sudo pacman -S ruby-tins
-sudo pacman -S rubygems
-sudo pacman -S run-parts
-sudo pacman -S runc
-sudo pacman -S rustup
-sudo pacman -S samba
-sudo pacman -S sane
-sudo pacman -S sbc
-sudo pacman -S scrcpy
-sudo pacman -S screen
-sudo pacman -S screenfetch
-sudo pacman -S screenkey
-sudo pacman -S scrot
-sudo pacman -S sd
-sudo pacman -S sddm
-sudo pacman -S sddm-kcm
-sudo pacman -S sddm-sugar-light
-sudo pacman -S sdl
-sudo pacman -S sdl2
-sudo pacman -S sdl2_image
-sudo pacman -S sdl2_mixer
-sudo pacman -S sdl2_ttf
-sudo pacman -S sdl_image
-sudo pacman -S sdl_mixer
-sudo pacman -S sdl_net
-sudo pacman -S sdl_sound
-sudo pacman -S sdl_ttf
-sudo pacman -S seabios
-sudo pacman -S sed
-sudo pacman -S semver
-sudo pacman -S serd
-sudo pacman -S sfml
-sudo pacman -S shaderc
-sudo pacman -S shadow
-sudo pacman -S shared-mime-info
-sudo pacman -S signon-kwallet-extension
-sudo pacman -S signon-plugin-oauth2
-sudo pacman -S signon-ui
-sudo pacman -S signond
-sudo pacman -S slang
-sudo pacman -S smartmontools
-sudo pacman -S smbclient
-sudo pacman -S smpeg
-sudo pacman -S snappy
-sudo pacman -S sndio
-sudo pacman -S snes9x-gtk
-sudo pacman -S socat
-sudo pacman -S solid
-sudo pacman -S sonnet
-sudo pacman -S sord
-sudo pacman -S sound-theme-freedesktop
-sudo pacman -S soundtouch
-sudo pacman -S source-highlight
-sudo pacman -S sox
-sudo pacman -S spandsp
-sudo pacman -S spectacle
-sudo pacman -S speedtest-cli
-sudo pacman -S speex
-sudo pacman -S speexdsp
-sudo pacman -S spglib
-sudo pacman -S spice
-sudo pacman -S spice-gtk
-sudo pacman -S spirv-tools
-sudo pacman -S sqlite
-sudo pacman -S sratom
-sudo pacman -S srt
-sudo pacman -S sshfs
-sudo pacman -S startup-notification
-sudo pacman -S steam
-sudo pacman -S steam-native-runtime
-sudo pacman -S step
-sudo pacman -S stk
-sudo pacman -S sudo
-sudo pacman -S suil
-sudo pacman -S suitesparse
-sudo pacman -S sunloginclient
-sudo pacman -S svgpart
-sudo pacman -S svt-av1
-sudo pacman -S svt-hevc
-sudo pacman -S sweeper
-sudo pacman -S swh-plugins
-sudo pacman -S syndication
-sudo pacman -S syntax-highlighting
-sudo pacman -S sysfsutils
-sudo pacman -S systemd
-sudo pacman -S systemd-libs
-sudo pacman -S systemd-swap
-sudo pacman -S systemd-sysvcompat
-sudo pacman -S systemsettings
-sudo pacman -S taglib
-sudo pacman -S talloc
-sudo pacman -S tar
-sudo pacman -S tbb
-sudo pacman -S tcl
-sudo pacman -S tdb
-sudo pacman -S tdlib
-sudo pacman -S teamspeak3
-sudo pacman -S teamspeak3-server
-sudo pacman -S telegram-desktop
-sudo pacman -S telepathy-accounts-signon
-sudo pacman -S telepathy-farstream
-sudo pacman -S telepathy-glib
-sudo pacman -S telepathy-kde-accounts-kcm
-sudo pacman -S telepathy-kde-approver
-sudo pacman -S telepathy-kde-auth-handler
-sudo pacman -S telepathy-kde-call-ui
-sudo pacman -S telepathy-kde-common-internals
-sudo pacman -S telepathy-kde-contact-list
-sudo pacman -S telepathy-kde-contact-runner
-sudo pacman -S telepathy-kde-desktop-applets
-sudo pacman -S telepathy-kde-filetransfer-handler
-sudo pacman -S telepathy-kde-integration-module
-sudo pacman -S telepathy-kde-send-file
-sudo pacman -S telepathy-kde-text-ui
-sudo pacman -S telepathy-logger
-sudo pacman -S telepathy-logger-qt
-sudo pacman -S telepathy-mission-control
-sudo pacman -S telepathy-qt
-sudo pacman -S tepl
-sudo pacman -S terraria-server
-sudo pacman -S tevent
-sudo pacman -S texinfo
-sudo pacman -S thefuck
-sudo pacman -S thin-provisioning-tools
-sudo pacman -S threadweaver
-sudo pacman -S tigervnc
-sudo pacman -S tinyxml
-sudo pacman -S tk
-sudo pacman -S tldr
-sudo pacman -S tlp
-sudo pacman -S tlp-rdw
-sudo pacman -S tlpui-git
-sudo pacman -S tmux
-sudo pacman -S todesk-bin
-sudo pacman -S totem-pl-parser
-sudo pacman -S traceroute
-sudo pacman -S tracker3
-sudo pacman -S tracker3-miners
-sudo pacman -S trash-cli
-sudo pacman -S tree-sitter
-sudo pacman -S trojan
-sudo pacman -S tslib
-sudo pacman -S ttf-dejavu
-sudo pacman -S ttf-droid
-sudo pacman -S ttf-hack
-sudo pacman -S ttf-inconsolata
-sudo pacman -S ttf-jetbrains-mono
-sudo pacman -S ttf-joypixels
-sudo pacman -S ttf-liberation
-sudo pacman -S ttf-linux-libertine
-sudo pacman -S ttf-monaco
-sudo pacman -S ttf-ms-fonts
-sudo pacman -S ttf-nerd-fonts-symbols
-sudo pacman -S ttf-opensans
-sudo pacman -S ttf-sarasa-gothic
-sudo pacman -S ttf-symbola
-sudo pacman -S ttf-ubuntu-font-family
-sudo pacman -S ttf-unifont
-sudo pacman -S twolame
-sudo pacman -S tzdata
-sudo pacman -S uchardet
-sudo pacman -S udftools
-sudo pacman -S udisks2
-sudo pacman -S ueberzug
-sudo pacman -S ufw
-sudo pacman -S umbrello
-sudo pacman -S unbound
-sudo pacman -S unibilium
-sudo pacman -S unicode-character-database
-sudo pacman -S unicode-cldr
-sudo pacman -S unicode-cldr-annotations
-sudo pacman -S unicode-emoji
-sudo pacman -S unityhub
-sudo pacman -S unzip
-sudo pacman -S upower
-sudo pacman -S usbmuxd
-sudo pacman -S usbredir
-sudo pacman -S usbutils
-sudo pacman -S util-linux
-sudo pacman -S util-linux-libs
-sudo pacman -S utools
-sudo pacman -S v2ray
-sudo pacman -S v2ray-domain-list-community
-sudo pacman -S v2ray-geoip
-sudo pacman -S v2raya
-sudo pacman -S v4l-utils
-sudo pacman -S v4l2loopback-dc-dkms
-sudo pacman -S v4l2loopback-dkms
-sudo pacman -S vala
-sudo pacman -S vamp-plugin-sdk
-sudo pacman -S vde2
-sudo pacman -S vdpauinfo
-sudo pacman -S ventoy-bin
-sudo pacman -S vi
-sudo pacman -S vid.stab
-sudo pacman -S vim
-sudo pacman -S vim-runtime
-sudo pacman -S virglrenderer
-sudo pacman -S virt-install
-sudo pacman -S virt-manager
-sudo pacman -S virtio-win
-sudo pacman -S virtualbox
-sudo pacman -S virtualbox-host-dkms
-sudo pacman -S visual-studio-code-bin
-sudo pacman -S vkd3d
-sudo pacman -S vlc
-sudo pacman -S vmaf
-sudo pacman -S volume_key
-sudo pacman -S vte-common
-sudo pacman -S vte3
-sudo pacman -S vtk
-sudo pacman -S vulkan-headers
-sudo pacman -S vulkan-icd-loader
-sudo pacman -S vulkan-radeon
-sudo pacman -S vulkan-tools
-sudo pacman -S w3m
-sudo pacman -S wavpack
-sudo pacman -S wayland
-sudo pacman -S wayland-protocols
-sudo pacman -S webkit2gtk
-sudo pacman -S webp-pixbuf-loader
-sudo pacman -S webrtc-audio-processing
-sudo pacman -S weechat
-sudo pacman -S wget
-sudo pacman -S which
-sudo pacman -S whois
-sudo pacman -S wildmidi
-sudo pacman -S wine-mono
-sudo pacman -S wine-valve
-sudo pacman -S winetricks
-sudo pacman -S wireless-regdb
-sudo pacman -S wl-clipboard
-sudo pacman -S wmctrl
-sudo pacman -S woff2
-sudo pacman -S wol
-sudo pacman -S wpa_supplicant
-sudo pacman -S wpebackend-fdo
-sudo pacman -S wqy-bitmapfont
-sudo pacman -S wqy-microhei
-sudo pacman -S wqy-microhei-lite
-sudo pacman -S wqy-zenhei
-sudo pacman -S wxgtk-common
-sudo pacman -S wxgtk3
-sudo pacman -S x11vnc
-sudo pacman -S x264
-sudo pacman -S x265
-sudo pacman -S x86_energy_perf_policy
-sudo pacman -S xapian-core
-sudo pacman -S xaw3d
-sudo pacman -S xcb-imdkit
-sudo pacman -S xcb-proto
-sudo pacman -S xcb-util
-sudo pacman -S xcb-util-cursor
-sudo pacman -S xcb-util-image
-sudo pacman -S xcb-util-keysyms
-sudo pacman -S xcb-util-renderutil
-sudo pacman -S xcb-util-wm
-sudo pacman -S xcb-util-xrm
-sudo pacman -S xclip
-sudo pacman -S xdg-dbus-proxy
-sudo pacman -S xdg-desktop-portal
-sudo pacman -S xdg-desktop-portal-kde
-sudo pacman -S xdg-user-dirs
-sudo pacman -S xdg-utils
-sudo pacman -S xdotool
-sudo pacman -S xerces-c
-sudo pacman -S xf86-input-evdev
-sudo pacman -S xf86-input-libinput
-sudo pacman -S xf86-input-synaptics
-sudo pacman -S xf86-input-vmmouse
-sudo pacman -S xf86-input-void
-sudo pacman -S xf86-video-amdgpu
-sudo pacman -S xf86-video-ati
-sudo pacman -S xf86-video-dummy
-sudo pacman -S xf86-video-fbdev
-sudo pacman -S xf86-video-intel
-sudo pacman -S xf86-video-nouveau
-sudo pacman -S xf86-video-openchrome
-sudo pacman -S xf86-video-qxl
-sudo pacman -S xf86-video-vesa
-sudo pacman -S xf86-video-vmware
-sudo pacman -S xf86-video-voodoo
-sudo pacman -S xfce4-notifyd
-sudo pacman -S xfce4-power-manager
-sudo pacman -S xfconf
-sudo pacman -S xfsprogs
-sudo pacman -S xjadeo
-sudo pacman -S xkeyboard-config
-sudo pacman -S xmlsec
-sudo pacman -S xmrig
-sudo pacman -S xorg-bdftopcf
-sudo pacman -S xorg-docs
-sudo pacman -S xorg-font-util
-sudo pacman -S xorg-fonts-100dpi
-sudo pacman -S xorg-fonts-75dpi
-sudo pacman -S xorg-fonts-alias-100dpi
-sudo pacman -S xorg-fonts-alias-75dpi
-sudo pacman -S xorg-fonts-encodings
-sudo pacman -S xorg-iceauth
-sudo pacman -S xorg-mkfontscale
-sudo pacman -S xorg-server
-sudo pacman -S xorg-server-common
-sudo pacman -S xorg-server-devel
-sudo pacman -S xorg-server-xephyr
-sudo pacman -S xorg-server-xnest
-sudo pacman -S xorg-server-xvfb
-sudo pacman -S xorg-sessreg
-sudo pacman -S xorg-setxkbmap
-sudo pacman -S xorg-smproxy
-sudo pacman -S xorg-util-macros
-sudo pacman -S xorg-x11perf
-sudo pacman -S xorg-xauth
-sudo pacman -S xorg-xcmsdb
-sudo pacman -S xorg-xcursorgen
-sudo pacman -S xorg-xdpyinfo
-sudo pacman -S xorg-xdriinfo
-sudo pacman -S xorg-xev
-sudo pacman -S xorg-xgamma
-sudo pacman -S xorg-xhost
-sudo pacman -S xorg-xinit
-sudo pacman -S xorg-xinput
-sudo pacman -S xorg-xkbcomp
-sudo pacman -S xorg-xkbevd
-sudo pacman -S xorg-xkbutils
-sudo pacman -S xorg-xkill
-sudo pacman -S xorg-xlsatoms
-sudo pacman -S xorg-xlsclients
-sudo pacman -S xorg-xmessage
-sudo pacman -S xorg-xmodmap
-sudo pacman -S xorg-xpr
-sudo pacman -S xorg-xprop
-sudo pacman -S xorg-xrandr
-sudo pacman -S xorg-xrdb
-sudo pacman -S xorg-xrefresh
-sudo pacman -S xorg-xset
-sudo pacman -S xorg-xsetroot
-sudo pacman -S xorg-xvinfo
-sudo pacman -S xorg-xwayland
-sudo pacman -S xorg-xwd
-sudo pacman -S xorg-xwininfo
-sudo pacman -S xorg-xwud
-sudo pacman -S xorgproto
-sudo pacman -S xplane-sdk-devel
-sudo pacman -S xray
-sudo pacman -S xray-domain-list-community
-sudo pacman -S xray-geoip
-sudo pacman -S xsel
-sudo pacman -S xtensa-lx106-elf-gcc-bin
-sudo pacman -S xvidcore
-sudo pacman -S xxhash
-sudo pacman -S xz
-sudo pacman -S yajl
-sudo pacman -S yakuake
-sudo pacman -S yaml-cpp
-sudo pacman -S yaourt
-sudo pacman -S yarn
-sudo pacman -S yasm
-sudo pacman -S yelp-tools
-sudo pacman -S yelp-xsl
-sudo pacman -S you-get
-sudo pacman -S yubico-c
-sudo pacman -S yubico-c-client
-sudo pacman -S yubikey-personalization
-sudo pacman -S zbar
-sudo pacman -S zenity
-sudo pacman -S zeroconf-ioslave
-sudo pacman -S zeromq
-sudo pacman -S zile
-sudo pacman -S zimg
-sudo pacman -S zip
-sudo pacman -S zita-alsa-pcmi
-sudo pacman -S zita-resampler
-sudo pacman -S zlib
-sudo pacman -S zsh
-sudo pacman -S zstd
-sudo pacman -S zvbi
-sudo pacman -S zxing-cpp
+sudo pacman -S --noconfirm 0ad
+sudo pacman -S --noconfirm 0ad-data
+sudo pacman -S --noconfirm a52dec
+sudo pacman -S --noconfirm aalib
+sudo pacman -S --noconfirm abseil-cpp
+sudo pacman -S --noconfirm accounts-qml-module
+sudo pacman -S --noconfirm accountsservice
+sudo pacman -S --noconfirm acl
+sudo pacman -S --noconfirm acorn
+sudo pacman -S --noconfirm acpi
+sudo pacman -S --noconfirm acpi_call-lts
+sudo pacman -S --noconfirm acpilight
+sudo pacman -S --noconfirm acpitool
+sudo pacman -S --noconfirm adapta-gtk-theme
+sudo pacman -S --noconfirm adobe-source-code-pro-fonts
+sudo pacman -S --noconfirm adobe-source-han-mono-cn-fonts
+sudo pacman -S --noconfirm adobe-source-han-sans-cn-fonts
+sudo pacman -S --noconfirm adobe-source-han-sans-otc-fonts
+sudo pacman -S --noconfirm adobe-source-han-serif-cn-fonts
+sudo pacman -S --noconfirm adwaita-icon-theme
+sudo pacman -S --noconfirm aegisub
+sudo pacman -S --noconfirm akonadi
+sudo pacman -S --noconfirm akonadi-calendar
+sudo pacman -S --noconfirm akonadi-calendar-tools
+sudo pacman -S --noconfirm akonadi-contacts
+sudo pacman -S --noconfirm akonadi-import-wizard
+sudo pacman -S --noconfirm akonadi-mime
+sudo pacman -S --noconfirm akonadi-notes
+sudo pacman -S --noconfirm akonadi-search
+sudo pacman -S --noconfirm akonadiconsole
+sudo pacman -S --noconfirm akregator
+sudo pacman -S --noconfirm alacritty
+sudo pacman -S --noconfirm alembic
+sudo pacman -S --noconfirm alpm_octopi_utils
+sudo pacman -S --noconfirm alsa-card-profiles
+sudo pacman -S --noconfirm alsa-firmware
+sudo pacman -S --noconfirm alsa-lib
+sudo pacman -S --noconfirm alsa-oss
+sudo pacman -S --noconfirm alsa-plugins
+sudo pacman -S --noconfirm alsa-tools
+sudo pacman -S --noconfirm alsa-topology-conf
+sudo pacman -S --noconfirm alsa-ucm-conf
+sudo pacman -S --noconfirm alsa-utils
+sudo pacman -S --noconfirm amd-ucode
+sudo pacman -S --noconfirm amdvlk
+sudo pacman -S --noconfirm amtk
+sudo pacman -S --noconfirm analitza
+sudo pacman -S --noconfirm android-tools
+sudo pacman -S --noconfirm android-udev
+sudo pacman -S --noconfirm anthy
+sudo pacman -S --noconfirm anydesk-bin
+sudo pacman -S --noconfirm aom
+sudo pacman -S --noconfirm apache
+sudo pacman -S --noconfirm appstream
+sudo pacman -S --noconfirm appstream-glib
+sudo pacman -S --noconfirm appstream-qt
+sudo pacman -S --noconfirm apr
+sudo pacman -S --noconfirm apr-util
+sudo pacman -S --noconfirm arandr
+sudo pacman -S --noconfirm arc-icon-theme
+sudo pacman -S --noconfirm archlinux-appstream-data
+sudo pacman -S --noconfirm archlinux-keyring
+sudo pacman -S --noconfirm archlinuxcn-keyring
+sudo pacman -S --noconfirm arctime
+sudo pacman -S --noconfirm ardour
+sudo pacman -S --noconfirm arduino
+sudo pacman -S --noconfirm arduino-avr-core
+sudo pacman -S --noconfirm arduino-builder
+sudo pacman -S --noconfirm arduino-ctags
+sudo pacman -S --noconfirm arduino-docs
+sudo pacman -S --noconfirm argon2
+sudo pacman -S --noconfirm aria2
+sudo pacman -S --noconfirm aribb24
+sudo pacman -S --noconfirm ark
+sudo pacman -S --noconfirm artikulate
+sudo pacman -S --noconfirm asciinema
+sudo pacman -S --noconfirm asio
+sudo pacman -S --noconfirm asp
+sudo pacman -S --noconfirm aspell
+sudo pacman -S --noconfirm at-spi2-atk
+sudo pacman -S --noconfirm at-spi2-core
+sudo pacman -S --noconfirm atk
+sudo pacman -S --noconfirm atkmm
+sudo pacman -S --noconfirm atop
+sudo pacman -S --noconfirm attica
+sudo pacman -S --noconfirm attr
+sudo pacman -S --noconfirm aubio
+sudo pacman -S --noconfirm audacity
+sudo pacman -S --noconfirm audiocd-kio
+sudo pacman -S --noconfirm audiofile
+sudo pacman -S --noconfirm audit
+sudo pacman -S --noconfirm autoconf
+sudo pacman -S --noconfirm autoconf-archive
+sudo pacman -S --noconfirm automake
+sudo pacman -S --noconfirm avahi
+sudo pacman -S --noconfirm avogadro-crystals
+sudo pacman -S --noconfirm avogadro-molecules
+sudo pacman -S --noconfirm avogadrolibs
+sudo pacman -S --noconfirm avr-binutils
+sudo pacman -S --noconfirm avr-gcc
+sudo pacman -S --noconfirm avr-libc
+sudo pacman -S --noconfirm avrdude
+sudo pacman -S --noconfirm awesome-terminal-fonts
+sudo pacman -S --noconfirm axel
+sudo pacman -S --noconfirm babl
+sudo pacman -S --noconfirm baloo
+sudo pacman -S --noconfirm baloo-widgets
+sudo pacman -S --noconfirm base
+sudo pacman -S --noconfirm bash
+sudo pacman -S --noconfirm bash-completion
+sudo pacman -S --noconfirm bash-language-server
+sudo pacman -S --noconfirm bashtop
+sudo pacman -S --noconfirm bat
+sudo pacman -S --noconfirm bc
+sudo pacman -S --noconfirm bdf-unifont
+sudo pacman -S --noconfirm bilibili-live-helper-bin
+sudo pacman -S --noconfirm binutils
+sudo pacman -S --noconfirm bison
+sudo pacman -S --noconfirm black-hole-solver
+sudo pacman -S --noconfirm blas
+sudo pacman -S --noconfirm blender
+sudo pacman -S --noconfirm blinken
+sudo pacman -S --noconfirm blosc
+sudo pacman -S --noconfirm bluedevil
+sudo pacman -S --noconfirm bluez
+sudo pacman -S --noconfirm bluez-libs
+sudo pacman -S --noconfirm bluez-qt
+sudo pacman -S --noconfirm bolt
+sudo pacman -S --noconfirm bomber
+sudo pacman -S --noconfirm boost
+sudo pacman -S --noconfirm boost-libs
+sudo pacman -S --noconfirm bovo
+sudo pacman -S --noconfirm box2d
+sudo pacman -S --noconfirm breeze
+sudo pacman -S --noconfirm breeze-gtk
+sudo pacman -S --noconfirm breeze-icons
+sudo pacman -S --noconfirm bridge-utils
+sudo pacman -S --noconfirm brltty
+sudo pacman -S --noconfirm brotli
+sudo pacman -S --noconfirm btrfs-progs
+sudo pacman -S --noconfirm bubblewrap
+sudo pacman -S --noconfirm bullet
+sudo pacman -S --noconfirm bzip2
+sudo pacman -S --noconfirm c-ares
+sudo pacman -S --noconfirm ca-certificates
+sudo pacman -S --noconfirm ca-certificates-mozilla
+sudo pacman -S --noconfirm ca-certificates-utils
+sudo pacman -S --noconfirm cabextract
+sudo pacman -S --noconfirm cairo
+sudo pacman -S --noconfirm cairomm
+sudo pacman -S --noconfirm calendarsupport
+sudo pacman -S --noconfirm cantarell-fonts
+sudo pacman -S --noconfirm cantor
+sudo pacman -S --noconfirm capnproto
+sudo pacman -S --noconfirm catimg
+sudo pacman -S --noconfirm cblas
+sudo pacman -S --noconfirm ccls
+sudo pacman -S --noconfirm cdparanoia
+sudo pacman -S --noconfirm cdrtools
+sudo pacman -S --noconfirm celt
+sudo pacman -S --noconfirm ceph-libs
+sudo pacman -S --noconfirm cervisia
+sudo pacman -S --noconfirm cfitsio
+sudo pacman -S --noconfirm cheese
+sudo pacman -S --noconfirm chromaprint
+sudo pacman -S --noconfirm chrpath
+sudo pacman -S --noconfirm cifs-utils
+sudo pacman -S --noconfirm clang
+sudo pacman -S --noconfirm clucene
+sudo pacman -S --noconfirm clutter
+sudo pacman -S --noconfirm clutter-gst
+sudo pacman -S --noconfirm clutter-gtk
+sudo pacman -S --noconfirm cmake
+sudo pacman -S --noconfirm cmatrix
+sudo pacman -S --noconfirm cogl
+sudo pacman -S --noconfirm colord
+sudo pacman -S --noconfirm com.qq.im.deepin
+sudo pacman -S --noconfirm com.qq.tim.spark
+sudo pacman -S --noconfirm compiler-rt
+sudo pacman -S --noconfirm confuse
+sudo pacman -S --noconfirm containerd
+sudo pacman -S --noconfirm convertlit
+sudo pacman -S --noconfirm coordgen
+sudo pacman -S --noconfirm coreutils
+sudo pacman -S --noconfirm cowsay
+sudo pacman -S --noconfirm cpio
+sudo pacman -S --noconfirm cpupower
+sudo pacman -S --noconfirm crda
+sudo pacman -S --noconfirm cronie
+sudo pacman -S --noconfirm cryptsetup
+sudo pacman -S --noconfirm ctags
+sudo pacman -S --noconfirm cups
+sudo pacman -S --noconfirm cups-filters
+sudo pacman -S --noconfirm curl
+sudo pacman -S --noconfirm dav1d
+sudo pacman -S --noconfirm davfs2
+sudo pacman -S --noconfirm db
+sudo pacman -S --noconfirm dbus
+sudo pacman -S --noconfirm dbus-glib
+sudo pacman -S --noconfirm dbus-python
+sudo pacman -S --noconfirm dconf
+sudo pacman -S --noconfirm ddcutil
+sudo pacman -S --noconfirm debtap
+sudo pacman -S --noconfirm deepin-udis86
+sudo pacman -S --noconfirm deepin-wine-helper
+sudo pacman -S --noconfirm deepin-wine-plugin
+sudo pacman -S --noconfirm deepin-wine-plugin-virtual
+sudo pacman -S --noconfirm deepin-wine5
+sudo pacman -S --noconfirm deepin-wine5-i386
+sudo pacman -S --noconfirm deepin.com.qq.im.light
+sudo pacman -S --noconfirm desktop-file-utils
+sudo pacman -S --noconfirm device-mapper
+sudo pacman -S --noconfirm dhcp
+sudo pacman -S --noconfirm dhcpcd
+sudo pacman -S --noconfirm diffutils
+sudo pacman -S --noconfirm discord
+sudo pacman -S --noconfirm discount
+sudo pacman -S --noconfirm discover
+sudo pacman -S --noconfirm distorm
+sudo pacman -S --noconfirm djvulibre
+sudo pacman -S --noconfirm dkms
+sudo pacman -S --noconfirm dmenu
+sudo pacman -S --noconfirm dmidecode
+sudo pacman -S --noconfirm dmraid
+sudo pacman -S --noconfirm dnsmasq
+sudo pacman -S --noconfirm dnssec-anchors
+sudo pacman -S --noconfirm docbook-xml
+sudo pacman -S --noconfirm docbook-xsl
+sudo pacman -S --noconfirm docker
+sudo pacman -S --noconfirm dolphin
+sudo pacman -S --noconfirm dolphin-plugins
+sudo pacman -S --noconfirm dosbox
+sudo pacman -S --noconfirm dosfstools
+sudo pacman -S --noconfirm dotnet-host
+sudo pacman -S --noconfirm dotnet-runtime
+sudo pacman -S --noconfirm dotnet-sdk
+sudo pacman -S --noconfirm dotnet-targeting-pack
+sudo pacman -S --noconfirm double-conversion
+sudo pacman -S --noconfirm doxygen
+sudo pacman -S --noconfirm drkonqi
+sudo pacman -S --noconfirm droidcam
+sudo pacman -S --noconfirm dtc
+sudo pacman -S --noconfirm dune
+sudo pacman -S --noconfirm dvdauthor
+sudo pacman -S --noconfirm dvgrab
+sudo pacman -S --noconfirm e2fsprogs
+sudo pacman -S --noconfirm ebook-tools
+sudo pacman -S --noconfirm eclipse-ecj
+sudo pacman -S --noconfirm eclipse-emf
+sudo pacman -S --noconfirm eclipse-platform
+sudo pacman -S --noconfirm editorconfig-core-c
+sudo pacman -S --noconfirm edk2-ovmf
+sudo pacman -S --noconfirm efibootmgr
+sudo pacman -S --noconfirm efivar
+sudo pacman -S --noconfirm egl-wayland
+sudo pacman -S --noconfirm eglexternalplatform
+sudo pacman -S --noconfirm electron
+sudo pacman -S --noconfirm electron-netease-cloud-music
+sudo pacman -S --noconfirm elementary-icon-theme
+sudo pacman -S --noconfirm elfutils
+sudo pacman -S --noconfirm elisa
+sudo pacman -S --noconfirm emacs-ctable
+sudo pacman -S --noconfirm emacs-deferred
+sudo pacman -S --noconfirm emacs-epc
+sudo pacman -S --noconfirm emacs-git
+sudo pacman -S --noconfirm embree
+sudo pacman -S --noconfirm enca
+sudo pacman -S --noconfirm enchant
+sudo pacman -S --noconfirm enet
+sudo pacman -S --noconfirm epherome
+sudo pacman -S --noconfirm esp8266-nonos-sdk
+sudo pacman -S --noconfirm esptool
+sudo pacman -S --noconfirm ethtool
+sudo pacman -S --noconfirm eventviews
+sudo pacman -S --noconfirm exa
+sudo pacman -S --noconfirm exempi
+sudo pacman -S --noconfirm exfatprogs
+sudo pacman -S --noconfirm exiv2
+sudo pacman -S --noconfirm expat
+sudo pacman -S --noconfirm extra-cmake-modules
+sudo pacman -S --noconfirm f2fs-tools
+sudo pacman -S --noconfirm faac
+sudo pacman -S --noconfirm faad2
+sudo pacman -S --noconfirm fail2ban
+sudo pacman -S --noconfirm fakeroot
+sudo pacman -S --noconfirm farstream
+sudo pacman -S --noconfirm faudio
+sudo pacman -S --noconfirm fcitx5
+sudo pacman -S --noconfirm fcitx5-anthy
+sudo pacman -S --noconfirm fcitx5-breeze
+sudo pacman -S --noconfirm fcitx5-chewing
+sudo pacman -S --noconfirm fcitx5-chinese-addons
+sudo pacman -S --noconfirm fcitx5-configtool
+sudo pacman -S --noconfirm fcitx5-gtk
+sudo pacman -S --noconfirm fcitx5-material-color
+sudo pacman -S --noconfirm fcitx5-pinyin-moegirl
+sudo pacman -S --noconfirm fcitx5-pinyin-zhwiki
+sudo pacman -S --noconfirm fcitx5-qt
+sudo pacman -S --noconfirm fcitx5-rime
+sudo pacman -S --noconfirm fd
+sudo pacman -S --noconfirm feh
+sudo pacman -S --noconfirm ffmpeg
+sudo pacman -S --noconfirm ffmpegthumbs
+sudo pacman -S --noconfirm ffms2
+sudo pacman -S --noconfirm ffnvcodec-headers
+sudo pacman -S --noconfirm fftw
+sudo pacman -S --noconfirm figlet
+sudo pacman -S --noconfirm file
+sudo pacman -S --noconfirm filebrowser-bin
+sudo pacman -S --noconfirm filelight
+sudo pacman -S --noconfirm filesystem
+sudo pacman -S --noconfirm findutils
+sudo pacman -S --noconfirm fingerprint-gui
+sudo pacman -S --noconfirm firefox
+sudo pacman -S --noconfirm firewalld
+sudo pacman -S --noconfirm flac
+sudo pacman -S --noconfirm flameshot
+sudo pacman -S --noconfirm flatpak
+sudo pacman -S --noconfirm flex
+sudo pacman -S --noconfirm flite
+sudo pacman -S --noconfirm fltk
+sudo pacman -S --noconfirm fluidsynth
+sudo pacman -S --noconfirm fmt
+sudo pacman -S --noconfirm fontconfig
+sudo pacman -S --noconfirm fpc
+sudo pacman -S --noconfirm fpc-src
+sudo pacman -S --noconfirm fprintd
+sudo pacman -S --noconfirm frameworkintegration
+sudo pacman -S --noconfirm freecell-solver
+sudo pacman -S --noconfirm freeglut
+sudo pacman -S --noconfirm freeimage
+sudo pacman -S --noconfirm freerdp
+sudo pacman -S --noconfirm freetype2
+sudo pacman -S --noconfirm frei0r-plugins
+sudo pacman -S --noconfirm fribidi
+sudo pacman -S --noconfirm frpc
+sudo pacman -S --noconfirm fstrm
+sudo pacman -S --noconfirm fuckmemory
+sudo pacman -S --noconfirm fuse-common
+sudo pacman -S --noconfirm fuse2
+sudo pacman -S --noconfirm fuse3
+sudo pacman -S --noconfirm fzf
+sudo pacman -S --noconfirm gamemode
+sudo pacman -S --noconfirm gavl
+sudo pacman -S --noconfirm gawk
+sudo pacman -S --noconfirm gc
+sudo pacman -S --noconfirm gcab
+sudo pacman -S --noconfirm gcc
+sudo pacman -S --noconfirm gcc-libs
+sudo pacman -S --noconfirm gconf
+sudo pacman -S --noconfirm gcr
+sudo pacman -S --noconfirm gd
+sudo pacman -S --noconfirm gdb
+sudo pacman -S --noconfirm gdb-common
+sudo pacman -S --noconfirm gdbm
+sudo pacman -S --noconfirm gdk-pixbuf2
+sudo pacman -S --noconfirm gdl
+sudo pacman -S --noconfirm gedit
+sudo pacman -S --noconfirm gegl
+sudo pacman -S --noconfirm geoclue
+sudo pacman -S --noconfirm geocode-glib
+sudo pacman -S --noconfirm geoip
+sudo pacman -S --noconfirm geoip-database
+sudo pacman -S --noconfirm gettext
+sudo pacman -S --noconfirm gflags
+sudo pacman -S --noconfirm ghostpcl
+sudo pacman -S --noconfirm ghostscript
+sudo pacman -S --noconfirm ghostxps
+sudo pacman -S --noconfirm giblib
+sudo pacman -S --noconfirm giflib
+sudo pacman -S --noconfirm gimp
+sudo pacman -S --noconfirm git
+sudo pacman -S --noconfirm git-delta-git
+sudo pacman -S --noconfirm git-lfs
+sudo pacman -S --noconfirm github-cli
+sudo pacman -S --noconfirm gl2ps
+sudo pacman -S --noconfirm glew
+sudo pacman -S --noconfirm glew1.10
+sudo pacman -S --noconfirm glfw-wayland
+sudo pacman -S --noconfirm glib-networking
+sudo pacman -S --noconfirm glib2
+sudo pacman -S --noconfirm glib2-docs
+sudo pacman -S --noconfirm glibc
+sudo pacman -S --noconfirm glibmm
+sudo pacman -S --noconfirm glm
+sudo pacman -S --noconfirm gloox
+sudo pacman -S --noconfirm glslang
+sudo pacman -S --noconfirm glu
+sudo pacman -S --noconfirm glusterfs
+sudo pacman -S --noconfirm gmp
+sudo pacman -S --noconfirm gn-m85
+sudo pacman -S --noconfirm gnome-autoar
+sudo pacman -S --noconfirm gnome-common
+sudo pacman -S --noconfirm gnome-desktop
+sudo pacman -S --noconfirm gnome-icon-theme
+sudo pacman -S --noconfirm gnome-icon-theme-symbolic
+sudo pacman -S --noconfirm gnome-video-effects
+sudo pacman -S --noconfirm gnugo
+sudo pacman -S --noconfirm gnupg
+sudo pacman -S --noconfirm gnutls
+sudo pacman -S --noconfirm go
+sudo pacman -S --noconfirm gobject-introspection
+sudo pacman -S --noconfirm gobject-introspection-runtime
+sudo pacman -S --noconfirm godot
+sudo pacman -S --noconfirm google-chrome
+sudo pacman -S --noconfirm google-glog
+sudo pacman -S --noconfirm gopls
+sudo pacman -S --noconfirm goverlay
+sudo pacman -S --noconfirm gpart
+sudo pacman -S --noconfirm gparted
+sudo pacman -S --noconfirm gperf
+sudo pacman -S --noconfirm gperftools
+sudo pacman -S --noconfirm gpgme
+sudo pacman -S --noconfirm gpm
+sudo pacman -S --noconfirm gptfdisk
+sudo pacman -S --noconfirm gradle
+sudo pacman -S --noconfirm gradle-src
+sudo pacman -S --noconfirm granatier
+sudo pacman -S --noconfirm grantlee
+sudo pacman -S --noconfirm grantlee-editor
+sudo pacman -S --noconfirm grantleetheme
+sudo pacman -S --noconfirm graphene
+sudo pacman -S --noconfirm graphicsmagick
+sudo pacman -S --noconfirm graphite
+sudo pacman -S --noconfirm graphviz
+sudo pacman -S --noconfirm grep
+sudo pacman -S --noconfirm groff
+sudo pacman -S --noconfirm groovy
+sudo pacman -S --noconfirm grpc
+sudo pacman -S --noconfirm grpc-cli
+sudo pacman -S --noconfirm grub
+sudo pacman -S --noconfirm grub-customizer
+sudo pacman -S --noconfirm gsettings-desktop-schemas
+sudo pacman -S --noconfirm gsfonts
+sudo pacman -S --noconfirm gsl
+sudo pacman -S --noconfirm gsm
+sudo pacman -S --noconfirm gsmartcontrol
+sudo pacman -S --noconfirm gspell
+sudo pacman -S --noconfirm gssdp
+sudo pacman -S --noconfirm gst-libav
+sudo pacman -S --noconfirm gst-plugins-bad
+sudo pacman -S --noconfirm gst-plugins-bad-libs
+sudo pacman -S --noconfirm gst-plugins-base
+sudo pacman -S --noconfirm gst-plugins-base-libs
+sudo pacman -S --noconfirm gst-plugins-good
+sudo pacman -S --noconfirm gstreamer
+sudo pacman -S --noconfirm gtest
+sudo pacman -S --noconfirm gtk-doc
+sudo pacman -S --noconfirm gtk-update-icon-cache
+sudo pacman -S --noconfirm gtk-vnc
+sudo pacman -S --noconfirm gtk2
+sudo pacman -S --noconfirm gtk3
+sudo pacman -S --noconfirm gtk4
+sudo pacman -S --noconfirm gtkglext
+sudo pacman -S --noconfirm gtkmm
+sudo pacman -S --noconfirm gtkmm3
+sudo pacman -S --noconfirm gtksourceview4
+sudo pacman -S --noconfirm gtkspell3
+sudo pacman -S --noconfirm gtop
+sudo pacman -S --noconfirm gts
+sudo pacman -S --noconfirm guile
+sudo pacman -S --noconfirm gumbo-parser
+sudo pacman -S --noconfirm gupnp
+sudo pacman -S --noconfirm gupnp-dlna
+sudo pacman -S --noconfirm gupnp-igd
+sudo pacman -S --noconfirm gv
+sudo pacman -S --noconfirm gvfs
+sudo pacman -S --noconfirm gwenview
+sudo pacman -S --noconfirm gzip
+sudo pacman -S --noconfirm harfbuzz
+sudo pacman -S --noconfirm harfbuzz-icu
+sudo pacman -S --noconfirm harvid
+sudo pacman -S --noconfirm hdf5
+sudo pacman -S --noconfirm hdparm
+sudo pacman -S --noconfirm help2man
+sudo pacman -S --noconfirm hicolor-icon-theme
+sudo pacman -S --noconfirm hidapi
+sudo pacman -S --noconfirm hiredis
+sudo pacman -S --noconfirm hmcl
+sudo pacman -S --noconfirm howdy
+sudo pacman -S --noconfirm htop
+sudo pacman -S --noconfirm http-parser
+sudo pacman -S --noconfirm hugo
+sudo pacman -S --noconfirm hunspell
+sudo pacman -S --noconfirm hwids
+sudo pacman -S --noconfirm hwinfo
+sudo pacman -S --noconfirm hwloc
+sudo pacman -S --noconfirm hyphen
+sudo pacman -S --noconfirm i2c-tools
+sudo pacman -S --noconfirm i3lock-color-git
+sudo pacman -S --noconfirm r774.a318ff3-1
+sudo pacman -S --noconfirm iana-etc
+sudo pacman -S --noconfirm ibam
+sudo pacman -S --noconfirm icoutils
+sudo pacman -S --noconfirm icu
+sudo pacman -S --noconfirm id3lib
+sudo pacman -S --noconfirm ijs
+sudo pacman -S --noconfirm imagemagick
+sudo pacman -S --noconfirm imath
+sudo pacman -S --noconfirm imlib2
+sudo pacman -S --noconfirm incidenceeditor
+sudo pacman -S --noconfirm iniparser
+sudo pacman -S --noconfirm inkscape
+sudo pacman -S --noconfirm intellij-idea-community-edition
+sudo pacman -S --noconfirm intltool
+sudo pacman -S --noconfirm iproute2
+sudo pacman -S --noconfirm iptables-nft
+sudo pacman -S --noconfirm iputils
+sudo pacman -S --noconfirm ipython
+sudo pacman -S --noconfirm iso-codes
+sudo pacman -S --noconfirm itinerary
+sudo pacman -S --noconfirm itstool
+sudo pacman -S --noconfirm iw
+sudo pacman -S --noconfirm jack2
+sudo pacman -S --noconfirm jack2-dbus
+sudo pacman -S --noconfirm jack_capture
+sudo pacman -S --noconfirm jack_delay
+sudo pacman -S --noconfirm jack_mixer
+sudo pacman -S --noconfirm jack_utils
+sudo pacman -S --noconfirm jansson
+sudo pacman -S --noconfirm jasper
+sudo pacman -S --noconfirm java-environment-common
+sudo pacman -S --noconfirm java-runtime-common
+sudo pacman -S --noconfirm java11-openjfx
+sudo pacman -S --noconfirm java8-openjfx
+sudo pacman -S --noconfirm jbig2dec
+sudo pacman -S --noconfirm jbigkit
+sudo pacman -S --noconfirm jdk-openjdk
+sudo pacman -S --noconfirm jdk11-openjdk
+sudo pacman -S --noconfirm jdk8-openjdk
+sudo pacman -S --noconfirm jemalloc
+sudo pacman -S --noconfirm jfsutils
+sudo pacman -S --noconfirm joe
+sudo pacman -S --noconfirm jq
+sudo pacman -S --noconfirm jre-openjdk
+sudo pacman -S --noconfirm jre-openjdk-headless
+sudo pacman -S --noconfirm jre11-openjdk
+sudo pacman -S --noconfirm jre11-openjdk-headless
+sudo pacman -S --noconfirm jre8-openjdk
+sudo pacman -S --noconfirm jre8-openjdk-headless
+sudo pacman -S --noconfirm js78
+sudo pacman -S --noconfirm json-c
+sudo pacman -S --noconfirm json-glib
+sudo pacman -S --noconfirm jsoncpp
+sudo pacman -S --noconfirm juk
+sudo pacman -S --noconfirm jxrlib
+sudo pacman -S --noconfirm k3b
+sudo pacman -S --noconfirm kaccounts-integration
+sudo pacman -S --noconfirm kaccounts-providers
+sudo pacman -S --noconfirm kactivities
+sudo pacman -S --noconfirm kactivities-stats
+sudo pacman -S --noconfirm kactivitymanagerd
+sudo pacman -S --noconfirm kaddressbook
+sudo pacman -S --noconfirm kajongg
+sudo pacman -S --noconfirm kalarm
+sudo pacman -S --noconfirm kalarmcal
+sudo pacman -S --noconfirm kalgebra
+sudo pacman -S --noconfirm kalzium
+sudo pacman -S --noconfirm kamera
+sudo pacman -S --noconfirm kamoso
+sudo pacman -S --noconfirm kanagram
+sudo pacman -S --noconfirm kapman
+sudo pacman -S --noconfirm kapptemplate
+sudo pacman -S --noconfirm karchive
+sudo pacman -S --noconfirm kate
+sudo pacman -S --noconfirm katomic
+sudo pacman -S --noconfirm kauth
+sudo pacman -S --noconfirm kbackup
+sudo pacman -S --noconfirm kbd
+sudo pacman -S --noconfirm kblackbox
+sudo pacman -S --noconfirm kblocks
+sudo pacman -S --noconfirm kbookmarks
+sudo pacman -S --noconfirm kbounce
+sudo pacman -S --noconfirm kbreakout
+sudo pacman -S --noconfirm kbruch
+sudo pacman -S --noconfirm kcachegrind
+sudo pacman -S --noconfirm kcachegrind-common
+sudo pacman -S --noconfirm kcalc
+sudo pacman -S --noconfirm kcalendarcore
+sudo pacman -S --noconfirm kcalutils
+sudo pacman -S --noconfirm kcharselect
+sudo pacman -S --noconfirm kcmutils
+sudo pacman -S --noconfirm kcodecs
+sudo pacman -S --noconfirm kcolorchooser
+sudo pacman -S --noconfirm kcolorpicker
+sudo pacman -S --noconfirm kcompletion
+sudo pacman -S --noconfirm kconfig
+sudo pacman -S --noconfirm kconfigwidgets
+sudo pacman -S --noconfirm kcontacts
+sudo pacman -S --noconfirm kcoreaddons
+sudo pacman -S --noconfirm kcrash
+sudo pacman -S --noconfirm kcron
+sudo pacman -S --noconfirm kdav
+sudo pacman -S --noconfirm kdbusaddons
+sudo pacman -S --noconfirm kde-cli-tools
+sudo pacman -S --noconfirm kde-dev-scripts
+sudo pacman -S --noconfirm kde-dev-utils
+sudo pacman -S --noconfirm kde-gtk-config
+sudo pacman -S --noconfirm kdebugsettings
+sudo pacman -S --noconfirm kdeclarative
+sudo pacman -S --noconfirm kdeconnect
+sudo pacman -S --noconfirm kdecoration
+sudo pacman -S --noconfirm kded
+sudo pacman -S --noconfirm kdeedu-data
+sudo pacman -S --noconfirm kdegraphics-mobipocket
+sudo pacman -S --noconfirm kdegraphics-thumbnailers
+sudo pacman -S --noconfirm kdelibs4support
+sudo pacman -S --noconfirm kdenetwork-filesharing
+sudo pacman -S --noconfirm kdenlive
+sudo pacman -S --noconfirm kdepim-addons
+sudo pacman -S --noconfirm kdepim-runtime
+sudo pacman -S --noconfirm kdeplasma-addons
+sudo pacman -S --noconfirm kdesdk-kioslaves
+sudo pacman -S --noconfirm kdesdk-thumbnailers
+sudo pacman -S --noconfirm kdesu
+sudo pacman -S --noconfirm kdevelop
+sudo pacman -S --noconfirm kdevelop-php
+sudo pacman -S --noconfirm kdf
+sudo pacman -S --noconfirm kdiagram
+sudo pacman -S --noconfirm kdialog
+sudo pacman -S --noconfirm kdiamond
+sudo pacman -S --noconfirm kdnssd
+sudo pacman -S --noconfirm kdoctools
+sudo pacman -S --noconfirm kdsoap
+sudo pacman -S --noconfirm kdsoap-ws-discovery-client
+sudo pacman -S --noconfirm git20200927-2
+sudo pacman -S --noconfirm keditbookmarks
+sudo pacman -S --noconfirm keepass
+sudo pacman -S --noconfirm keepass-plugin-keeagent
+sudo pacman -S --noconfirm keepassxc
+sudo pacman -S --noconfirm kemoticons
+sudo pacman -S --noconfirm keyutils
+sudo pacman -S --noconfirm kfilemetadata
+sudo pacman -S --noconfirm kfind
+sudo pacman -S --noconfirm kfloppy
+sudo pacman -S --noconfirm kfourinline
+sudo pacman -S --noconfirm kgamma5
+sudo pacman -S --noconfirm kgeography
+sudo pacman -S --noconfirm kget
+sudo pacman -S --noconfirm kglobalaccel
+sudo pacman -S --noconfirm kgoldrunner
+sudo pacman -S --noconfirm kgpg
+sudo pacman -S --noconfirm kguiaddons
+sudo pacman -S --noconfirm khangman
+sudo pacman -S --noconfirm khelpcenter
+sudo pacman -S --noconfirm kholidays
+sudo pacman -S --noconfirm khotkeys
+sudo pacman -S --noconfirm khtml
+sudo pacman -S --noconfirm ki18n
+sudo pacman -S --noconfirm kicad
+sudo pacman -S --noconfirm kicad-library
+sudo pacman -S --noconfirm kicad-library-3d
+sudo pacman -S --noconfirm kiconthemes
+sudo pacman -S --noconfirm kidentitymanagement
+sudo pacman -S --noconfirm kidletime
+sudo pacman -S --noconfirm kig
+sudo pacman -S --noconfirm kigo
+sudo pacman -S --noconfirm killbots
+sudo pacman -S --noconfirm kimageannotator
+sudo pacman -S --noconfirm kimagemapeditor
+sudo pacman -S --noconfirm kimap
+sudo pacman -S --noconfirm kindd
+sudo pacman -S --noconfirm kinfocenter
+sudo pacman -S --noconfirm kinit
+sudo pacman -S --noconfirm kio
+sudo pacman -S --noconfirm kio-extras
+sudo pacman -S --noconfirm kio-fuse
+sudo pacman -S --noconfirm kio-gdrive
+sudo pacman -S --noconfirm kipi-plugins
+sudo pacman -S --noconfirm kirigami-gallery
+sudo pacman -S --noconfirm kirigami2
+sudo pacman -S --noconfirm kiriki
+sudo pacman -S --noconfirm kitemmodels
+sudo pacman -S --noconfirm kitemviews
+sudo pacman -S --noconfirm kiten
+sudo pacman -S --noconfirm kitinerary
+sudo pacman -S --noconfirm kjobwidgets
+sudo pacman -S --noconfirm kjs
+sudo pacman -S --noconfirm kjumpingcube
+sudo pacman -S --noconfirm kldap
+sudo pacman -S --noconfirm kleopatra
+sudo pacman -S --noconfirm klettres
+sudo pacman -S --noconfirm klickety
+sudo pacman -S --noconfirm klines
+sudo pacman -S --noconfirm kmag
+sudo pacman -S --noconfirm kmahjongg
+sudo pacman -S --noconfirm kmail
+sudo pacman -S --noconfirm kmail-account-wizard
+sudo pacman -S --noconfirm kmailtransport
+sudo pacman -S --noconfirm kmbox
+sudo pacman -S --noconfirm kmenuedit
+sudo pacman -S --noconfirm kmime
+sudo pacman -S --noconfirm kmines
+sudo pacman -S --noconfirm kmix
+sudo pacman -S --noconfirm kmod
+sudo pacman -S --noconfirm kmousetool
+sudo pacman -S --noconfirm kmouth
+sudo pacman -S --noconfirm kmplot
+sudo pacman -S --noconfirm knavalbattle
+sudo pacman -S --noconfirm knetwalk
+sudo pacman -S --noconfirm knewstuff
+sudo pacman -S --noconfirm knights
+sudo pacman -S --noconfirm knotes
+sudo pacman -S --noconfirm knotifications
+sudo pacman -S --noconfirm knotifyconfig
+sudo pacman -S --noconfirm kolf
+sudo pacman -S --noconfirm kollision
+sudo pacman -S --noconfirm kolourpaint
+sudo pacman -S --noconfirm kompare
+sudo pacman -S --noconfirm konqueror
+sudo pacman -S --noconfirm konquest
+sudo pacman -S --noconfirm konsole
+sudo pacman -S --noconfirm kontact
+sudo pacman -S --noconfirm kontactinterface
+sudo pacman -S --noconfirm konversation
+sudo pacman -S --noconfirm kopeninghours
+sudo pacman -S --noconfirm kopete
+sudo pacman -S --noconfirm korganizer
+sudo pacman -S --noconfirm kosmindoormap
+sudo pacman -S --noconfirm kotlin
+sudo pacman -S --noconfirm kpackage
+sudo pacman -S --noconfirm kparts
+sudo pacman -S --noconfirm kpat
+sudo pacman -S --noconfirm kpeople
+sudo pacman -S --noconfirm kpeoplevcard
+sudo pacman -S --noconfirm kpimtextedit
+sudo pacman -S --noconfirm kpkpass
+sudo pacman -S --noconfirm kplotting
+sudo pacman -S --noconfirm kpmcore
+sudo pacman -S --noconfirm kpty
+sudo pacman -S --noconfirm kpublictransport
+sudo pacman -S --noconfirm kqtquickcharts
+sudo pacman -S --noconfirm kquickcharts
+sudo pacman -S --noconfirm krb5
+sudo pacman -S --noconfirm krdc
+sudo pacman -S --noconfirm kreversi
+sudo pacman -S --noconfirm krfb
+sudo pacman -S --noconfirm kross
+sudo pacman -S --noconfirm kross-interpreters
+sudo pacman -S --noconfirm kruler
+sudo pacman -S --noconfirm krunner
+sudo pacman -S --noconfirm kscreen
+sudo pacman -S --noconfirm kscreenlocker
+sudo pacman -S --noconfirm kservice
+sudo pacman -S --noconfirm kshisen
+sudo pacman -S --noconfirm ksirk
+sudo pacman -S --noconfirm ksmtp
+sudo pacman -S --noconfirm ksnakeduel
+sudo pacman -S --noconfirm kspaceduel
+sudo pacman -S --noconfirm ksquares
+sudo pacman -S --noconfirm ksshaskpass
+sudo pacman -S --noconfirm ksudoku
+sudo pacman -S --noconfirm ksysguard
+sudo pacman -S --noconfirm ksystemlog
+sudo pacman -S --noconfirm ksystemstats
+sudo pacman -S --noconfirm kteatime
+sudo pacman -S --noconfirm ktexteditor
+sudo pacman -S --noconfirm ktextwidgets
+sudo pacman -S --noconfirm ktimer
+sudo pacman -S --noconfirm ktnef
+sudo pacman -S --noconfirm ktorrent
+sudo pacman -S --noconfirm ktouch
+sudo pacman -S --noconfirm ktuberling
+sudo pacman -S --noconfirm kturtle
+sudo pacman -S --noconfirm kubrick
+sudo pacman -S --noconfirm kunitconversion
+sudo pacman -S --noconfirm kuserfeedback
+sudo pacman -S --noconfirm kwallet
+sudo pacman -S --noconfirm kwallet-pam
+sudo pacman -S --noconfirm kwalletmanager
+sudo pacman -S --noconfirm kwave
+sudo pacman -S --noconfirm kwayland
+sudo pacman -S --noconfirm kwayland-integration
+sudo pacman -S --noconfirm kwayland-server
+sudo pacman -S --noconfirm kwidgetsaddons
+sudo pacman -S --noconfirm kwin
+sudo pacman -S --noconfirm kwindowsystem
+sudo pacman -S --noconfirm kwordquiz
+sudo pacman -S --noconfirm kwrite
+sudo pacman -S --noconfirm kwrited
+sudo pacman -S --noconfirm kxmlgui
+sudo pacman -S --noconfirm l-smash
+sudo pacman -S --noconfirm ladspa
+sudo pacman -S --noconfirm lame
+sudo pacman -S --noconfirm lapack
+sudo pacman -S --noconfirm latte-dock-git
+sudo pacman -S --noconfirm layer-shell-qt
+sudo pacman -S --noconfirm lazarus
+sudo pacman -S --noconfirm lazydocker
+sudo pacman -S --noconfirm lcms2
+sudo pacman -S --noconfirm ldb
+sudo pacman -S --noconfirm ldns
+sudo pacman -S --noconfirm lensfun
+sudo pacman -S --noconfirm less
+sudo pacman -S --noconfirm leveldb
+sudo pacman -S --noconfirm lf
+sudo pacman -S --noconfirm lib2geom
+sudo pacman -S --noconfirm lib32-acl
+sudo pacman -S --noconfirm lib32-alsa-lib
+sudo pacman -S --noconfirm lib32-alsa-plugins
+sudo pacman -S --noconfirm lib32-amdvlk
+sudo pacman -S --noconfirm lib32-at-spi2-atk
+sudo pacman -S --noconfirm lib32-at-spi2-core
+sudo pacman -S --noconfirm lib32-atk
+sudo pacman -S --noconfirm lib32-attr
+sudo pacman -S --noconfirm lib32-brotli
+sudo pacman -S --noconfirm lib32-bzip2
+sudo pacman -S --noconfirm lib32-cairo
+sudo pacman -S --noconfirm lib32-clang
+sudo pacman -S --noconfirm lib32-colord
+sudo pacman -S --noconfirm lib32-curl
+sudo pacman -S --noconfirm lib32-dbus
+sudo pacman -S --noconfirm lib32-dbus-glib
+sudo pacman -S --noconfirm lib32-dconf
+sudo pacman -S --noconfirm lib32-e2fsprogs
+sudo pacman -S --noconfirm lib32-expat
+sudo pacman -S --noconfirm lib32-faudio
+sudo pacman -S --noconfirm lib32-flac
+sudo pacman -S --noconfirm lib32-fluidsynth
+sudo pacman -S --noconfirm lib32-fontconfig
+sudo pacman -S --noconfirm lib32-freeglut
+sudo pacman -S --noconfirm lib32-freetype2
+sudo pacman -S --noconfirm lib32-fribidi
+sudo pacman -S --noconfirm lib32-gcc-libs
+sudo pacman -S --noconfirm lib32-gdk-pixbuf2
+sudo pacman -S --noconfirm lib32-gettext
+sudo pacman -S --noconfirm lib32-giflib
+sudo pacman -S --noconfirm lib32-glew1.10
+sudo pacman -S --noconfirm lib32-glib-networking
+sudo pacman -S --noconfirm lib32-glib2
+sudo pacman -S --noconfirm lib32-glibc
+sudo pacman -S --noconfirm lib32-glu
+sudo pacman -S --noconfirm lib32-gmp
+sudo pacman -S --noconfirm lib32-gnutls
+sudo pacman -S --noconfirm lib32-gst-plugins-base-libs
+sudo pacman -S --noconfirm lib32-gstreamer
+sudo pacman -S --noconfirm lib32-gtk2
+sudo pacman -S --noconfirm lib32-gtk3
+sudo pacman -S --noconfirm lib32-harfbuzz
+sudo pacman -S --noconfirm lib32-icu
+sudo pacman -S --noconfirm lib32-imlib2
+sudo pacman -S --noconfirm lib32-jack2
+sudo pacman -S --noconfirm lib32-jansson
+sudo pacman -S --noconfirm lib32-json-glib
+sudo pacman -S --noconfirm lib32-keyutils
+sudo pacman -S --noconfirm lib32-krb5
+sudo pacman -S --noconfirm lib32-l-smash
+sudo pacman -S --noconfirm lib32-lcms2
+sudo pacman -S --noconfirm lib32-libappindicator-gtk2
+sudo pacman -S --noconfirm lib32-libappindicator-gtk3
+sudo pacman -S --noconfirm lib32-libasyncns
+sudo pacman -S --noconfirm lib32-libcaca
+sudo pacman -S --noconfirm lib32-libcanberra
+sudo pacman -S --noconfirm lib32-libcap
+sudo pacman -S --noconfirm lib32-libcups
+sudo pacman -S --noconfirm lib32-libcurl-compat
+sudo pacman -S --noconfirm lib32-libcurl-gnutls
+sudo pacman -S --noconfirm lib32-libdatrie
+sudo pacman -S --noconfirm lib32-libdbusmenu-glib
+sudo pacman -S --noconfirm lib32-libdbusmenu-gtk2
+sudo pacman -S --noconfirm lib32-libdbusmenu-gtk3
+sudo pacman -S --noconfirm lib32-libdrm
+sudo pacman -S --noconfirm lib32-libelf
+sudo pacman -S --noconfirm lib32-libepoxy
+sudo pacman -S --noconfirm lib32-libffi
+sudo pacman -S --noconfirm lib32-libgcrypt
+sudo pacman -S --noconfirm lib32-libgcrypt15
+sudo pacman -S --noconfirm lib32-libglvnd
+sudo pacman -S --noconfirm lib32-libgpg-error
+sudo pacman -S --noconfirm lib32-libgudev
+sudo pacman -S --noconfirm lib32-libgusb
+sudo pacman -S --noconfirm lib32-libice
+sudo pacman -S --noconfirm lib32-libid3tag
+sudo pacman -S --noconfirm lib32-libidn11
+sudo pacman -S --noconfirm lib32-libidn2
+sudo pacman -S --noconfirm lib32-libindicator-gtk2
+sudo pacman -S --noconfirm lib32-libindicator-gtk3
+sudo pacman -S --noconfirm lib32-libinstpatch
+sudo pacman -S --noconfirm lib32-libjpeg-turbo
+sudo pacman -S --noconfirm lib32-libjpeg6-turbo
+sudo pacman -S --noconfirm lib32-libldap
+sudo pacman -S --noconfirm lib32-libltdl
+sudo pacman -S --noconfirm lib32-libmikmod
+sudo pacman -S --noconfirm lib32-libmodplug
+sudo pacman -S --noconfirm lib32-libnl
+sudo pacman -S --noconfirm lib32-libnm
+sudo pacman -S --noconfirm lib32-libnsl
+sudo pacman -S --noconfirm lib32-libogg
+sudo pacman -S --noconfirm lib32-libpcap
+sudo pacman -S --noconfirm lib32-libpciaccess
+sudo pacman -S --noconfirm lib32-libpng
+sudo pacman -S --noconfirm lib32-libpng12
+sudo pacman -S --noconfirm lib32-libproxy
+sudo pacman -S --noconfirm lib32-libpsl
+sudo pacman -S --noconfirm lib32-libpulse
+sudo pacman -S --noconfirm lib32-librsvg
+sudo pacman -S --noconfirm lib32-librtmp0
+sudo pacman -S --noconfirm lib32-libsm
+sudo pacman -S --noconfirm lib32-libsndfile
+sudo pacman -S --noconfirm lib32-libsoup
+sudo pacman -S --noconfirm lib32-libssh2
+sudo pacman -S --noconfirm lib32-libtasn1
+sudo pacman -S --noconfirm lib32-libthai
+sudo pacman -S --noconfirm lib32-libtheora
+sudo pacman -S --noconfirm lib32-libtiff
+sudo pacman -S --noconfirm lib32-libtiff4
+sudo pacman -S --noconfirm lib32-libtirpc
+sudo pacman -S --noconfirm lib32-libudev0-shim
+sudo pacman -S --noconfirm lib32-libunistring
+sudo pacman -S --noconfirm lib32-libunwind
+sudo pacman -S --noconfirm lib32-libusb
+sudo pacman -S --noconfirm lib32-libva
+sudo pacman -S --noconfirm lib32-libva-mesa-driver
+sudo pacman -S --noconfirm lib32-libvdpau
+sudo pacman -S --noconfirm lib32-libvorbis
+sudo pacman -S --noconfirm lib32-libvpx1.3
+sudo pacman -S --noconfirm lib32-libwebp
+sudo pacman -S --noconfirm lib32-libwrap
+sudo pacman -S --noconfirm lib32-libx11
+sudo pacman -S --noconfirm lib32-libxau
+sudo pacman -S --noconfirm lib32-libxcb
+sudo pacman -S --noconfirm lib32-libxcomposite
+sudo pacman -S --noconfirm lib32-libxcrypt
+sudo pacman -S --noconfirm lib32-libxcursor
+sudo pacman -S --noconfirm lib32-libxdamage
+sudo pacman -S --noconfirm lib32-libxdmcp
+sudo pacman -S --noconfirm lib32-libxext
+sudo pacman -S --noconfirm lib32-libxfixes
+sudo pacman -S --noconfirm lib32-libxft
+sudo pacman -S --noconfirm lib32-libxi
+sudo pacman -S --noconfirm lib32-libxinerama
+sudo pacman -S --noconfirm lib32-libxkbcommon
+sudo pacman -S --noconfirm lib32-libxml2
+sudo pacman -S --noconfirm lib32-libxmu
+sudo pacman -S --noconfirm lib32-libxrandr
+sudo pacman -S --noconfirm lib32-libxrender
+sudo pacman -S --noconfirm lib32-libxshmfence
+sudo pacman -S --noconfirm lib32-libxslt
+sudo pacman -S --noconfirm lib32-libxss
+sudo pacman -S --noconfirm lib32-libxt
+sudo pacman -S --noconfirm lib32-libxtst
+sudo pacman -S --noconfirm lib32-libxv
+sudo pacman -S --noconfirm lib32-libxxf86vm
+sudo pacman -S --noconfirm lib32-llvm
+sudo pacman -S --noconfirm lib32-llvm-libs
+sudo pacman -S --noconfirm lib32-lm_sensors
+sudo pacman -S --noconfirm lib32-lz4
+sudo pacman -S --noconfirm lib32-mesa
+sudo pacman -S --noconfirm lib32-mesa-vdpau
+sudo pacman -S --noconfirm lib32-mpg123
+sudo pacman -S --noconfirm lib32-ncurses
+sudo pacman -S --noconfirm lib32-nettle
+sudo pacman -S --noconfirm lib32-nspr
+sudo pacman -S --noconfirm lib32-nss
+sudo pacman -S --noconfirm lib32-ocl-icd
+sudo pacman -S --noconfirm lib32-openal
+sudo pacman -S --noconfirm lib32-opencl-mesa
+sudo pacman -S --noconfirm lib32-opencl-nvidia
+sudo pacman -S --noconfirm lib32-openssl
+sudo pacman -S --noconfirm lib32-openssl-1.0
+sudo pacman -S --noconfirm lib32-opus
+sudo pacman -S --noconfirm lib32-orc
+sudo pacman -S --noconfirm lib32-p11-kit
+sudo pacman -S --noconfirm lib32-pam
+sudo pacman -S --noconfirm lib32-pango
+sudo pacman -S --noconfirm lib32-pcre
+sudo pacman -S --noconfirm lib32-pipewire
+sudo pacman -S --noconfirm lib32-pipewire-jack
+sudo pacman -S --noconfirm lib32-pixman
+sudo pacman -S --noconfirm lib32-polkit
+sudo pacman -S --noconfirm lib32-portaudio
+sudo pacman -S --noconfirm lib32-readline
+sudo pacman -S --noconfirm lib32-rest
+sudo pacman -S --noconfirm lib32-sdl
+sudo pacman -S --noconfirm lib32-sdl2
+sudo pacman -S --noconfirm lib32-sdl2_image
+sudo pacman -S --noconfirm lib32-sdl2_mixer
+sudo pacman -S --noconfirm lib32-sdl2_ttf
+sudo pacman -S --noconfirm lib32-sdl_image
+sudo pacman -S --noconfirm lib32-sdl_mixer
+sudo pacman -S --noconfirm lib32-sdl_ttf
+sudo pacman -S --noconfirm lib32-smpeg
+sudo pacman -S --noconfirm lib32-sqlite
+sudo pacman -S --noconfirm lib32-systemd
+sudo pacman -S --noconfirm lib32-tdb
+sudo pacman -S --noconfirm lib32-util-linux
+sudo pacman -S --noconfirm lib32-v4l-utils
+sudo pacman -S --noconfirm lib32-vkd3d
+sudo pacman -S --noconfirm lib32-vulkan-icd-loader
+sudo pacman -S --noconfirm lib32-vulkan-radeon
+sudo pacman -S --noconfirm lib32-wayland
+sudo pacman -S --noconfirm lib32-x264
+sudo pacman -S --noconfirm lib32-xz
+sudo pacman -S --noconfirm lib32-zlib
+sudo pacman -S --noconfirm lib32-zstd
+sudo pacman -S --noconfirm libabw
+sudo pacman -S --noconfirm libaccounts-glib
+sudo pacman -S --noconfirm libaccounts-qt
+sudo pacman -S --noconfirm libaec
+sudo pacman -S --noconfirm libaio
+sudo pacman -S --noconfirm libakonadi
+sudo pacman -S --noconfirm libappindicator-gtk3
+sudo pacman -S --noconfirm libarchive
+sudo pacman -S --noconfirm libass
+sudo pacman -S --noconfirm libassuan
+sudo pacman -S --noconfirm libasyncns
+sudo pacman -S --noconfirm libatasmart
+sudo pacman -S --noconfirm libatomic_ops
+sudo pacman -S --noconfirm libavc1394
+sudo pacman -S --noconfirm libavif
+sudo pacman -S --noconfirm libavtp
+sudo pacman -S --noconfirm libblockdev
+sudo pacman -S --noconfirm libbluray
+sudo pacman -S --noconfirm libbpf
+sudo pacman -S --noconfirm libbs2b
+sudo pacman -S --noconfirm libbsd
+sudo pacman -S --noconfirm libburn
+sudo pacman -S --noconfirm libbytesize
+sudo pacman -S --noconfirm libcaca
+sudo pacman -S --noconfirm libcacard
+sudo pacman -S --noconfirm libcanberra
+sudo pacman -S --noconfirm libcap
+sudo pacman -S --noconfirm libcap-ng
+sudo pacman -S --noconfirm libcddb
+sudo pacman -S --noconfirm libcdio
+sudo pacman -S --noconfirm libcdio-paranoia
+sudo pacman -S --noconfirm libcdr
+sudo pacman -S --noconfirm libchewing
+sudo pacman -S --noconfirm libclc
+sudo pacman -S --noconfirm libcloudproviders
+sudo pacman -S --noconfirm libcmis
+sudo pacman -S --noconfirm libcolord
+sudo pacman -S --noconfirm libconfig
+sudo pacman -S --noconfirm libcroco
+sudo pacman -S --noconfirm libcue
+sudo pacman -S --noconfirm libcups
+sudo pacman -S --noconfirm libcurl-compat
+sudo pacman -S --noconfirm libcurl-gnutls
+sudo pacman -S --noconfirm libdaemon
+sudo pacman -S --noconfirm libdatrie
+sudo pacman -S --noconfirm libdbusmenu-glib
+sudo pacman -S --noconfirm libdbusmenu-gtk2
+sudo pacman -S --noconfirm libdbusmenu-gtk3
+sudo pacman -S --noconfirm libdbusmenu-qt5
+sudo pacman -S --noconfirm libdc1394
+sudo pacman -S --noconfirm libdca
+sudo pacman -S --noconfirm libde265
+sudo pacman -S --noconfirm libdmtx
+sudo pacman -S --noconfirm libdrm
+sudo pacman -S --noconfirm libdv
+sudo pacman -S --noconfirm libdvbpsi
+sudo pacman -S --noconfirm libdvdnav
+sudo pacman -S --noconfirm libdvdread
+sudo pacman -S --noconfirm libe-book
+sudo pacman -S --noconfirm libebml
+sudo pacman -S --noconfirm libebur128
+sudo pacman -S --noconfirm libedit
+sudo pacman -S --noconfirm libelf
+sudo pacman -S --noconfirm libepoxy
+sudo pacman -S --noconfirm libepubgen
+sudo pacman -S --noconfirm libetonyek
+sudo pacman -S --noconfirm libev
+sudo pacman -S --noconfirm libevdev
+sudo pacman -S --noconfirm libevent
+sudo pacman -S --noconfirm libexif
+sudo pacman -S --noconfirm libexttextcat
+sudo pacman -S --noconfirm libfakekey
+sudo pacman -S --noconfirm libfdk-aac
+sudo pacman -S --noconfirm libffi
+sudo pacman -S --noconfirm libfontenc
+sudo pacman -S --noconfirm libfprint
+sudo pacman -S --noconfirm libfprint-1
+sudo pacman -S --noconfirm libfreeaptx
+sudo pacman -S --noconfirm libfreehand
+sudo pacman -S --noconfirm libftdi
+sudo pacman -S --noconfirm libgaminggear
+sudo pacman -S --noconfirm libgcrypt
+sudo pacman -S --noconfirm libgcrypt15
+sudo pacman -S --noconfirm libgdiplus
+sudo pacman -S --noconfirm libgee
+sudo pacman -S --noconfirm libgexiv2
+sudo pacman -S --noconfirm libgig
+sudo pacman -S --noconfirm libgit2
+sudo pacman -S --noconfirm libglvnd
+sudo pacman -S --noconfirm libgme
+sudo pacman -S --noconfirm libgpg-error
+sudo pacman -S --noconfirm libgphoto2
+sudo pacman -S --noconfirm libgravatar
+sudo pacman -S --noconfirm libgrss
+sudo pacman -S --noconfirm libgsf
+sudo pacman -S --noconfirm libgssglue
+sudo pacman -S --noconfirm libgtop
+sudo pacman -S --noconfirm libgudev
+sudo pacman -S --noconfirm libgusb
+sudo pacman -S --noconfirm libgxps
+sudo pacman -S --noconfirm libhandy
+sudo pacman -S --noconfirm libheif
+sudo pacman -S --noconfirm libibus
+sudo pacman -S --noconfirm libical
+sudo pacman -S --noconfirm libice
+sudo pacman -S --noconfirm libid3tag
+sudo pacman -S --noconfirm libidn
+sudo pacman -S --noconfirm libidn11
+sudo pacman -S --noconfirm libidn2
+sudo pacman -S --noconfirm libiec61883
+sudo pacman -S --noconfirm libieee1284
+sudo pacman -S --noconfirm libimagequant
+sudo pacman -S --noconfirm libime
+sudo pacman -S --noconfirm libimobiledevice
+sudo pacman -S --noconfirm libindicator-gtk2
+sudo pacman -S --noconfirm libindicator-gtk3
+sudo pacman -S --noconfirm libinih
+sudo pacman -S --noconfirm libinput
+sudo pacman -S --noconfirm libinput-gestures
+sudo pacman -S --noconfirm libinput_gestures_qt
+sudo pacman -S --noconfirm libinstpatch
+sudo pacman -S --noconfirm libiptcdata
+sudo pacman -S --noconfirm libiscsi
+sudo pacman -S --noconfirm libixion
+sudo pacman -S --noconfirm libjpeg-turbo
+sudo pacman -S --noconfirm libjpeg6-turbo
+sudo pacman -S --noconfirm libkate
+sudo pacman -S --noconfirm libkcddb
+sudo pacman -S --noconfirm libkcompactdisc
+sudo pacman -S --noconfirm libkdcraw
+sudo pacman -S --noconfirm libkdegames
+sudo pacman -S --noconfirm libkdepim
+sudo pacman -S --noconfirm libkeduvocdocument
+sudo pacman -S --noconfirm libkexiv2
+sudo pacman -S --noconfirm libkgapi
+sudo pacman -S --noconfirm libkipi
+sudo pacman -S --noconfirm libkleo
+sudo pacman -S --noconfirm libkmahjongg
+sudo pacman -S --noconfirm libkolabxml
+sudo pacman -S --noconfirm libkomparediff2
+sudo pacman -S --noconfirm libksane
+sudo pacman -S --noconfirm libksba
+sudo pacman -S --noconfirm libkscreen
+sudo pacman -S --noconfirm libksieve
+sudo pacman -S --noconfirm libksysguard
+sudo pacman -S --noconfirm libktorrent
+sudo pacman -S --noconfirm liblangtag
+sudo pacman -S --noconfirm libldac
+sudo pacman -S --noconfirm libldap
+sudo pacman -S --noconfirm liblo
+sudo pacman -S --noconfirm liblouis
+sudo pacman -S --noconfirm liblqr
+sudo pacman -S --noconfirm liblrdf
+sudo pacman -S --noconfirm libltc
+sudo pacman -S --noconfirm libluv
+sudo pacman -S --noconfirm libmad
+sudo pacman -S --noconfirm libmanette
+sudo pacman -S --noconfirm libmatroska
+sudo pacman -S --noconfirm libmbim
+sudo pacman -S --noconfirm libmd
+sudo pacman -S --noconfirm libmfx
+sudo pacman -S --noconfirm libmicrodns
+sudo pacman -S --noconfirm libmicrohttpd
+sudo pacman -S --noconfirm libmikmod
+sudo pacman -S --noconfirm libmm-glib
+sudo pacman -S --noconfirm libmms
+sudo pacman -S --noconfirm libmng
+sudo pacman -S --noconfirm libmnl
+sudo pacman -S --noconfirm libmodplug
+sudo pacman -S --noconfirm libmp4v2
+sudo pacman -S --noconfirm libmpc
+sudo pacman -S --noconfirm libmpcdec
+sudo pacman -S --noconfirm libmpeg2
+sudo pacman -S --noconfirm libmspub
+sudo pacman -S --noconfirm libmsym
+sudo pacman -S --noconfirm libmtp
+sudo pacman -S --noconfirm libmusicbrainz5
+sudo pacman -S --noconfirm libmwaw
+sudo pacman -S --noconfirm libmypaint
+sudo pacman -S --noconfirm libnautilus-extension
+sudo pacman -S --noconfirm libndp
+sudo pacman -S --noconfirm libnet
+sudo pacman -S --noconfirm libnetfilter_conntrack
+sudo pacman -S --noconfirm libnewt
+sudo pacman -S --noconfirm libnfnetlink
+sudo pacman -S --noconfirm libnfs
+sudo pacman -S --noconfirm libnftnl
+sudo pacman -S --noconfirm libnghttp2
+sudo pacman -S --noconfirm libnice
+sudo pacman -S --noconfirm libnl
+sudo pacman -S --noconfirm libnm
+sudo pacman -S --noconfirm libnma
+sudo pacman -S --noconfirm libnotify
+sudo pacman -S --noconfirm libnsl
+sudo pacman -S --noconfirm libnumbertext
+sudo pacman -S --noconfirm libodfgen
+sudo pacman -S --noconfirm libofa
+sudo pacman -S --noconfirm libogg
+sudo pacman -S --noconfirm libomxil-bellagio
+sudo pacman -S --noconfirm liborcus
+sudo pacman -S --noconfirm libosinfo
+sudo pacman -S --noconfirm libotf
+sudo pacman -S --noconfirm libotr
+sudo pacman -S --noconfirm libp11-kit
+sudo pacman -S --noconfirm libpagemaker
+sudo pacman -S --noconfirm libpaper
+sudo pacman -S --noconfirm libpcap
+sudo pacman -S --noconfirm libpciaccess
+sudo pacman -S --noconfirm libpeas
+sudo pacman -S --noconfirm libpgm
+sudo pacman -S --noconfirm libphonenumber
+sudo pacman -S --noconfirm libpipeline
+sudo pacman -S --noconfirm libplacebo
+sudo pacman -S --noconfirm libplist
+sudo pacman -S --noconfirm libpng
+sudo pacman -S --noconfirm libpng12
+sudo pacman -S --noconfirm libportal
+sudo pacman -S --noconfirm libproxy
+sudo pacman -S --noconfirm libpsl
+sudo pacman -S --noconfirm libpulse
+sudo pacman -S --noconfirm libqaccessibilityclient
+sudo pacman -S --noconfirm libqalculate
+sudo pacman -S --noconfirm libqmi
+sudo pacman -S --noconfirm libqrtr-glib
+sudo pacman -S --noconfirm libquicktime
+sudo pacman -S --noconfirm libquvi
+sudo pacman -S --noconfirm libquvi-scripts
+sudo pacman -S --noconfirm libqxp
+sudo pacman -S --noconfirm libraqm
+sudo pacman -S --noconfirm libraw
+sudo pacman -S --noconfirm libraw1394
+sudo pacman -S --noconfirm libreoffice-fresh
+sudo pacman -S --noconfirm librevenge
+sudo pacman -S --noconfirm librime
+sudo pacman -S --noconfirm librime-data
+sudo pacman -S --noconfirm librsvg
+sudo pacman -S --noconfirm librtmp0
+sudo pacman -S --noconfirm libsamplerate
+sudo pacman -S --noconfirm libsasl
+sudo pacman -S --noconfirm libseccomp
+sudo pacman -S --noconfirm libsecret
+sudo pacman -S --noconfirm libshout
+sudo pacman -S --noconfirm libsigc++
+sudo pacman -S --noconfirm libsignon-glib
+sudo pacman -S --noconfirm libslirp
+sudo pacman -S --noconfirm libsm
+sudo pacman -S --noconfirm libsndfile
+sudo pacman -S --noconfirm libsodium
+sudo pacman -S --noconfirm libsoup
+sudo pacman -S --noconfirm libsoxr
+sudo pacman -S --noconfirm libspectre
+sudo pacman -S --noconfirm libspeechd
+sudo pacman -S --noconfirm libspiro
+sudo pacman -S --noconfirm libspnav
+sudo pacman -S --noconfirm libsrtp
+sudo pacman -S --noconfirm libssh
+sudo pacman -S --noconfirm libssh2
+sudo pacman -S --noconfirm libstaroffice
+sudo pacman -S --noconfirm libstdc++5
+sudo pacman -S --noconfirm libstemmer
+sudo pacman -S --noconfirm libtar
+sudo pacman -S --noconfirm libtasn1
+sudo pacman -S --noconfirm libteam
+sudo pacman -S --noconfirm libtermkey
+sudo pacman -S --noconfirm libtg_owt
+sudo pacman -S --noconfirm libthai
+sudo pacman -S --noconfirm libtheora
+sudo pacman -S --noconfirm libtiff
+sudo pacman -S --noconfirm libtiff4
+sudo pacman -S --noconfirm libtirpc
+sudo pacman -S --noconfirm libtommath
+sudo pacman -S --noconfirm libtool
+sudo pacman -S --noconfirm libudev0-shim
+sudo pacman -S --noconfirm libunistring
+sudo pacman -S --noconfirm libunwind
+sudo pacman -S --noconfirm libupnp
+sudo pacman -S --noconfirm liburcu
+sudo pacman -S --noconfirm liburing
+sudo pacman -S --noconfirm libusb
+sudo pacman -S --noconfirm libusb-compat
+sudo pacman -S --noconfirm libusbmuxd
+sudo pacman -S --noconfirm libutempter
+sudo pacman -S --noconfirm libuv
+sudo pacman -S --noconfirm libva
+sudo pacman -S --noconfirm libva-mesa-driver
+sudo pacman -S --noconfirm libvdpau
+sudo pacman -S --noconfirm libvirt
+sudo pacman -S --noconfirm libvirt-glib
+sudo pacman -S --noconfirm libvirt-python
+sudo pacman -S --noconfirm libvisio
+sudo pacman -S --noconfirm libvisual
+sudo pacman -S --noconfirm libvncserver
+sudo pacman -S --noconfirm libvorbis
+sudo pacman -S --noconfirm libvpx
+sudo pacman -S --noconfirm libvpx1.3
+sudo pacman -S --noconfirm libvterm
+sudo pacman -S --noconfirm libwacom
+sudo pacman -S --noconfirm libwebp
+sudo pacman -S --noconfirm libwebsockets
+sudo pacman -S --noconfirm libwmf
+sudo pacman -S --noconfirm libwpd
+sudo pacman -S --noconfirm libwpe
+sudo pacman -S --noconfirm libwpg
+sudo pacman -S --noconfirm libwps
+sudo pacman -S --noconfirm libwrap
+sudo pacman -S --noconfirm libx11
+sudo pacman -S --noconfirm libx86
+sudo pacman -S --noconfirm libx86emu
+sudo pacman -S --noconfirm libxau
+sudo pacman -S --noconfirm libxaw
+sudo pacman -S --noconfirm libxcb
+sudo pacman -S --noconfirm libxcomposite
+sudo pacman -S --noconfirm libxcrypt
+sudo pacman -S --noconfirm libxcursor
+sudo pacman -S --noconfirm libxdamage
+sudo pacman -S --noconfirm libxdg-basedir
+sudo pacman -S --noconfirm libxdmcp
+sudo pacman -S --noconfirm libxext
+sudo pacman -S --noconfirm libxfce4ui
+sudo pacman -S --noconfirm libxfce4util
+sudo pacman -S --noconfirm libxfixes
+sudo pacman -S --noconfirm libxfont2
+sudo pacman -S --noconfirm libxft
+sudo pacman -S --noconfirm libxi
+sudo pacman -S --noconfirm libxinerama
+sudo pacman -S --noconfirm libxkbcommon
+sudo pacman -S --noconfirm libxkbcommon-x11
+sudo pacman -S --noconfirm libxkbfile
+sudo pacman -S --noconfirm libxklavier
+sudo pacman -S --noconfirm libxml2
+sudo pacman -S --noconfirm libxmu
+sudo pacman -S --noconfirm libxnvctrl
+sudo pacman -S --noconfirm libxpm
+sudo pacman -S --noconfirm libxrandr
+sudo pacman -S --noconfirm libxrender
+sudo pacman -S --noconfirm libxres
+sudo pacman -S --noconfirm libxshmfence
+sudo pacman -S --noconfirm libxslt
+sudo pacman -S --noconfirm libxss
+sudo pacman -S --noconfirm libxt
+sudo pacman -S --noconfirm libxtst
+sudo pacman -S --noconfirm libxv
+sudo pacman -S --noconfirm libxvmc
+sudo pacman -S --noconfirm libxxf86vm
+sudo pacman -S --noconfirm libyaml
+sudo pacman -S --noconfirm libyuv
+sudo pacman -S --noconfirm r2212+dfaf7534-2
+sudo pacman -S --noconfirm libzip
+sudo pacman -S --noconfirm libzmf
+sudo pacman -S --noconfirm licenses
+sudo pacman -S --noconfirm lightdm
+sudo pacman -S --noconfirm lightdm-gtk-greeter
+sudo pacman -S --noconfirm lightdm-gtk-greeter-settings
+sudo pacman -S --noconfirm lightly-qt
+sudo pacman -S --noconfirm lilv
+sudo pacman -S --noconfirm linux-api-headers
+sudo pacman -S --noconfirm linux-firmware
+sudo pacman -S --noconfirm linux-headers
+sudo pacman -S --noconfirm linux-lts
+sudo pacman -S --noconfirm linux-lts-headers
+sudo pacman -S --noconfirm linuxqq
+sudo pacman -S --noconfirm lirc
+sudo pacman -S --noconfirm lld
+sudo pacman -S --noconfirm lldb
+sudo pacman -S --noconfirm llpp
+sudo pacman -S --noconfirm llvm
+sudo pacman -S --noconfirm llvm-libs
+sudo pacman -S --noconfirm lm_sensors
+sudo pacman -S --noconfirm lmdb
+sudo pacman -S --noconfirm lmms
+sudo pacman -S --noconfirm log4cplus
+sudo pacman -S --noconfirm lokalize
+sudo pacman -S --noconfirm lolcat
+sudo pacman -S --noconfirm lpsolve
+sudo pacman -S --noconfirm lrzsz
+sudo pacman -S --noconfirm lsb-release
+sudo pacman -S --noconfirm lsd
+sudo pacman -S --noconfirm lskat
+sudo pacman -S --noconfirm lsof
+sudo pacman -S --noconfirm lua
+sudo pacman -S --noconfirm lua52
+sudo pacman -S --noconfirm lua52-bitop
+sudo pacman -S --noconfirm lua52-expat
+sudo pacman -S --noconfirm lua52-lpeg
+sudo pacman -S --noconfirm lua52-luajson
+sudo pacman -S --noconfirm lua52-socket
+sudo pacman -S --noconfirm lua53
+sudo pacman -S --noconfirm luajit
+sudo pacman -S --noconfirm lunar-client
+sudo pacman -S --noconfirm lutris
+sudo pacman -S --noconfirm lvm2
+sudo pacman -S --noconfirm lxappearance
+sudo pacman -S --noconfirm lz4
+sudo pacman -S --noconfirm lzo
+sudo pacman -S --noconfirm m17n-db
+sudo pacman -S --noconfirm m17n-lib
+sudo pacman -S --noconfirm m4
+sudo pacman -S --noconfirm maeparser
+sudo pacman -S --noconfirm mailcap
+sudo pacman -S --noconfirm mailcommon
+sudo pacman -S --noconfirm mailimporter
+sudo pacman -S --noconfirm make
+sudo pacman -S --noconfirm mallard-ducktype
+sudo pacman -S --noconfirm man-db
+sudo pacman -S --noconfirm mangohud
+sudo pacman -S --noconfirm mangohud-common
+sudo pacman -S --noconfirm marble
+sudo pacman -S --noconfirm marble-common
+sudo pacman -S --noconfirm mariadb
+sudo pacman -S --noconfirm mariadb-clients
+sudo pacman -S --noconfirm mariadb-libs
+sudo pacman -S --noconfirm marisa
+sudo pacman -S --noconfirm markdownpart
+sudo pacman -S --noconfirm maven
+sudo pacman -S --noconfirm mbedtls
+sudo pacman -S --noconfirm mbox-importer
+sudo pacman -S --noconfirm md4c
+sudo pacman -S --noconfirm mdadm
+sudo pacman -S --noconfirm media-player-info
+sudo pacman -S --noconfirm mesa
+sudo pacman -S --noconfirm mesa-demos
+sudo pacman -S --noconfirm mesa-vdpau
+sudo pacman -S --noconfirm meson
+sudo pacman -S --noconfirm messagelib
+sudo pacman -S --noconfirm metis
+sudo pacman -S --noconfirm milou
+sudo pacman -S --noconfirm minecraft-launcher
+sudo pacman -S --noconfirm minicom
+sudo pacman -S --noconfirm miniupnpc
+sudo pacman -S --noconfirm minizip
+sudo pacman -S --noconfirm minuet
+sudo pacman -S --noconfirm mixxx
+sudo pacman -S --noconfirm mjpegtools
+sudo pacman -S --noconfirm mkinitcpio
+sudo pacman -S --noconfirm mkinitcpio-busybox
+sudo pacman -S --noconfirm mlt
+sudo pacman -S --noconfirm mlt6
+sudo pacman -S --noconfirm mobile-broadband-provider-info
+sudo pacman -S --noconfirm modemmanager
+sudo pacman -S --noconfirm modemmanager-qt
+sudo pacman -S --noconfirm molequeue
+sudo pacman -S --noconfirm monero
+sudo pacman -S --noconfirm monero-gui
+sudo pacman -S --noconfirm mono
+sudo pacman -S --noconfirm mono-msbuild
+sudo pacman -S --noconfirm motrix-git
+sudo pacman -S --noconfirm movit
+sudo pacman -S --noconfirm mpfr
+sudo pacman -S --noconfirm mpg123
+sudo pacman -S --noconfirm mplayer
+sudo pacman -S --noconfirm mprime
+sudo pacman -S --noconfirm mpv
+sudo pacman -S --noconfirm msgpack-c
+sudo pacman -S --noconfirm msr-tools
+sudo pacman -S --noconfirm mtdev
+sudo pacman -S --noconfirm mtools
+sudo pacman -S --noconfirm mujs
+sudo pacman -S --noconfirm mypaint-brushes1
+sudo pacman -S --noconfirm nano
+sudo pacman -S --noconfirm nautilus
+sudo pacman -S --noconfirm ncurses
+sudo pacman -S --noconfirm ndctl
+sudo pacman -S --noconfirm neofetch
+sudo pacman -S --noconfirm neon
+sudo pacman -S --noconfirm neovim
+sudo pacman -S --noconfirm nerd-fonts-agave
+sudo pacman -S --noconfirm nerd-fonts-anonymous-pro
+sudo pacman -S --noconfirm nerd-fonts-arimo
+sudo pacman -S --noconfirm nerd-fonts-aurulent-sans-mono
+sudo pacman -S --noconfirm nerd-fonts-bigblue-terminal
+sudo pacman -S --noconfirm nerd-fonts-bitstream-vera-sans-mono
+sudo pacman -S --noconfirm nerd-fonts-cascadia-code
+sudo pacman -S --noconfirm nerd-fonts-code-new-roman
+sudo pacman -S --noconfirm nerd-fonts-cousine
+sudo pacman -S --noconfirm nerd-fonts-daddytimemono
+sudo pacman -S --noconfirm nerd-fonts-dejavu-sans-mono
+sudo pacman -S --noconfirm nerd-fonts-droid-sans-mono
+sudo pacman -S --noconfirm nerd-fonts-fantasque-sans-mono
+sudo pacman -S --noconfirm nerd-fonts-fira
+sudo pacman -S --noconfirm nerd-fonts-fira-code
+sudo pacman -S --noconfirm nerd-fonts-go
+sudo pacman -S --noconfirm nerd-fonts-gohu
+sudo pacman -S --noconfirm nerd-fonts-hack
+sudo pacman -S --noconfirm nerd-fonts-hasklig
+sudo pacman -S --noconfirm nerd-fonts-heavy-data
+sudo pacman -S --noconfirm nerd-fonts-hermit
+sudo pacman -S --noconfirm nerd-fonts-ia-writer
+sudo pacman -S --noconfirm nerd-fonts-ibm-plex-mono
+sudo pacman -S --noconfirm nerd-fonts-inconsolata
+sudo pacman -S --noconfirm nerd-fonts-inconsolata-go
+sudo pacman -S --noconfirm nerd-fonts-inconsolata-lgc
+sudo pacman -S --noconfirm nerd-fonts-iosevka
+sudo pacman -S --noconfirm nerd-fonts-jetbrains-mono
+sudo pacman -S --noconfirm nerd-fonts-lekton
+sudo pacman -S --noconfirm nerd-fonts-liberation
+sudo pacman -S --noconfirm nerd-fonts-meslo-lg
+sudo pacman -S --noconfirm nerd-fonts-monofur
+sudo pacman -S --noconfirm nerd-fonts-monoid
+sudo pacman -S --noconfirm nerd-fonts-mononoki
+sudo pacman -S --noconfirm nerd-fonts-mplus
+sudo pacman -S --noconfirm nerd-fonts-noto
+sudo pacman -S --noconfirm nerd-fonts-opendyslexic
+sudo pacman -S --noconfirm nerd-fonts-overpass
+sudo pacman -S --noconfirm nerd-fonts-profont
+sudo pacman -S --noconfirm nerd-fonts-proggycleantt
+sudo pacman -S --noconfirm nerd-fonts-robotomono
+sudo pacman -S --noconfirm nerd-fonts-share-tech-mono
+sudo pacman -S --noconfirm nerd-fonts-source-code-pro
+sudo pacman -S --noconfirm nerd-fonts-space-mono
+sudo pacman -S --noconfirm nerd-fonts-terminus
+sudo pacman -S --noconfirm nerd-fonts-tinos
+sudo pacman -S --noconfirm nerd-fonts-ubuntu
+sudo pacman -S --noconfirm nerd-fonts-ubuntu-mono
+sudo pacman -S --noconfirm nerd-fonts-victor-mono
+sudo pacman -S --noconfirm net-snmp
+sudo pacman -S --noconfirm net-tools
+sudo pacman -S --noconfirm netbeans
+sudo pacman -S --noconfirm netpbm
+sudo pacman -S --noconfirm netstandard-targeting-pack
+sudo pacman -S --noconfirm nettle
+sudo pacman -S --noconfirm network-manager-applet
+sudo pacman -S --noconfirm networkmanager
+sudo pacman -S --noconfirm networkmanager-qt
+sudo pacman -S --noconfirm new-session-manager
+sudo pacman -S --noconfirm nftables
+sudo pacman -S --noconfirm nginx
+sudo pacman -S --noconfirm nginx-mod-rtmp-git
+sudo pacman -S --noconfirm ngspice
+sudo pacman -S --noconfirm nilfs-utils
+sudo pacman -S --noconfirm ninja
+sudo pacman -S --noconfirm nm-connection-editor
+sudo pacman -S --noconfirm nmap
+sudo pacman -S --noconfirm node-gyp
+sudo pacman -S --noconfirm nodejs
+sudo pacman -S --noconfirm nodejs-nopt
+sudo pacman -S --noconfirm nodemcu-pyflasher
+sudo pacman -S --noconfirm noto-fonts
+sudo pacman -S --noconfirm noto-fonts-cjk
+sudo pacman -S --noconfirm noto-fonts-emoji
+sudo pacman -S --noconfirm noto-fonts-emoji-blob
+sudo pacman -S --noconfirm noto-fonts-extra
+sudo pacman -S --noconfirm npm
+sudo pacman -S --noconfirm npth
+sudo pacman -S --noconfirm nspr
+sudo pacman -S --noconfirm nss
+sudo pacman -S --noconfirm ntfs-3g
+sudo pacman -S --noconfirm numactl
+sudo pacman -S --noconfirm nvidia-lts
+sudo pacman -S --noconfirm nvidia-utils
+sudo pacman -S --noconfirm oath-toolkit
+sudo pacman -S --noconfirm obs-studio
+sudo pacman -S --noconfirm ocaml
+sudo pacman -S --noconfirm ocaml-compiler-libs
+sudo pacman -S --noconfirm ocaml-csexp
+sudo pacman -S --noconfirm ocaml-findlib
+sudo pacman -S --noconfirm ocaml-result
+sudo pacman -S --noconfirm ocl-icd
+sudo pacman -S --noconfirm octopi
+sudo pacman -S --noconfirm okular
+sudo pacman -S --noconfirm onefetch
+sudo pacman -S --noconfirm oniguruma
+sudo pacman -S --noconfirm opam
+sudo pacman -S --noconfirm openal
+sudo pacman -S --noconfirm openbabel
+sudo pacman -S --noconfirm opencascade
+sudo pacman -S --noconfirm opencc
+sudo pacman -S --noconfirm opencl-headers
+sudo pacman -S --noconfirm opencl-mesa
+sudo pacman -S --noconfirm opencl-nvidia
+sudo pacman -S --noconfirm opencollada
+sudo pacman -S --noconfirm opencolorio
+sudo pacman -S --noconfirm opencolorio1
+sudo pacman -S --noconfirm opencore-amr
+sudo pacman -S --noconfirm opencv
+sudo pacman -S --noconfirm openexr
+sudo pacman -S --noconfirm openimagedenoise
+sudo pacman -S --noconfirm openimageio
+sudo pacman -S --noconfirm openjpeg2
+sudo pacman -S --noconfirm openmpi
+sudo pacman -S --noconfirm openresolv
+sudo pacman -S --noconfirm openrgb
+sudo pacman -S --noconfirm openshadinglanguage
+sudo pacman -S --noconfirm openssh
+sudo pacman -S --noconfirm openssl
+sudo pacman -S --noconfirm openssl-1.0
+sudo pacman -S --noconfirm opensubdiv
+sudo pacman -S --noconfirm openvdb
+sudo pacman -S --noconfirm openxr
+sudo pacman -S --noconfirm opus
+sudo pacman -S --noconfirm opusfile
+sudo pacman -S --noconfirm orc
+sudo pacman -S --noconfirm os-prober
+sudo pacman -S --noconfirm osinfo-db
+sudo pacman -S --noconfirm ossp
+sudo pacman -S --noconfirm ostree
+sudo pacman -S --noconfirm oxygen
+sudo pacman -S --noconfirm p11-kit
+sudo pacman -S --noconfirm p7zip
+sudo pacman -S --noconfirm package-query
+sudo pacman -S --noconfirm pacman
+sudo pacman -S --noconfirm pacman-contrib
+sudo pacman -S --noconfirm pacman-mirrorlist
+sudo pacman -S --noconfirm pacmanlogviewer
+sudo pacman -S --noconfirm pahole
+sudo pacman -S --noconfirm palapeli
+sudo pacman -S --noconfirm pam
+sudo pacman -S --noconfirm pam-python
+sudo pacman -S --noconfirm pambase
+sudo pacman -S --noconfirm pango
+sudo pacman -S --noconfirm pangomm
+sudo pacman -S --noconfirm paper
+sudo pacman -S --noconfirm papirus-icon-theme
+sudo pacman -S --noconfirm parley
+sudo pacman -S --noconfirm parted
+sudo pacman -S --noconfirm partitionmanager
+sudo pacman -S --noconfirm paru
+sudo pacman -S --noconfirm pastebinit
+sudo pacman -S --noconfirm patch
+sudo pacman -S --noconfirm patchelf
+sudo pacman -S --noconfirm pavucontrol
+sudo pacman -S --noconfirm pciutils
+sudo pacman -S --noconfirm pcre
+sudo pacman -S --noconfirm pcre2
+sudo pacman -S --noconfirm pcsclite
+sudo pacman -S --noconfirm perf
+sudo pacman -S --noconfirm perl
+sudo pacman -S --noconfirm perl-clone
+sudo pacman -S --noconfirm perl-encode-locale
+sudo pacman -S --noconfirm perl-error
+sudo pacman -S --noconfirm perl-file-listing
+sudo pacman -S --noconfirm perl-html-parser
+sudo pacman -S --noconfirm perl-html-tagset
+sudo pacman -S --noconfirm perl-http-cookies
+sudo pacman -S --noconfirm perl-http-daemon
+sudo pacman -S --noconfirm perl-http-date
+sudo pacman -S --noconfirm perl-http-message
+sudo pacman -S --noconfirm perl-http-negotiate
+sudo pacman -S --noconfirm perl-io-html
+sudo pacman -S --noconfirm perl-ipc-run3
+sudo pacman -S --noconfirm perl-libwww
+sudo pacman -S --noconfirm perl-locale-gettext
+sudo pacman -S --noconfirm perl-lwp-mediatypes
+sudo pacman -S --noconfirm perl-mailtools
+sudo pacman -S --noconfirm perl-net-http
+sudo pacman -S --noconfirm perl-parse-yapp
+sudo pacman -S --noconfirm perl-timedate
+sudo pacman -S --noconfirm perl-try-tiny
+sudo pacman -S --noconfirm perl-uri
+sudo pacman -S --noconfirm perl-www-robotrules
+sudo pacman -S --noconfirm perl-xml-parser
+sudo pacman -S --noconfirm perl-xml-writer
+sudo pacman -S --noconfirm phodav
+sudo pacman -S --noconfirm phonon-qt5
+sudo pacman -S --noconfirm phonon-qt5-gstreamer
+sudo pacman -S --noconfirm php
+sudo pacman -S --noconfirm picmi
+sudo pacman -S --noconfirm picom
+sudo pacman -S --noconfirm pim-data-exporter
+sudo pacman -S --noconfirm pim-sieve-editor
+sudo pacman -S --noconfirm pimcommon
+sudo pacman -S --noconfirm pinentry
+sudo pacman -S --noconfirm pipewire
+sudo pacman -S --noconfirm pipewire-jack
+sudo pacman -S --noconfirm pipewire-media-session
+sudo pacman -S --noconfirm pixman
+sudo pacman -S --noconfirm pkgconf
+sudo pacman -S --noconfirm pkgfile
+sudo pacman -S --noconfirm plasma-browser-integration
+sudo pacman -S --noconfirm plasma-desktop
+sudo pacman -S --noconfirm plasma-disks
+sudo pacman -S --noconfirm plasma-firewall
+sudo pacman -S --noconfirm plasma-framework
+sudo pacman -S --noconfirm plasma-integration
+sudo pacman -S --noconfirm plasma-nm
+sudo pacman -S --noconfirm plasma-pa
+sudo pacman -S --noconfirm plasma-sdk
+sudo pacman -S --noconfirm plasma-systemmonitor
+sudo pacman -S --noconfirm plasma-thunderbolt
+sudo pacman -S --noconfirm plasma-vault
+sudo pacman -S --noconfirm plasma-workspace
+sudo pacman -S --noconfirm plasma-workspace-wallpapers
+sudo pacman -S --noconfirm polkit
+sudo pacman -S --noconfirm polkit-kde-agent
+sudo pacman -S --noconfirm polkit-qt5
+sudo pacman -S --noconfirm ponysay
+sudo pacman -S --noconfirm poppler
+sudo pacman -S --noconfirm poppler-data
+sudo pacman -S --noconfirm poppler-glib
+sudo pacman -S --noconfirm poppler-qt5
+sudo pacman -S --noconfirm popt
+sudo pacman -S --noconfirm portaudio
+sudo pacman -S --noconfirm portmidi
+sudo pacman -S --noconfirm portsmf
+sudo pacman -S --noconfirm potrace
+sudo pacman -S --noconfirm powerdevil
+sudo pacman -S --noconfirm poxml
+sudo pacman -S --noconfirm ppp
+sudo pacman -S --noconfirm print-manager
+sudo pacman -S --noconfirm prismatik
+sudo pacman -S --noconfirm prison
+sudo pacman -S --noconfirm procps-ng
+sudo pacman -S --noconfirm protobuf
+sudo pacman -S --noconfirm protobuf-c
+sudo pacman -S --noconfirm proton
+sudo pacman -S --noconfirm psmisc
+sudo pacman -S --noconfirm psutils
+sudo pacman -S --noconfirm ptex
+sudo pacman -S --noconfirm pugixml
+sudo pacman -S --noconfirm pulseaudio
+sudo pacman -S --noconfirm pulseaudio-alsa
+sudo pacman -S --noconfirm pulseaudio-bluetooth
+sudo pacman -S --noconfirm pulseaudio-equalizer
+sudo pacman -S --noconfirm pulseaudio-equalizer-ladspa
+sudo pacman -S --noconfirm pulseaudio-jack
+sudo pacman -S --noconfirm pulseaudio-lirc
+sudo pacman -S --noconfirm pulseaudio-qt
+sudo pacman -S --noconfirm pulseaudio-rtp
+sudo pacman -S --noconfirm pulseaudio-zeroconf
+sudo pacman -S --noconfirm pulsemixer
+sudo pacman -S --noconfirm purpose
+sudo pacman -S --noconfirm pybind11
+sudo pacman -S --noconfirm pycharm-community-edition
+sudo pacman -S --noconfirm pyrit
+sudo pacman -S --noconfirm pystring
+sudo pacman -S --noconfirm python
+sudo pacman -S --noconfirm python-anytree
+sudo pacman -S --noconfirm python-appdirs
+sudo pacman -S --noconfirm python-argcomplete
+sudo pacman -S --noconfirm python-asn1crypto
+sudo pacman -S --noconfirm python-attrs
+sudo pacman -S --noconfirm python-aubio
+sudo pacman -S --noconfirm python-automat
+sudo pacman -S --noconfirm python-babel
+sudo pacman -S --noconfirm python-backcall
+sudo pacman -S --noconfirm python-beaker
+sudo pacman -S --noconfirm python-bitstring
+sudo pacman -S --noconfirm python-cachecontrol
+sudo pacman -S --noconfirm python-cairo
+sudo pacman -S --noconfirm python-cffi
+sudo pacman -S --noconfirm python-chardet
+sudo pacman -S --noconfirm python-click
+sudo pacman -S --noconfirm python-colorama
+sudo pacman -S --noconfirm python-constantly
+sudo pacman -S --noconfirm python-contextlib2
+sudo pacman -S --noconfirm python-cryptography
+sudo pacman -S --noconfirm python-dateutil
+sudo pacman -S --noconfirm python-debugpy
+sudo pacman -S --noconfirm python-decorator
+sudo pacman -S --noconfirm python-distlib
+sudo pacman -S --noconfirm python-distro
+sudo pacman -S --noconfirm python-dlib
+sudo pacman -S --noconfirm python-dnspython
+sudo pacman -S --noconfirm python-docopt
+sudo pacman -S --noconfirm python-docutils
+sudo pacman -S --noconfirm python-ecdsa
+sudo pacman -S --noconfirm python-epc
+sudo pacman -S --noconfirm python-evdev
+sudo pacman -S --noconfirm python-face_recognition
+sudo pacman -S --noconfirm python-face_recognition_models
+sudo pacman -S --noconfirm python-feedparser
+sudo pacman -S --noconfirm python-flask
+sudo pacman -S --noconfirm python-future
+sudo pacman -S --noconfirm python-gobject
+sudo pacman -S --noconfirm python-grip
+sudo pacman -S --noconfirm python-html5lib
+sudo pacman -S --noconfirm python-httplib2
+sudo pacman -S --noconfirm python-hyperlink
+sudo pacman -S --noconfirm python-idna
+sudo pacman -S --noconfirm python-imagesize
+sudo pacman -S --noconfirm python-importlib-metadata
+sudo pacman -S --noconfirm python-incremental
+sudo pacman -S --noconfirm python-ipykernel
+sudo pacman -S --noconfirm python-itsdangerous
+sudo pacman -S --noconfirm python-jedi
+sudo pacman -S --noconfirm python-jinja
+sudo pacman -S --noconfirm python-jsonrpc-server
+sudo pacman -S --noconfirm python-jupyter_client
+sudo pacman -S --noconfirm python-jupyter_core
+sudo pacman -S --noconfirm python-language-server
+sudo pacman -S --noconfirm python-lxml
+sudo pacman -S --noconfirm python-mako
+sudo pacman -S --noconfirm python-markdown
+sudo pacman -S --noconfirm python-markupsafe
+sudo pacman -S --noconfirm python-matplotlib-inline
+sudo pacman -S --noconfirm python-more-itertools
+sudo pacman -S --noconfirm python-msgpack
+sudo pacman -S --noconfirm python-nautilus
+sudo pacman -S --noconfirm python-numpy
+sudo pacman -S --noconfirm python-opencv
+sudo pacman -S --noconfirm python-ordered-set
+sudo pacman -S --noconfirm python-packaging
+sudo pacman -S --noconfirm python-parso
+sudo pacman -S --noconfirm python-path-and-address
+sudo pacman -S --noconfirm python-pep517
+sudo pacman -S --noconfirm python-pexpect
+sudo pacman -S --noconfirm python-pickleshare
+sudo pacman -S --noconfirm python-pillow
+sudo pacman -S --noconfirm python-pip
+sudo pacman -S --noconfirm python-pluggy
+sudo pacman -S --noconfirm python-ply
+sudo pacman -S --noconfirm python-prettytable
+sudo pacman -S --noconfirm python-progress
+sudo pacman -S --noconfirm python-prompt_toolkit
+sudo pacman -S --noconfirm python-psutil
+sudo pacman -S --noconfirm python-ptyprocess
+sudo pacman -S --noconfirm python-pyaes
+sudo pacman -S --noconfirm python-pyalsa
+sudo pacman -S --noconfirm python-pycparser
+sudo pacman -S --noconfirm python-pygments
+sudo pacman -S --noconfirm python-pyhamcrest
+sudo pacman -S --noconfirm python-pyinotify
+sudo pacman -S --noconfirm python-pyopenssl
+sudo pacman -S --noconfirm python-pyparsing
+sudo pacman -S --noconfirm python-pyqt5
+sudo pacman -S --noconfirm python-pyqt5-sip
+sudo pacman -S --noconfirm python-pyqt5-webengine
+sudo pacman -S --noconfirm python-pyserial
+sudo pacman -S --noconfirm python-pyte
+sudo pacman -S --noconfirm python-pytz
+sudo pacman -S --noconfirm python-pyxdg
+sudo pacman -S --noconfirm python-pyzmq
+sudo pacman -S --noconfirm python-qrcode
+sudo pacman -S --noconfirm python-qtconsole
+sudo pacman -S --noconfirm python-qtpy
+sudo pacman -S --noconfirm python-reedsolo
+sudo pacman -S --noconfirm python-requests
+sudo pacman -S --noconfirm python-resolvelib
+sudo pacman -S --noconfirm python-retrying
+sudo pacman -S --noconfirm python-scipy
+sudo pacman -S --noconfirm python-setuptools
+sudo pacman -S --noconfirm python-sexpdata
+sudo pacman -S --noconfirm python-sgmllib
+sudo pacman -S --noconfirm python-shiboken2
+sudo pacman -S --noconfirm python-sip4
+sudo pacman -S --noconfirm python-six
+sudo pacman -S --noconfirm python-snowballstemmer
+sudo pacman -S --noconfirm python-sphinx
+sudo pacman -S --noconfirm python-sphinx-alabaster-theme
+sudo pacman -S --noconfirm python-sphinxcontrib-applehelp
+sudo pacman -S --noconfirm python-sphinxcontrib-devhelp
+sudo pacman -S --noconfirm python-sphinxcontrib-htmlhelp
+sudo pacman -S --noconfirm python-sphinxcontrib-jsmath
+sudo pacman -S --noconfirm python-sphinxcontrib-qthelp
+sudo pacman -S --noconfirm python-sphinxcontrib-serializinghtml
+sudo pacman -S --noconfirm python-systemd
+sudo pacman -S --noconfirm python-sysv_ipc
+sudo pacman -S --noconfirm python-termcolor
+sudo pacman -S --noconfirm python-toml
+sudo pacman -S --noconfirm python-tomli
+sudo pacman -S --noconfirm python-tornado
+sudo pacman -S --noconfirm python-traitlets
+sudo pacman -S --noconfirm python-twisted
+sudo pacman -S --noconfirm python-typing_extensions
+sudo pacman -S --noconfirm python-ujson
+sudo pacman -S --noconfirm python-urllib3
+sudo pacman -S --noconfirm python-wcwidth
+sudo pacman -S --noconfirm python-webencodings
+sudo pacman -S --noconfirm python-werkzeug
+sudo pacman -S --noconfirm python-wxpython
+sudo pacman -S --noconfirm python-xlib
+sudo pacman -S --noconfirm python-yaml
+sudo pacman -S --noconfirm python-zipp
+sudo pacman -S --noconfirm python-zope-interface
+sudo pacman -S --noconfirm python2
+sudo pacman -S --noconfirm python2-appdirs
+sudo pacman -S --noconfirm python2-asn1crypto
+sudo pacman -S --noconfirm python2-backports
+sudo pacman -S --noconfirm python2-cachecontrol
+sudo pacman -S --noconfirm python2-cffi
+sudo pacman -S --noconfirm python2-chardet
+sudo pacman -S --noconfirm python2-colorama
+sudo pacman -S --noconfirm python2-configparser
+sudo pacman -S --noconfirm python2-contextlib2
+sudo pacman -S --noconfirm python2-cryptography
+sudo pacman -S --noconfirm python2-distlib
+sudo pacman -S --noconfirm python2-distro
+sudo pacman -S --noconfirm python2-enum34
+sudo pacman -S --noconfirm python2-html5lib
+sudo pacman -S --noconfirm python2-idna
+sudo pacman -S --noconfirm python2-importlib-metadata
+sudo pacman -S --noconfirm python2-ipaddress
+sudo pacman -S --noconfirm python2-msgpack
+sudo pacman -S --noconfirm python2-ordered-set
+sudo pacman -S --noconfirm python2-packaging
+sudo pacman -S --noconfirm python2-pathlib2
+sudo pacman -S --noconfirm python2-pep517
+sudo pacman -S --noconfirm python2-pip
+sudo pacman -S --noconfirm python2-ply
+sudo pacman -S --noconfirm python2-progress
+sudo pacman -S --noconfirm python2-pycparser
+sudo pacman -S --noconfirm python2-pyopenssl
+sudo pacman -S --noconfirm python2-pyparsing
+sudo pacman -S --noconfirm python2-requests
+sudo pacman -S --noconfirm python2-resolvelib
+sudo pacman -S --noconfirm python2-retrying
+sudo pacman -S --noconfirm python2-scandir
+sudo pacman -S --noconfirm python2-setuptools
+sudo pacman -S --noconfirm python2-six
+sudo pacman -S --noconfirm python2-toml
+sudo pacman -S --noconfirm python2-urllib3
+sudo pacman -S --noconfirm python2-webencodings
+sudo pacman -S --noconfirm python2-zipp
+sudo pacman -S --noconfirm qca-qt5
+sudo pacman -S --noconfirm qemu
+sudo pacman -S --noconfirm qemu-arch-extra
+sudo pacman -S --noconfirm qemu-block-gluster
+sudo pacman -S --noconfirm qemu-block-iscsi
+sudo pacman -S --noconfirm qemu-block-rbd
+sudo pacman -S --noconfirm qgpgme
+sudo pacman -S --noconfirm qhull
+sudo pacman -S --noconfirm qpdf
+sudo pacman -S --noconfirm qqc2-desktop-style
+sudo pacman -S --noconfirm qrencode
+sudo pacman -S --noconfirm qt-gstreamer
+sudo pacman -S --noconfirm qt5-base
+sudo pacman -S --noconfirm qt5-declarative
+sudo pacman -S --noconfirm qt5-graphicaleffects
+sudo pacman -S --noconfirm qt5-imageformats
+sudo pacman -S --noconfirm qt5-location
+sudo pacman -S --noconfirm qt5-multimedia
+sudo pacman -S --noconfirm qt5-networkauth
+sudo pacman -S --noconfirm qt5-quickcontrols
+sudo pacman -S --noconfirm qt5-quickcontrols2
+sudo pacman -S --noconfirm qt5-script
+sudo pacman -S --noconfirm qt5-sensors
+sudo pacman -S --noconfirm qt5-serialport
+sudo pacman -S --noconfirm qt5-speech
+sudo pacman -S --noconfirm qt5-svg
+sudo pacman -S --noconfirm qt5-tools
+sudo pacman -S --noconfirm qt5-wayland
+sudo pacman -S --noconfirm qt5-webchannel
+sudo pacman -S --noconfirm qt5-webengine
+sudo pacman -S --noconfirm qt5-webkit
+sudo pacman -S --noconfirm qt5-x11extras
+sudo pacman -S --noconfirm qt5-xmlpatterns
+sudo pacman -S --noconfirm qt5pas
+sudo pacman -S --noconfirm qtermwidget
+sudo pacman -S --noconfirm qtkeychain-qt5
+sudo pacman -S --noconfirm quazip
+sudo pacman -S --noconfirm qv2ray
+sudo pacman -S --noconfirm qv2ray-plugin-trojan
+sudo pacman -S --noconfirm radeontool
+sudo pacman -S --noconfirm ragel
+sudo pacman -S --noconfirm rainbarf-git
+sudo pacman -S --noconfirm ranger
+sudo pacman -S --noconfirm rapidjson
+sudo pacman -S --noconfirm raptor
+sudo pacman -S --noconfirm rar
+sudo pacman -S --noconfirm rasqal
+sudo pacman -S --noconfirm rav1e
+sudo pacman -S --noconfirm rclone
+sudo pacman -S --noconfirm rclone-browser
+sudo pacman -S --noconfirm re2
+sudo pacman -S --noconfirm read-edid
+sudo pacman -S --noconfirm readline
+sudo pacman -S --noconfirm reaper-bin
+sudo pacman -S --noconfirm recode
+sudo pacman -S --noconfirm recordmydesktop
+sudo pacman -S --noconfirm redland
+sudo pacman -S --noconfirm reflector
+sudo pacman -S --noconfirm reiserfsprogs
+sudo pacman -S --noconfirm remmina
+sudo pacman -S --noconfirm rest
+sudo pacman -S --noconfirm rhash
+sudo pacman -S --noconfirm rime-bopomofo
+sudo pacman -S --noconfirm rime-cangjie
+sudo pacman -S --noconfirm rime-emoji
+sudo pacman -S --noconfirm rime-essay
+sudo pacman -S --noconfirm rime-luna-pinyin
+sudo pacman -S --noconfirm rime-prelude
+sudo pacman -S --noconfirm rime-stroke
+sudo pacman -S --noconfirm rime-terra-pinyin
+sudo pacman -S --noconfirm ripgrep
+sudo pacman -S --noconfirm rnnoise
+sudo pacman -S --noconfirm roccat-tools-common
+sudo pacman -S --noconfirm roccat-tools-kone
+sudo pacman -S --noconfirm roccat-tools-koneplus
+sudo pacman -S --noconfirm roccat-tools-konepure
+sudo pacman -S --noconfirm roccat-tools-konextd
+sudo pacman -S --noconfirm rocs
+sudo pacman -S --noconfirm rofi
+sudo pacman -S --noconfirm rpcbind
+sudo pacman -S --noconfirm rsync
+sudo pacman -S --noconfirm rtaudio
+sudo pacman -S --noconfirm rtkit
+sudo pacman -S --noconfirm rtmpdump
+sudo pacman -S --noconfirm rttr
+sudo pacman -S --noconfirm rubberband
+sudo pacman -S --noconfirm ruby
+sudo pacman -S --noconfirm ruby-diff-lcs
+sudo pacman -S --noconfirm ruby-irb
+sudo pacman -S --noconfirm ruby-manpages
+sudo pacman -S --noconfirm ruby-optimist
+sudo pacman -S --noconfirm ruby-paint
+sudo pacman -S --noconfirm ruby-rainbow
+sudo pacman -S --noconfirm ruby-rdoc
+sudo pacman -S --noconfirm ruby-reline
+sudo pacman -S --noconfirm ruby-rspec
+sudo pacman -S --noconfirm ruby-rspec-core
+sudo pacman -S --noconfirm ruby-rspec-expectations
+sudo pacman -S --noconfirm ruby-rspec-mocks
+sudo pacman -S --noconfirm ruby-rspec-support
+sudo pacman -S --noconfirm ruby-term-ansicolor
+sudo pacman -S --noconfirm ruby-tins
+sudo pacman -S --noconfirm rubygems
+sudo pacman -S --noconfirm run-parts
+sudo pacman -S --noconfirm runc
+sudo pacman -S --noconfirm rustup
+sudo pacman -S --noconfirm samba
+sudo pacman -S --noconfirm sane
+sudo pacman -S --noconfirm sbc
+sudo pacman -S --noconfirm scrcpy
+sudo pacman -S --noconfirm screen
+sudo pacman -S --noconfirm screenfetch
+sudo pacman -S --noconfirm screenkey
+sudo pacman -S --noconfirm scrot
+sudo pacman -S --noconfirm sd
+sudo pacman -S --noconfirm sddm
+sudo pacman -S --noconfirm sddm-kcm
+sudo pacman -S --noconfirm sddm-sugar-light
+sudo pacman -S --noconfirm sdl
+sudo pacman -S --noconfirm sdl2
+sudo pacman -S --noconfirm sdl2_image
+sudo pacman -S --noconfirm sdl2_mixer
+sudo pacman -S --noconfirm sdl2_ttf
+sudo pacman -S --noconfirm sdl_image
+sudo pacman -S --noconfirm sdl_mixer
+sudo pacman -S --noconfirm sdl_net
+sudo pacman -S --noconfirm sdl_sound
+sudo pacman -S --noconfirm sdl_ttf
+sudo pacman -S --noconfirm seabios
+sudo pacman -S --noconfirm sed
+sudo pacman -S --noconfirm semver
+sudo pacman -S --noconfirm serd
+sudo pacman -S --noconfirm sfml
+sudo pacman -S --noconfirm shaderc
+sudo pacman -S --noconfirm shadow
+sudo pacman -S --noconfirm shared-mime-info
+sudo pacman -S --noconfirm signon-kwallet-extension
+sudo pacman -S --noconfirm signon-plugin-oauth2
+sudo pacman -S --noconfirm signon-ui
+sudo pacman -S --noconfirm signond
+sudo pacman -S --noconfirm slang
+sudo pacman -S --noconfirm smartmontools
+sudo pacman -S --noconfirm smbclient
+sudo pacman -S --noconfirm smpeg
+sudo pacman -S --noconfirm snappy
+sudo pacman -S --noconfirm sndio
+sudo pacman -S --noconfirm snes9x-gtk
+sudo pacman -S --noconfirm socat
+sudo pacman -S --noconfirm solid
+sudo pacman -S --noconfirm sonnet
+sudo pacman -S --noconfirm sord
+sudo pacman -S --noconfirm sound-theme-freedesktop
+sudo pacman -S --noconfirm soundtouch
+sudo pacman -S --noconfirm source-highlight
+sudo pacman -S --noconfirm sox
+sudo pacman -S --noconfirm spandsp
+sudo pacman -S --noconfirm spectacle
+sudo pacman -S --noconfirm speedtest-cli
+sudo pacman -S --noconfirm speex
+sudo pacman -S --noconfirm speexdsp
+sudo pacman -S --noconfirm spglib
+sudo pacman -S --noconfirm spice
+sudo pacman -S --noconfirm spice-gtk
+sudo pacman -S --noconfirm spirv-tools
+sudo pacman -S --noconfirm sqlite
+sudo pacman -S --noconfirm sratom
+sudo pacman -S --noconfirm srt
+sudo pacman -S --noconfirm sshfs
+sudo pacman -S --noconfirm startup-notification
+sudo pacman -S --noconfirm steam
+sudo pacman -S --noconfirm steam-native-runtime
+sudo pacman -S --noconfirm step
+sudo pacman -S --noconfirm stk
+sudo pacman -S --noconfirm sudo
+sudo pacman -S --noconfirm suil
+sudo pacman -S --noconfirm suitesparse
+sudo pacman -S --noconfirm sunloginclient
+sudo pacman -S --noconfirm svgpart
+sudo pacman -S --noconfirm svt-av1
+sudo pacman -S --noconfirm svt-hevc
+sudo pacman -S --noconfirm sweeper
+sudo pacman -S --noconfirm swh-plugins
+sudo pacman -S --noconfirm syndication
+sudo pacman -S --noconfirm syntax-highlighting
+sudo pacman -S --noconfirm sysfsutils
+sudo pacman -S --noconfirm systemd
+sudo pacman -S --noconfirm systemd-libs
+sudo pacman -S --noconfirm systemd-swap
+sudo pacman -S --noconfirm systemd-sysvcompat
+sudo pacman -S --noconfirm systemsettings
+sudo pacman -S --noconfirm taglib
+sudo pacman -S --noconfirm talloc
+sudo pacman -S --noconfirm tar
+sudo pacman -S --noconfirm tbb
+sudo pacman -S --noconfirm tcl
+sudo pacman -S --noconfirm tdb
+sudo pacman -S --noconfirm tdlib
+sudo pacman -S --noconfirm teamspeak3
+sudo pacman -S --noconfirm teamspeak3-server
+sudo pacman -S --noconfirm telegram-desktop
+sudo pacman -S --noconfirm telepathy-accounts-signon
+sudo pacman -S --noconfirm telepathy-farstream
+sudo pacman -S --noconfirm telepathy-glib
+sudo pacman -S --noconfirm telepathy-kde-accounts-kcm
+sudo pacman -S --noconfirm telepathy-kde-approver
+sudo pacman -S --noconfirm telepathy-kde-auth-handler
+sudo pacman -S --noconfirm telepathy-kde-call-ui
+sudo pacman -S --noconfirm telepathy-kde-common-internals
+sudo pacman -S --noconfirm telepathy-kde-contact-list
+sudo pacman -S --noconfirm telepathy-kde-contact-runner
+sudo pacman -S --noconfirm telepathy-kde-desktop-applets
+sudo pacman -S --noconfirm telepathy-kde-filetransfer-handler
+sudo pacman -S --noconfirm telepathy-kde-integration-module
+sudo pacman -S --noconfirm telepathy-kde-send-file
+sudo pacman -S --noconfirm telepathy-kde-text-ui
+sudo pacman -S --noconfirm telepathy-logger
+sudo pacman -S --noconfirm telepathy-logger-qt
+sudo pacman -S --noconfirm telepathy-mission-control
+sudo pacman -S --noconfirm telepathy-qt
+sudo pacman -S --noconfirm tepl
+sudo pacman -S --noconfirm terraria-server
+sudo pacman -S --noconfirm tevent
+sudo pacman -S --noconfirm texinfo
+sudo pacman -S --noconfirm thefuck
+sudo pacman -S --noconfirm thin-provisioning-tools
+sudo pacman -S --noconfirm threadweaver
+sudo pacman -S --noconfirm tigervnc
+sudo pacman -S --noconfirm tinyxml
+sudo pacman -S --noconfirm tk
+sudo pacman -S --noconfirm tldr
+sudo pacman -S --noconfirm tlp
+sudo pacman -S --noconfirm tlp-rdw
+sudo pacman -S --noconfirm tlpui-git
+sudo pacman -S --noconfirm tmux
+sudo pacman -S --noconfirm todesk-bin
+sudo pacman -S --noconfirm totem-pl-parser
+sudo pacman -S --noconfirm traceroute
+sudo pacman -S --noconfirm tracker3
+sudo pacman -S --noconfirm tracker3-miners
+sudo pacman -S --noconfirm trash-cli
+sudo pacman -S --noconfirm tree-sitter
+sudo pacman -S --noconfirm trojan
+sudo pacman -S --noconfirm tslib
+sudo pacman -S --noconfirm ttf-dejavu
+sudo pacman -S --noconfirm ttf-droid
+sudo pacman -S --noconfirm ttf-hack
+sudo pacman -S --noconfirm ttf-inconsolata
+sudo pacman -S --noconfirm ttf-jetbrains-mono
+sudo pacman -S --noconfirm ttf-joypixels
+sudo pacman -S --noconfirm ttf-liberation
+sudo pacman -S --noconfirm ttf-linux-libertine
+sudo pacman -S --noconfirm ttf-monaco
+sudo pacman -S --noconfirm ttf-ms-fonts
+sudo pacman -S --noconfirm ttf-nerd-fonts-symbols
+sudo pacman -S --noconfirm ttf-opensans
+sudo pacman -S --noconfirm ttf-sarasa-gothic
+sudo pacman -S --noconfirm ttf-symbola
+sudo pacman -S --noconfirm ttf-ubuntu-font-family
+sudo pacman -S --noconfirm ttf-unifont
+sudo pacman -S --noconfirm twolame
+sudo pacman -S --noconfirm tzdata
+sudo pacman -S --noconfirm uchardet
+sudo pacman -S --noconfirm udftools
+sudo pacman -S --noconfirm udisks2
+sudo pacman -S --noconfirm ueberzug
+sudo pacman -S --noconfirm ufw
+sudo pacman -S --noconfirm umbrello
+sudo pacman -S --noconfirm unbound
+sudo pacman -S --noconfirm unibilium
+sudo pacman -S --noconfirm unicode-character-database
+sudo pacman -S --noconfirm unicode-cldr
+sudo pacman -S --noconfirm unicode-cldr-annotations
+sudo pacman -S --noconfirm unicode-emoji
+sudo pacman -S --noconfirm unityhub
+sudo pacman -S --noconfirm unzip
+sudo pacman -S --noconfirm upower
+sudo pacman -S --noconfirm usbmuxd
+sudo pacman -S --noconfirm usbredir
+sudo pacman -S --noconfirm usbutils
+sudo pacman -S --noconfirm util-linux
+sudo pacman -S --noconfirm util-linux-libs
+sudo pacman -S --noconfirm utools
+sudo pacman -S --noconfirm v2ray
+sudo pacman -S --noconfirm v2ray-domain-list-community
+sudo pacman -S --noconfirm v2ray-geoip
+sudo pacman -S --noconfirm v2raya
+sudo pacman -S --noconfirm v4l-utils
+sudo pacman -S --noconfirm v4l2loopback-dc-dkms
+sudo pacman -S --noconfirm v4l2loopback-dkms
+sudo pacman -S --noconfirm vala
+sudo pacman -S --noconfirm vamp-plugin-sdk
+sudo pacman -S --noconfirm vde2
+sudo pacman -S --noconfirm vdpauinfo
+sudo pacman -S --noconfirm ventoy-bin
+sudo pacman -S --noconfirm vi
+sudo pacman -S --noconfirm vid.stab
+sudo pacman -S --noconfirm vim
+sudo pacman -S --noconfirm vim-runtime
+sudo pacman -S --noconfirm virglrenderer
+sudo pacman -S --noconfirm virt-install
+sudo pacman -S --noconfirm virt-manager
+sudo pacman -S --noconfirm virtio-win
+sudo pacman -S --noconfirm virtualbox
+sudo pacman -S --noconfirm virtualbox-host-dkms
+sudo pacman -S --noconfirm visual-studio-code-bin
+sudo pacman -S --noconfirm vkd3d
+sudo pacman -S --noconfirm vlc
+sudo pacman -S --noconfirm vmaf
+sudo pacman -S --noconfirm volume_key
+sudo pacman -S --noconfirm vte-common
+sudo pacman -S --noconfirm vte3
+sudo pacman -S --noconfirm vtk
+sudo pacman -S --noconfirm vulkan-headers
+sudo pacman -S --noconfirm vulkan-icd-loader
+sudo pacman -S --noconfirm vulkan-radeon
+sudo pacman -S --noconfirm vulkan-tools
+sudo pacman -S --noconfirm w3m
+sudo pacman -S --noconfirm wavpack
+sudo pacman -S --noconfirm wayland
+sudo pacman -S --noconfirm wayland-protocols
+sudo pacman -S --noconfirm webkit2gtk
+sudo pacman -S --noconfirm webp-pixbuf-loader
+sudo pacman -S --noconfirm webrtc-audio-processing
+sudo pacman -S --noconfirm weechat
+sudo pacman -S --noconfirm wget
+sudo pacman -S --noconfirm which
+sudo pacman -S --noconfirm whois
+sudo pacman -S --noconfirm wildmidi
+sudo pacman -S --noconfirm wine-mono
+sudo pacman -S --noconfirm wine-valve
+sudo pacman -S --noconfirm winetricks
+sudo pacman -S --noconfirm wireless-regdb
+sudo pacman -S --noconfirm wl-clipboard
+sudo pacman -S --noconfirm wmctrl
+sudo pacman -S --noconfirm woff2
+sudo pacman -S --noconfirm wol
+sudo pacman -S --noconfirm wpa_supplicant
+sudo pacman -S --noconfirm wpebackend-fdo
+sudo pacman -S --noconfirm wqy-bitmapfont
+sudo pacman -S --noconfirm wqy-microhei
+sudo pacman -S --noconfirm wqy-microhei-lite
+sudo pacman -S --noconfirm wqy-zenhei
+sudo pacman -S --noconfirm wxgtk-common
+sudo pacman -S --noconfirm wxgtk3
+sudo pacman -S --noconfirm x11vnc
+sudo pacman -S --noconfirm x264
+sudo pacman -S --noconfirm x265
+sudo pacman -S --noconfirm x86_energy_perf_policy
+sudo pacman -S --noconfirm xapian-core
+sudo pacman -S --noconfirm xaw3d
+sudo pacman -S --noconfirm xcb-imdkit
+sudo pacman -S --noconfirm xcb-proto
+sudo pacman -S --noconfirm xcb-util
+sudo pacman -S --noconfirm xcb-util-cursor
+sudo pacman -S --noconfirm xcb-util-image
+sudo pacman -S --noconfirm xcb-util-keysyms
+sudo pacman -S --noconfirm xcb-util-renderutil
+sudo pacman -S --noconfirm xcb-util-wm
+sudo pacman -S --noconfirm xcb-util-xrm
+sudo pacman -S --noconfirm xclip
+sudo pacman -S --noconfirm xdg-dbus-proxy
+sudo pacman -S --noconfirm xdg-desktop-portal
+sudo pacman -S --noconfirm xdg-desktop-portal-kde
+sudo pacman -S --noconfirm xdg-user-dirs
+sudo pacman -S --noconfirm xdg-utils
+sudo pacman -S --noconfirm xdotool
+sudo pacman -S --noconfirm xerces-c
+sudo pacman -S --noconfirm xf86-input-evdev
+sudo pacman -S --noconfirm xf86-input-libinput
+sudo pacman -S --noconfirm xf86-input-synaptics
+sudo pacman -S --noconfirm xf86-input-vmmouse
+sudo pacman -S --noconfirm xf86-input-void
+sudo pacman -S --noconfirm xf86-video-amdgpu
+sudo pacman -S --noconfirm xf86-video-ati
+sudo pacman -S --noconfirm xf86-video-dummy
+sudo pacman -S --noconfirm xf86-video-fbdev
+sudo pacman -S --noconfirm xf86-video-intel
+sudo pacman -S --noconfirm xf86-video-nouveau
+sudo pacman -S --noconfirm xf86-video-openchrome
+sudo pacman -S --noconfirm xf86-video-qxl
+sudo pacman -S --noconfirm xf86-video-vesa
+sudo pacman -S --noconfirm xf86-video-vmware
+sudo pacman -S --noconfirm xf86-video-voodoo
+sudo pacman -S --noconfirm xfce4-notifyd
+sudo pacman -S --noconfirm xfce4-power-manager
+sudo pacman -S --noconfirm xfconf
+sudo pacman -S --noconfirm xfsprogs
+sudo pacman -S --noconfirm xjadeo
+sudo pacman -S --noconfirm xkeyboard-config
+sudo pacman -S --noconfirm xmlsec
+sudo pacman -S --noconfirm xmrig
+sudo pacman -S --noconfirm xorg-bdftopcf
+sudo pacman -S --noconfirm xorg-docs
+sudo pacman -S --noconfirm xorg-font-util
+sudo pacman -S --noconfirm xorg-fonts-100dpi
+sudo pacman -S --noconfirm xorg-fonts-75dpi
+sudo pacman -S --noconfirm xorg-fonts-alias-100dpi
+sudo pacman -S --noconfirm xorg-fonts-alias-75dpi
+sudo pacman -S --noconfirm xorg-fonts-encodings
+sudo pacman -S --noconfirm xorg-iceauth
+sudo pacman -S --noconfirm xorg-mkfontscale
+sudo pacman -S --noconfirm xorg-server
+sudo pacman -S --noconfirm xorg-server-common
+sudo pacman -S --noconfirm xorg-server-devel
+sudo pacman -S --noconfirm xorg-server-xephyr
+sudo pacman -S --noconfirm xorg-server-xnest
+sudo pacman -S --noconfirm xorg-server-xvfb
+sudo pacman -S --noconfirm xorg-sessreg
+sudo pacman -S --noconfirm xorg-setxkbmap
+sudo pacman -S --noconfirm xorg-smproxy
+sudo pacman -S --noconfirm xorg-util-macros
+sudo pacman -S --noconfirm xorg-x11perf
+sudo pacman -S --noconfirm xorg-xauth
+sudo pacman -S --noconfirm xorg-xcmsdb
+sudo pacman -S --noconfirm xorg-xcursorgen
+sudo pacman -S --noconfirm xorg-xdpyinfo
+sudo pacman -S --noconfirm xorg-xdriinfo
+sudo pacman -S --noconfirm xorg-xev
+sudo pacman -S --noconfirm xorg-xgamma
+sudo pacman -S --noconfirm xorg-xhost
+sudo pacman -S --noconfirm xorg-xinit
+sudo pacman -S --noconfirm xorg-xinput
+sudo pacman -S --noconfirm xorg-xkbcomp
+sudo pacman -S --noconfirm xorg-xkbevd
+sudo pacman -S --noconfirm xorg-xkbutils
+sudo pacman -S --noconfirm xorg-xkill
+sudo pacman -S --noconfirm xorg-xlsatoms
+sudo pacman -S --noconfirm xorg-xlsclients
+sudo pacman -S --noconfirm xorg-xmessage
+sudo pacman -S --noconfirm xorg-xmodmap
+sudo pacman -S --noconfirm xorg-xpr
+sudo pacman -S --noconfirm xorg-xprop
+sudo pacman -S --noconfirm xorg-xrandr
+sudo pacman -S --noconfirm xorg-xrdb
+sudo pacman -S --noconfirm xorg-xrefresh
+sudo pacman -S --noconfirm xorg-xset
+sudo pacman -S --noconfirm xorg-xsetroot
+sudo pacman -S --noconfirm xorg-xvinfo
+sudo pacman -S --noconfirm xorg-xwayland
+sudo pacman -S --noconfirm xorg-xwd
+sudo pacman -S --noconfirm xorg-xwininfo
+sudo pacman -S --noconfirm xorg-xwud
+sudo pacman -S --noconfirm xorgproto
+sudo pacman -S --noconfirm xplane-sdk-devel
+sudo pacman -S --noconfirm xray
+sudo pacman -S --noconfirm xray-domain-list-community
+sudo pacman -S --noconfirm xray-geoip
+sudo pacman -S --noconfirm xsel
+sudo pacman -S --noconfirm xtensa-lx106-elf-gcc-bin
+sudo pacman -S --noconfirm xvidcore
+sudo pacman -S --noconfirm xxhash
+sudo pacman -S --noconfirm xz
+sudo pacman -S --noconfirm yajl
+sudo pacman -S --noconfirm yakuake
+sudo pacman -S --noconfirm yaml-cpp
+sudo pacman -S --noconfirm yaourt
+sudo pacman -S --noconfirm yarn
+sudo pacman -S --noconfirm yasm
+sudo pacman -S --noconfirm yelp-tools
+sudo pacman -S --noconfirm yelp-xsl
+sudo pacman -S --noconfirm you-get
+sudo pacman -S --noconfirm yubico-c
+sudo pacman -S --noconfirm yubico-c-client
+sudo pacman -S --noconfirm yubikey-personalization
+sudo pacman -S --noconfirm zbar
+sudo pacman -S --noconfirm zenity
+sudo pacman -S --noconfirm zeroconf-ioslave
+sudo pacman -S --noconfirm zeromq
+sudo pacman -S --noconfirm zile
+sudo pacman -S --noconfirm zimg
+sudo pacman -S --noconfirm zip
+sudo pacman -S --noconfirm zita-alsa-pcmi
+sudo pacman -S --noconfirm zita-resampler
+sudo pacman -S --noconfirm zlib
+sudo pacman -S --noconfirm zsh
+sudo pacman -S --noconfirm zstd
+sudo pacman -S --noconfirm zvbi
+sudo pacman -S --noconfirm zxing-cpp
