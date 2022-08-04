@@ -1,0 +1,1 @@
+sudo mount -t cifs //192.168.247.1/ShareLinux /home/fan/Share -o username=Administrator,password=fan
